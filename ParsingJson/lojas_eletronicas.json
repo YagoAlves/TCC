@@ -1,0 +1,796 @@
+[
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7274428,
+				"lng": -38.530126800000005
+			},
+			"viewport": {
+				"south": -3.728836130291503,
+				"west": -38.5313240302915,
+				"north": -3.726138169708499,
+				"east": -38.52862606970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "3f045865df188003e33680f2e779c2503cb6af88",
+		"name": "Magazine Luiza Centro de Fortaleza - Loja 740",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 600,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/104031535564155373118/photos\">Magazine Luiza Centro de Fortaleza - Loja 740</a>"
+				],
+				"width": 800
+			}
+		],
+		"place_id": "ChIJCX02pq1JxwcRO41T7ebNFDM",
+		"rating": 1.5,
+		"reference": "CmRRAAAAP1ekfR-KyDvBsnc0Kl1VE_eNGBy0SDm_3ZbTrYvtOQlgN_2odpPlnc_TtNtoDyWC6i74zOh5sND14544Elxtuoj98xosYaTzWuZTbGBwtraI94gUV12nYyftGj2p8r5-EhATrJQIsGNTDFll6492iO3sGhTAiiPO48o2hXYGQFgVP89UwMBNNQ",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"furniture_store",
+			"home_goods_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Senador Pompeu, 1012 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8310936,
+				"lng": -38.49358330000001
+			},
+			"viewport": {
+				"south": -3.832581230291502,
+				"west": -38.49493968029151,
+				"north": -3.829883269708498,
+				"east": -38.49224171970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "ac49137ecbe7a944e7b6038648b7f8b5a9194c80",
+		"name": "Magazine Luiza",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1456,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/113070678045439600263/photos\">Rodolfo Vieira</a>"
+				],
+				"width": 2592
+			}
+		],
+		"place_id": "ChIJT1-K5PxPxwcRfvGViiWzxhw",
+		"rating": 3.6,
+		"reference": "CmRRAAAA98YKkRC_6hAB7scjqf8dIcZjHFH8wdYE9zUZOkNE-dm4iYcCLP-_dcCN7AUpt9JFgndyfnHS-SFEtr8exKwHRPiwnppnBzLxQ1QeZSEeJMAoc8Mchg8jWRVzi3uX8LhdEhAvxx7W51lHv8YDjW1FXkykGhTB0jH8d1KD953mCOer-O71mI65kw",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"furniture_store",
+			"home_goods_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Joaquim Bezerra, 185 - Messejana, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7372959,
+				"lng": -38.4818712
+			},
+			"viewport": {
+				"south": -3.738519280291502,
+				"west": -38.48366313029146,
+				"north": -3.735821319708498,
+				"east": -38.4809651697085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "7f2faa726548ee72cf2a654515523896c4505418",
+		"name": "Hiper Bompreço",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2340,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111889601360898502199/photos\">Thyago Clemente</a>"
+				],
+				"width": 4160
+			}
+		],
+		"place_id": "ChIJRUtY0CpGxwcRKITX8ck4uNk",
+		"rating": 3.7,
+		"reference": "CmRSAAAAG6HrIGLpLaB8zsSflJ0VH5EGlFObUlmKnpaV6m-O3Z0k7LPuK5R5CbswJfRe4hIEVdbzGUBesixzOMluMyXHnuJp-XLnay5gepTS08rS-AaPXdUxOrGb73SF-VGpowKdEhDnpDp_Lu_ZzPKXtQ1pWbeHGhQCczE6x7BIeVk6Eb0PtDC6aPCpww",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"grocery_or_supermarket",
+			"food",
+			"home_goods_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Engenheiro Santana Jr., 999 - Cocó, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7285161,
+				"lng": -38.53041380000002
+			},
+			"viewport": {
+				"south": -3.729905230291502,
+				"west": -38.5316362302915,
+				"north": -3.727207269708498,
+				"east": -38.52893826970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "6c593703bd98db04313e1136b6ddd3bfa129d35f",
+		"name": "Atacadão dos Eletrodomésticos Ltda",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJZXFiUKxJxwcRp6tQE15ionc",
+		"reference": "CmRRAAAAHZ1aMueaCE5qzX-N3EJN4YOdBQwH2lIHWB1YsfWggFLNjHyzo_KG8M7S_fkDY_NW2_zwSyeL_38sLv0j4fes0acKvfbVCWl037PLkZlxFN9hatA2TYxxe3yLIRwUF5blEhCJ0O3SIfB6AbNwLDgdzconGhTwg7GpOg0vsa8ce_FOAJn1qktgyA",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"furniture_store",
+			"home_goods_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Senador Pompeu, 1130 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.735593,
+				"lng": -38.56624099999999
+			},
+			"viewport": {
+				"south": -3.736941980291502,
+				"west": -38.56758998029147,
+				"north": -3.734244019708497,
+				"east": -38.56489201970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "152363bb98eec42fc80203559286f76c11b4e858",
+		"name": "Magazine Luiza North Shopping Fortaleza - Loja 742",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1000,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/110092179736480659660/photos\">Magazine Luiza North Shopping Fortaleza - Loja 742</a>"
+				],
+				"width": 1000
+			}
+		],
+		"place_id": "ChIJD-a98HVJxwcRT5PD5e5Alqw",
+		"rating": 2.5,
+		"reference": "CmRSAAAA5zFjhQG-3RmdHKiDy2F2iZkkSZIFuavc_ZQ_mUgW_2sx4sx48a_6JoTEVQHsapTFO58f11B1tsY_7XKvWqeBoRJ94IluB8w23rimJUG9AkNZzV6J4wzni6GPdhjXH-x1EhBwWI1U7Tdq8hNvbuZ3ZpdWGhSwvZgIHwEsOqbnq5iRNofS8FNa3A",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"furniture_store",
+			"home_goods_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Bezerra de Menezes, 2.450 - São Gerardo, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.792881999999999,
+				"lng": -38.53490900000003
+			},
+			"viewport": {
+				"south": -3.794266980291501,
+				"west": -38.53629393029149,
+				"north": -3.791569019708497,
+				"east": -38.53359596970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "7b70be0bbcaac08e1a72975b43bf7054be0dd79d",
+		"name": "Hollywood Video locadora e conveniência",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJZ64BQ5NOxwcRKUcQdYmtF3o",
+		"price_level": 2,
+		"rating": 5,
+		"reference": "CmRRAAAAh1odNGJoZdwqpCNYN6fNnVR5StYtXpxMle8I-ppZwH5uFRluX_LCP8K8El7dD0OazdANAyKQobAhm7uRSEAJUevNybLCBi7Gq6KsL4pY9858JcuXZIsQUYyJ-uq-s2v4EhDA_GC9ODie_3iPMA8j6njyGhRl8FrZXiNQvSAQl4eH_cJIPYehhw",
+		"scope": "GOOGLE",
+		"types": [
+			"movie_theater",
+			"electronics_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Doutor Silas Munguba, 4573 - Serrinha, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.743978199999999,
+				"lng": -38.512129500000015
+			},
+			"viewport": {
+				"south": -3.745345530291502,
+				"west": -38.51341678029149,
+				"north": -3.742647569708498,
+				"east": -38.51071881970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "be80523babc45694d280f5a6e6bc90eda0245fa6",
+		"name": "Loja Ibyte - Avenida Rui Barbosa",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2592,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/109182396420981523841/photos\">Ki ta conteçendo</a>"
+				],
+				"width": 4608
+			}
+		],
+		"place_id": "ChIJLynUGu5IxwcR37up_a0OH9s",
+		"rating": 3.7,
+		"reference": "CmRSAAAA5lCoFQbmYnZVOKkoZGxbgogHD_YvKam94YKtQBn9uF-Y1TKgfCkRtAs7-ne9MaohAVhwTDac5hwuybtbn8BsZgQjsuv4t3L8T6hE1f6U7OK8D5KnmbOcKNRKvW-t2OUKEhB1lXkWnzHIOagoqhlcy7HJGhQeXjl5Zr1LONuB3W1M00GjjJTU9A",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Rui Barbosa, 2456 - Joaquim Távora, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7290066,
+				"lng": -38.52851390000001
+			},
+			"viewport": {
+				"south": -3.730385630291502,
+				"west": -38.529774980291506,
+				"north": -3.727687669708498,
+				"east": -38.527077019708486
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "544315573204f3442c64035d5f07eca950da8f75",
+		"name": "Click Mix",
+		"place_id": "ChIJSeD7waxJxwcRCPzzTvU5kic",
+		"rating": 3.8,
+		"reference": "CmRRAAAAAIDnM_76xVZlkRscCLKZ9zl8OAORmgeqv4wIYyctd7cJuUxcPBY8UABIOJg1nx7Gl6XsxEtrD-iRVg1jR0udnCRnE20YzImviuFPjdFdR6OAahUJq92kK4wx17HjIA77EhC9Cm0NDtWZyoBADB_Osx4BGhT17JHrxid8iw6ydsFCasoEAEfHIw",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"home_goods_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Major Facundo, 692 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.730753,
+				"lng": -38.52731440000002
+			},
+			"viewport": {
+				"south": -3.732090180291503,
+				"west": -38.528700630291496,
+				"north": -3.729392219708498,
+				"east": -38.52600266970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "95afeca1e338348ff278eedaba14c75ad5a9ed34",
+		"name": "Super Film Digital",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 866,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/110518092039948221141/photos\">Super Film Digital</a>"
+				],
+				"width": 866
+			}
+		],
+		"place_id": "ChIJWfeHUatJxwcRNHKLReaQxLc",
+		"rating": 4.9,
+		"reference": "CmRSAAAAS1f2sfvwDSBf-ZyU8EGZY4HBa3cNvHV6O823nfcVmEwZe-RyHB8tqyWiK7N9l0kabw9bZeRcA8W85jKV6zjK3o8KjQAwHOI3b_wey8q7SGS7dMM8TrhFbgOlsFaiLVwaEhDI-D7e7VkTc1ogGa1h--mzGhQJoNYK0VNGeRIt1jjrM35uxaHeKg",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"home_goods_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Assunção, 67 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7985929,
+				"lng": -38.47936600000003
+			},
+			"viewport": {
+				"south": -3.799956430291503,
+				"west": -38.48085788029152,
+				"north": -3.797258469708498,
+				"east": -38.4781599197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "8b93f55c75a1bdd0977d12a3ad3ec78aae81b53b",
+		"name": "CMS Informatica",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 960,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/100668245922847933307/photos\">robertopoty poty</a>"
+				],
+				"width": 1280
+			}
+		],
+		"place_id": "ChIJf_Nf4oNFxwcRYjQzbLa2nNQ",
+		"rating": 3,
+		"reference": "CmRSAAAAlyuMsHYh4fk6E2h23E5-OeGeOQg_gmXDKib2YDHEcehJaEn1wfpXLTfEgg_xGVoBi3zwIExSBLkLMLdJfplMQd1lqI2UTcmJo_2_4R6_HrhHj5chz_JkQP7D2HDJEew3EhB8uFEl1cZI_w0msoVdHKMrGhQelXGiW3Usjj6fnLGJ2VGvReK6gg",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Washington Soares, 4567 - Loja 11 - Lagoa Sapiranga (Coité), Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7324437,
+				"lng": -38.50056230000001
+			},
+			"viewport": {
+				"south": -3.733697480291502,
+				"west": -38.501878330291504,
+				"north": -3.730999519708497,
+				"east": -38.49918036970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "d07c9568fe31c52cea86cc2f6b1f919c84dcc903",
+		"name": "Loja Ibyte - Avenida Dom Luís",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1313,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/110328770310507887081/photos\">Loja Ibyte - Avenida Dom Luís</a>"
+				],
+				"width": 2048
+			}
+		],
+		"place_id": "ChIJYb2U42NIxwcRe67NbgqpbF0",
+		"rating": 3.8,
+		"reference": "CmRRAAAAGB2KHnJ9NWU6qzojS-dFj8-Uahz18PEBgdc-4_iVXj2KY8rdv_NJkJBnnfQ6Yc_Hx9EapLi48US7ryNbdaYNor3IUvCVE41CvLOApsGVy-ky0qkRTYLzAaGRXdi3EkidEhBlwFZtMEuCBoowEVQr4eC4GhTkSEDVu8uub_oACWdz3u2oTmUKbQ",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Dom Luís, 100 - Meireles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7663102,
+				"lng": -38.54817700000001
+			},
+			"viewport": {
+				"south": -3.767628130291503,
+				"west": -38.549497230291536,
+				"north": -3.764930169708498,
+				"east": -38.546799269708515
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "283893ed152af00d5fcc257ee8156d14ddaf3de6",
+		"name": "Dr Micro",
+		"place_id": "ChIJLVoe4kpJxwcR2wmGPXrvhUk",
+		"reference": "CmRRAAAAEfCndirByy-d1pB7MEJ1PDpNQUTWCozwO9zSlXmsZE1hgz_vdvsWTBWWelcHiC1OC4z10o53JunA8LSb2r0a5pxSvbSRiPQLw2nh5qBgFy5moPtx_MS5NZ4GmERiIiMvEhAlTtdnxoVa6na2EGjPbX0qGhQOFrAKvXSM5xriRFuOFqPdeuFqFg",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Alan Kardec, 774 - Montese, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.730682,
+				"lng": -38.51184699999999
+			},
+			"viewport": {
+				"south": -3.732032780291502,
+				"west": -38.51319018029153,
+				"north": -3.729334819708498,
+				"east": -38.51049221970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "e4d622db905cbb48b8b2967f95e1556fe42c487b",
+		"name": "CStore",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1536,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/106304393067382251413/photos\">Marcus Meneses</a>"
+				],
+				"width": 2048
+			}
+		],
+		"place_id": "ChIJl3s3_VtIxwcRLpk00YcBkug",
+		"rating": 4.5,
+		"reference": "CmRSAAAAkJJTPlkNIPWJLUP4SwGZhWFyjVjdK89OydexnzlIVkxWTU9xnYkKkaMKmoSiFLN-2RJ7GbAAOhZx5oG1_Xav3OWpjo3CR0CJANn_7i5ko-JJG5x4H5JHAQV8RqRl52vgEhDeJBoFISBri72B7UleKcOGGhQjhGKNtCYvjD6JoX7hnifTGvvWTg",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Isac Meyer, 115 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7309155,
+				"lng": -38.530755
+			},
+			"viewport": {
+				"south": -3.732252980291503,
+				"west": -38.53214583029148,
+				"north": -3.729555019708498,
+				"east": -38.52944786970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "63dfbb51545ad9cceec794352c5f189d9b21abfb",
+		"name": "Foto Planalto Color",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 400,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/112436418187310615469/photos\">Natalia Fernandes</a>"
+				],
+				"width": 690
+			}
+		],
+		"place_id": "ChIJzzxBkqtJxwcRg-BGyhmUn4U",
+		"rating": 3.4,
+		"reference": "CmRSAAAAUummYpEgNjebtyeCiCDF5Fa2xJuR8e0UYvFAhbTpzwCfSdJ6PHdEKVLn5KKG7w_TW0wNFVSEyDGnSEMPLmOyQ22kSFm1QUyKozXmV3iSPrXe3sO3orJdEX9DVugxMGVdEhD-3LDrmyZjiqJJLNMaK4UBGhQrkJw6MTaABs3X_apz2Fgw8P-b9w",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"home_goods_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Senador Pompeu, 1391 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.728620399999999,
+				"lng": -38.528770899999984
+			},
+			"viewport": {
+				"south": -3.729941330291502,
+				"west": -38.5302097802915,
+				"north": -3.727243369708498,
+				"east": -38.52751181970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "9c1b0944b901271df48f1129344b0267a8a18ebf",
+		"name": "Atacadão dos Eletros",
+		"place_id": "ChIJ3Zlg5axJxwcRr4oyrSXcghk",
+		"reference": "CmRRAAAAn_Xv2yM6SfNM3ydMubWZHMldUEDJJmeYcwMBC9W3g-sP4DuwoKY_FpRrFeYcoi33hnn5sRHsqVjo9HOXguCUMggHjtJjDdTBBxXgPnMRxZpgUC20_qyADsIf1HP8wveGEhCXKB3qtnEusC9J0xKseoxeGhTFbeatlSd6wZUEj3OISODDUxOWFQ",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"furniture_store",
+			"home_goods_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Barão do Rio Branco, 1169 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.754608,
+				"lng": -38.48897699999998
+			},
+			"viewport": {
+				"south": -3.755956980291502,
+				"west": -38.49032598029146,
+				"north": -3.753259019708498,
+				"east": -38.487628019708495
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "9d05df9bbc6091e586ec69f885c0e4fc7bb1b8cf",
+		"name": "Nagem",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 510,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/108204965827696630316/photos\">Nagem</a>"
+				],
+				"width": 510
+			}
+		],
+		"place_id": "ChIJ952n46BIxwcRPhXWBPACzWw",
+		"rating": 4,
+		"reference": "CmRRAAAAbK-6xxgFyhuewycl1SdAFMMmkYJcQ-kYZEZtqLxLipLHNfdjlBw_eLTCVHcFST-otESSIt8mTWqFGXBqzBDffG6drVP6RJP2B9CSzA_abKeFJgoGVgaEJpMNDF0JRskiEhACflBUxq-5yd5FZUhlp8aDGhRf-9ugMHDbLCPzVWTKSmvcq5GdMQ",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Washington Soares, 85 - LJ 60/61 PISO 1 - Edson Queiroz, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7910542,
+				"lng": -38.48067609999998
+			},
+			"viewport": {
+				"south": -3.792391830291503,
+				"west": -38.48189088029153,
+				"north": -3.789693869708498,
+				"east": -38.47919291970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "8037e9d5deb8c2a12e63a40f7431ad28ca93f1a9",
+		"name": "Cecomil",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 4128,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115976375982524485571/photos\">Olavo Oliveira Neto</a>"
+				],
+				"width": 3096
+			}
+		],
+		"place_id": "ChIJr4oU7ItFxwcRLfGm53S7BTo",
+		"rating": 4.1,
+		"reference": "CmRRAAAA9wWIImWQ23Y-QgtPA3k-e4JpbOdILOO5HuuWV0NVbTzgdmBA047uAuo1JxKKrwmihKkpdkTCEq0Ib3cROOzqzaNDsL6hdNbYXK5SLtCByD68azy1NYYKvUhh-0ZGMGiqEhC1G800Tl3eApuK0Hi3La9eGhR8Em1PrqwsfAewSa7wcT_GwKQaHQ",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Washington Soares, 3690 - Edson Queiroz",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7355594,
+				"lng": -38.566374199999984
+			},
+			"viewport": {
+				"south": -3.736908380291502,
+				"west": -38.56772318029152,
+				"north": -3.734210419708498,
+				"east": -38.5650252197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "083f3926f223edccf386064ddf85986ef25d2867",
+		"name": "Insinuante",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJT0Xye35JxwcR9qi-M5Pygos",
+		"rating": 1.9,
+		"reference": "CmRSAAAACVL42lc2QUb0QCEjZUICXEJxYDSfn0cRftx5LqDcuXQ6Uyr0gKQY21Z-9XZaPFEGA7XP0B8rzo2ZdLwQsdV-gj1lvrfKSueHiGxgQmHAoUUU1nmTDxA7u2LmhPjrInnwEhDSTT9JP0Mxo_0RdPEZUC2-GhSq7CBd5VMU0TFZ1ixGkwl-HdwFHg",
+		"scope": "GOOGLE",
+		"types": [
+			"store",
+			"department_store",
+			"shoe_store",
+			"book_store",
+			"electronics_store",
+			"home_goods_store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Bezerra de Menezes, 2450 - Loja 400 - São Gerardo, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.757531,
+				"lng": -38.48794609999999
+			},
+			"viewport": {
+				"south": -3.758879980291502,
+				"west": -38.48929508029153,
+				"north": -3.756182019708498,
+				"east": -38.486597119708506
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "6e8149adb581c01c610d2c6d1de00c8d0b148330",
+		"name": "Saraiva",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3024,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/106659480058868684846/photos\">petrusfreire</a>"
+				],
+				"width": 4032
+			}
+		],
+		"place_id": "ChIJ6Zt8G6RIxwcREaQipfb_uSw",
+		"rating": 3.9,
+		"reference": "CmRRAAAAatEJAQI8TeEQvC4pHXXDoWyQ_AIUUndjTL8BjdUzcRAnxtjbKXjlvgtN5aYp_ca2BixNXm6O7noxcrnTJZ0zRobxrnG2jWmtbIbuv68jiJOeomlHYtFtpEseEEri9t_mEhBQZuh3bIwZI98vf-eHU2PHGhSR9GPas_ihLz7_6FugIPAxTZAZPA",
+		"scope": "GOOGLE",
+		"types": [
+			"book_store",
+			"electronics_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Washington Soares, 85 - 68 - Edson Queiroz, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7572878,
+				"lng": -38.48769979999997
+			},
+			"viewport": {
+				"south": -3.758636780291503,
+				"west": -38.48904878029151,
+				"north": -3.755938819708498,
+				"east": -38.48635081970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "a8406a986821855af91db912464da6dc28ceb9ff",
+		"name": "Loja Ibyte - Iguatemi - Avenida Washington Soares",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1356,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/103215713422969668998/photos\">Loja Ibyte - Iguatemi - Avenida Washington Soares</a>"
+				],
+				"width": 2048
+			}
+		],
+		"place_id": "ChIJ-YBhG6RIxwcRwu8CzgtTgro",
+		"rating": 3.4,
+		"reference": "CmRSAAAA4dIMaZN6mVkyygKJCZXp2e9MalipmN3Wf6xSaNBxrupP6DeR9tlw2kBlm0gdbmB1GmzH89VpGl2xfyKKA8P5hVIOs0GDsk3YcPCJsMGhCLrjn7rrlZ3P6Sw5OMHxvC8-EhCtqcm4Xe_cGT1y39BJfvX8GhSW3dEc4EM153XHamE1Lm2HAYKp-Q",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Condomínio do Shopping Center Iguatemi - Avenida Washington Soares, 85 - Edson Queiroz, Fortaleza",
+		"html_attributions": []
+	}
+]

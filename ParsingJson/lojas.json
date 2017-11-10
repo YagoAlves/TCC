@@ -1,0 +1,797 @@
+[
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7231548,
+				"lng": -38.5238104
+			},
+			"viewport": {
+				"south": -3.724503780291502,
+				"west": -38.525159380291484,
+				"north": -3.721805819708497,
+				"east": -38.52246141970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "a92b1747789d7b2a8dd9bc674ac610d8c2e4820d",
+		"name": "Mercado Central de Fortaleza",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 656,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/101288789785510687479/photos\">Alvaro Aguiar</a>"
+				],
+				"width": 1588
+			}
+		],
+		"place_id": "ChIJm5VAiEtIxwcR_WGZCaE11W4",
+		"rating": 4.2,
+		"reference": "CmRRAAAArH52oblJMAfUlPb9W7DtP_QZG-6oYiWE2a3s6xj88Z0Yq1CVcPiS6Ntv-enWpKfe_tAs2ws8i_fcztSdBS04wjyUOlCpbb_Ss8LlxbNqlqpeDRhwGD1mGSibAt7RGuvNEhDREpVsLGABA82DaChsSw36GhTmsBZk6C-ErjQzSPMywjJke6tdkw",
+		"scope": "GOOGLE",
+		"types": [
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Alberto Nepomuceno, 199 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7258606,
+				"lng": -38.52739930000001
+			},
+			"viewport": {
+				"south": -3.727226280291503,
+				"west": -38.52869438029148,
+				"north": -3.724528319708498,
+				"east": -38.52599641970846
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "8d742b703c2116e64d0836a3226b2b00f5119655",
+		"name": "Paulinas Livraria Fortaleza - CE | Centro",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2560,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/107092173896029892754/photos\">Jorge Nogueira</a>"
+				],
+				"width": 1440
+			}
+		],
+		"place_id": "ChIJn1YDrLJJxwcRsLbWBxBIZF0",
+		"rating": 4.2,
+		"reference": "CmRRAAAAX1k6Jo9wjIXbnyde2Ci3SfRwywp1l5aqxOpV2XwwpSdHcqAUXnX5KASsBFIm4oPaPgXKlo_BjL7LWih1xcu3hQ99To6s0QBEpIVmtaiOeWlFZkdnT7gLoeV8XESz5Gt7EhBCI3RaAWb-gm7p8aEREld3GhRNnqlPudOJzma7oQk09_LanSlxgQ",
+		"scope": "GOOGLE",
+		"types": [
+			"book_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Major Facundo, 332 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.734042799999999,
+				"lng": -38.496900400000015
+			},
+			"viewport": {
+				"south": -3.735260380291501,
+				"west": -38.498325430291516,
+				"north": -3.732562419708497,
+				"east": -38.495627469708495
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "e837481e12ee454b6072a86f18a28fab6c6e2b46",
+		"name": "ZEFIRELLI (Shopping Aldeota L1)",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJwaaMJmNIxwcRsG2B_iL8eto",
+		"rating": 5,
+		"reference": "CmRSAAAAuM1efMaaWPvMSkUG1rzukjIe0jnDn8Tn-_Aso8gqRA7WNbrEKAClY9w_rGAvVxVnHSlnrzrc0-QUmirFIvxE4qcY7ih4um2SWhxBQ05qbUsa4HfG-teN47Nr9_urP6MgEhCl9z6Slucl3WQdHbTMsfijGhSYPpQciefm_0isNcfDCdK6jAZnyA",
+		"scope": "GOOGLE",
+		"types": [
+			"clothing_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Dom Luís, 500 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.724546899999999,
+				"lng": -38.50369749999999
+			},
+			"viewport": {
+				"south": -3.725946130291501,
+				"west": -38.50506288029146,
+				"north": -3.723248169708496,
+				"east": -38.5023649197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "b369877a68dc1494d349854207f7ecbc1c5a3e41",
+		"name": "I Love Tattoo Studio",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2322,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/104191195102873929050/photos\">Ramona Melo</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJLd7QvGNIxwcRGgzoymI_U8w",
+		"rating": 4.7,
+		"reference": "CmRSAAAAtKAYrxk2WAnIy71pgsMQkGDYoWdAIGpvDIr9X77ozPsArIl9M7gj0VmpGMRQtlWALAX7A5zPQwcz5N6Giu5eQR_zuB230F7f8sIIm7Nge-mIkvZoLY2EHg7sincBVH5OEhB9QL8TGArnAW0nOQKMedNrGhRFsjlisJneFqtyXdaIJ03hYDKgWA",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"bar",
+			"night_club",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "A - Avenida Monsenhor Tabosa, 1717 - Meireles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7274428,
+				"lng": -38.530126800000005
+			},
+			"viewport": {
+				"south": -3.728836130291503,
+				"west": -38.5313240302915,
+				"north": -3.726138169708499,
+				"east": -38.52862606970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "3f045865df188003e33680f2e779c2503cb6af88",
+		"name": "Magazine Luiza Centro de Fortaleza - Loja 740",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 600,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/104031535564155373118/photos\">Magazine Luiza Centro de Fortaleza - Loja 740</a>"
+				],
+				"width": 800
+			}
+		],
+		"place_id": "ChIJCX02pq1JxwcRO41T7ebNFDM",
+		"rating": 1.5,
+		"reference": "CmRRAAAAN4la-N5SeaC14VRcS2VhOVp0rA-hjhh9aoqaN6HLrWjily6D3_1UBlxZCpmk_tSHis92aoUiRpwOs-UxtPJHFB0bGyCw-HYSB042aRaHUaV-sS_pPQjPP0quxpNKgny5EhDcnu9NevmgnC0q1GS8M_qxGhQmyglOMpUqDIFHAbPcW6kaKO-0oA",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"furniture_store",
+			"home_goods_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Senador Pompeu, 1012 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7342578,
+				"lng": -38.56677639999998
+			},
+			"viewport": {
+				"south": -3.7366353,
+				"west": -38.5677690802915,
+				"north": -3.733465300000001,
+				"east": -38.56507111970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "410b1b50cfd1dd7aee30a5fd6456b75f0b6135c3",
+		"name": "Marisa",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 4128,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/116135329895166787426/photos\">Daniel Neves</a>"
+				],
+				"width": 3096
+			}
+		],
+		"place_id": "ChIJT0Xye35JxwcRP8p2NHZftfw",
+		"rating": 3,
+		"reference": "CmRSAAAA6ndoPScqnH7KCB_T5PaVlm8jYfV1n08Tf16E1JS6ZQNNDmsyZ5IMyz6JhM6wLJVCPhVwyjeQ84ZczLAdqSJlRlFKmjuyATHdTD0V1UL29h-seHux4XDjQVUKutUHRMZ0EhA-p_X458erbWoj5WM36bhYGhTbWPhWXyEh_1xRFHyGFQ9PTH4-dA",
+		"scope": "GOOGLE",
+		"types": [
+			"clothing_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Bezerra de Menezes, 2450, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7958028,
+				"lng": -38.480374900000015
+			},
+			"viewport": {
+				"south": -3.797163030291502,
+				"west": -38.48171348029149,
+				"north": -3.794465069708498,
+				"east": -38.47901551970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "68f78c1254aa8121be439e278e3121c0d75aa7ae",
+		"name": "6Bocas Autocenter",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2250,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/112534972511793089478/photos\">6Bocas Autocenter</a>"
+				],
+				"width": 4000
+			}
+		],
+		"place_id": "ChIJv5s1h4ZFxwcR9P3sAB18Cjc",
+		"rating": 3.9,
+		"reference": "CmRRAAAACKWybHCGWdb_3YOWG1mp7pPwciHhxJrjfG-2DAP5GfM7snQZzBtLDrMhEKLB8nDGW9-W0O9DQiPpf5x2d-4xgJc5e1nCdxWPo3EAUtrW8AfiGvCRLvSlXw63wiCOVVSjEhA-HvgwELxo3lDu20ayNeb4GhTBovkco54jYqkWn_Fh1Bq5JOqDKQ",
+		"scope": "GOOGLE",
+		"types": [
+			"car_repair",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Oliveira Paiva, 3042 - Cidade dos Funcionários, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.756815900000001,
+				"lng": -38.488735099999985
+			},
+			"viewport": {
+				"south": -3.758164880291504,
+				"west": -38.49008408029147,
+				"north": -3.755466919708499,
+				"east": -38.4873861197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "f875be8c3f38cb580f89987c9f3f699a86faf553",
+		"name": "Cacau Show",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2322,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/116125678091804406876/photos\">Lorene Rama Dementriuk</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJ-YBhG6RIxwcRr8l2Wq2R88s",
+		"rating": 4.5,
+		"reference": "CmRSAAAAyImnhmDfEjlqv9ZegmFgGlx4F3t_nESd2mkeE6rYNA5028exnccV1R9ZT-i3xJkuNaugB47alHUisAhlhqum0uN208u1wSXOW-8f1ImEUTXQ50QPIen4eeIDx6aKh0twEhCcJUhJRLHUB1ju-4E0kUnlGhTV8IOekmREH5Q4stBg8zH5tcnExw",
+		"scope": "GOOGLE",
+		"types": [
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Loja 238 Terreo, Avenida Washington Soares, 85 - Agua Fria, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.732600299999999,
+				"lng": -38.49883269999998
+			},
+			"viewport": {
+				"south": -3.734035680291501,
+				"west": -38.50021038029149,
+				"north": -3.731337719708497,
+				"east": -38.49751241970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "2404f71d60c0717cb80737695cca60703e5cb0cd",
+		"name": "Casa Freitas",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3456,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/109332247443828935544/photos\">Jonatas Fernandes da Silva</a>"
+				],
+				"width": 4608
+			}
+		],
+		"place_id": "ChIJXXLOl2NIxwcRzFR9XTlqnHI",
+		"rating": 4,
+		"reference": "CmRRAAAA8zGqt202l23KgiGQ-GhLMCkCBLlHgOiFuqESSjMMzrbqp0-CT4qJjSUeyq9pYS4TTFR47PN2GYgRLX06RL9yUcbUjWvAlGw1CtWSvjjlJ0nTa_ywdZYKScSE_e_b6KupEhBa1zFJ8hE88lp1xoFMDUtRGhSinONkNwYpKqhTtqcXeKgTdM7vEg",
+		"scope": "GOOGLE",
+		"types": [
+			"home_goods_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Dom Luís, 281 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.734994399999999,
+				"lng": -38.55944390000002
+			},
+			"viewport": {
+				"south": -3.736195180291502,
+				"west": -38.560822730291534,
+				"north": -3.733497219708497,
+				"east": -38.55812476970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "5b00e200247155f73182da93b5100f6c14cbd223",
+		"name": "Auge Motos",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3096,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/117930180169945480686/photos\">Davi Ferreira</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJR4z9ynlJxwcRASjmGVTMX8g",
+		"rating": 3.9,
+		"reference": "CmRSAAAA4ow3DKi6UNR_ZPzHkE55GrZ5fR--HyuHfxb-LAOSvFpxrXS4iYryD_XlWubYwlDHGYHkYtROKoywluSp6Kt16cB4ojpHCxopcU5mvmbuIFuJuGU5Kurje6QF21ca3a-FEhAGtBnCAHFN7VwvUbDYfdHgGhSjqE77gCFFtAZXT9gDJ6T4okMfUg",
+		"scope": "GOOGLE",
+		"types": [
+			"car_dealer",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Bezerra de Menezes, 1665 - São Gerardo, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7274787,
+				"lng": -38.52849100000003
+			},
+			"viewport": {
+				"south": -3.729160130291502,
+				"west": -38.52960198029149,
+				"north": -3.726462169708498,
+				"east": -38.52690401970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "8781fd441ff50ddfdd2ac81e29b62ebae5e877f6",
+		"name": "Lojas Marisa",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2620,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105521404642672548256/photos\">Francélio Sena</a>"
+				],
+				"width": 4656
+			}
+		],
+		"place_id": "ChIJMYvQR61JxwcRBOmuJdhMlCY",
+		"rating": 3.8,
+		"reference": "CmRRAAAA4wposW2ccKsgH7rHGM4TNnqUPmyR2XZG4nKqt-c_iGOjnSCXDfIOhkomfKm03bklO94BLtRNYHcUkIGcquA61vV41GAY4c8d4j_wJcyvTtfmmVU0NQ5zSfTGzs7dhVCfEhDNoCNNq8bEtD8mdTi-4pOyGhR_P-78l_KADUfOIPUesr8YdFMMKg",
+		"scope": "GOOGLE",
+		"types": [
+			"clothing_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Major Facundo, 532 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8310936,
+				"lng": -38.49358330000001
+			},
+			"viewport": {
+				"south": -3.832581230291502,
+				"west": -38.49493968029151,
+				"north": -3.829883269708498,
+				"east": -38.49224171970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "ac49137ecbe7a944e7b6038648b7f8b5a9194c80",
+		"name": "Magazine Luiza",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1456,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/113070678045439600263/photos\">Rodolfo Vieira</a>"
+				],
+				"width": 2592
+			}
+		],
+		"place_id": "ChIJT1-K5PxPxwcRfvGViiWzxhw",
+		"rating": 3.6,
+		"reference": "CmRRAAAA2ebfgzQc6zFPVy8iM-iXAozdJoo-g3Ohc3NZasMJElf6njd0CGVl4pavW42f8NkjU7Is_GTHzTXBSsVGn3V3HHJL1rzMiXj1KxKoplAcgAn4NuGhULR8TIKp8sL56Fd2EhAln_oTHMKVZZhovqE8TkqLGhR0Es3ER5jgwEe2pJhAVlbKgostMg",
+		"scope": "GOOGLE",
+		"types": [
+			"electronics_store",
+			"furniture_store",
+			"home_goods_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Joaquim Bezerra, 185 - Messejana, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7269306,
+				"lng": -38.5306324
+			},
+			"viewport": {
+				"south": -3.728254480291501,
+				"west": -38.53206773029149,
+				"north": -3.725556519708497,
+				"east": -38.529369769708524
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "3212c87e1b64a4216c06e469c59a4c019251be35",
+		"name": "Lojas Marisa",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJU3BTlK1JxwcRKKhfx13H3ts",
+		"rating": 3.2,
+		"reference": "CmRSAAAAXPW71Iop6l6xcn9F6Z0mqkxVNlHTTObscIdzIJhAgodMG86pRHiuuj1PQKRrgubbwJbrUxTaKG5Tl0iCuBB8PIGWtaFqN6ce4KWi1y3uxQ8PSKonzzgZQS40mOrF6KmLEhDEG04KLDnFdYtf8ZvH9jklGhTbjhtPcIRHypd8KV6mXGD0qWYxiw",
+		"scope": "GOOGLE",
+		"types": [
+			"clothing_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua General Sampaio, 951 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7561028,
+				"lng": -38.48727829999996
+			},
+			"viewport": {
+				"south": -3.757451780291502,
+				"west": -38.488627280291496,
+				"north": -3.754753819708498,
+				"east": -38.485929319708475
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "6c56087b61e0e6447d8c658069779d5dadedc152",
+		"name": "Americanas",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2988,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/108480085077223720062/photos\">Alexandre Xavier</a>"
+				],
+				"width": 5312
+			}
+		],
+		"place_id": "ChIJDXUg8KdIxwcRIw8ApRsigXw",
+		"rating": 3.5,
+		"reference": "CmRRAAAAtlDsdb4XSJgv4tek7K0OgDWxZWhe0slPzwY_PDD8E_okzeWCu2HIOUH3Weaaz8D4jrEhZlm467Q68PsA9ULH-zIz491nqQ4oSqQ82xFLSgNDdKIGnnfUGEqqY_n_GhnKEhASjQH9oXrUIFObT9Lltq41GhSUavSO2bs1cadJn-o70sjpRDV9-g",
+		"scope": "GOOGLE",
+		"types": [
+			"store",
+			"department_store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Washington Soares, 85 - Água Fria",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7339661,
+				"lng": -38.496873300000004
+			},
+			"viewport": {
+				"south": -3.735065430291502,
+				"west": -38.49811693029153,
+				"north": -3.732367469708497,
+				"east": -38.49541896970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "19c394704d6b259acd4f56aa0dd491c74f389451",
+		"name": "Lojas Marisa",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJwaaMJmNIxwcRcCCqR5tsM6g",
+		"rating": 5,
+		"reference": "CmRSAAAAqd6ocg5VMxi23FCrfqj14HtJztX76wXx33Vh1rPUSlj7Nd1E9aWkUu-SmjyRn-crTsPjZD1j6SK6MuenBIEXYzD1tXXMQ9Hrow_QKraGWYPnCfIJfD24FxpC9eE4hj6SEhDq_ZgAoQqqmWjtKu8NAUchGhQ8AfRwruQKzdesw4i3C1jOLANvxw",
+		"scope": "GOOGLE",
+		"types": [
+			"clothing_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Dom Luís, 500 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7334751,
+				"lng": -38.51432740000001
+			},
+			"viewport": {
+				"south": -3.734739430291502,
+				"west": -38.51564768029152,
+				"north": -3.732041469708498,
+				"east": -38.5129497197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "8cd939e5b1d302b0d1318e58d1a48395fc82facc",
+		"name": "Marfinite",
+		"place_id": "ChIJeR0BTFhIxwcRCujMhSDJ_-k",
+		"reference": "CmRSAAAAiH3wZmQ7cLIyK3SMnAt5aWcknzNp5Ml1vIlxj_ld2Ma6SbANOmeY8A55jNkJq2xpY4gJ10Np9I3PSJcNjSxDJdtXALdFMpH4I1PJoKJH6iZLrE84nWMC51a76c9T5i1YEhBgQPKXFx9-yhXJz4jEXarxGhQPILxy0tHH_RPJG1_LyPdgAb7A_w",
+		"scope": "GOOGLE",
+		"types": [
+			"furniture_store",
+			"home_goods_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Pinto Madeira, 1236 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.741816,
+				"lng": -38.55812400000002
+			},
+			"viewport": {
+				"south": -3.743079580291503,
+				"west": -38.55944203029151,
+				"north": -3.740381619708498,
+				"east": -38.556744069708486
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "44a730fb86f52618b8251edd2c05e583900009a1",
+		"name": "Couro Fino - MATRIZ",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3096,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/114090129277737477983/photos\">Clóvis de Azevedo</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJXZIH8m9JxwcRqc3llP77eCQ",
+		"rating": 4.4,
+		"reference": "CmRRAAAATZYAubzGqVYGUDuw4poRc-pdgLWTPaYrTST0NUN9mMxSaeKjXRNDT2f-XwvS9StBENeWDZcWZ0hsRDKAuHMF4ViSs1PcV3F9Q0QQyzSBWU1vH0L-May1ZYtF8w8m4wPiEhC0tlJVfmzV8C1bgbTdlBeBGhRU7B3lguJEWf8k_cinDWeVTKGkmw",
+		"scope": "GOOGLE",
+		"types": [
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Abílio Martins, 567 - Amadeu Furtado, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7280072,
+				"lng": -38.52631250000002
+			},
+			"viewport": {
+				"south": -3.729354380291502,
+				"west": -38.52764853029146,
+				"north": -3.726656419708497,
+				"east": -38.524950569708494
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "af6dea7c19ed287ed7d79ef0f1f6ab76c4a0431a",
+		"name": "Casa Pio",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJNRrIoFRIxwcRjmzWBKdkCWw",
+		"rating": 4,
+		"reference": "CmRRAAAAUfLECjX0wYqxsT3KVFkHvnYh_Qg_NOCK0SSvsUZ6jdzwSw7LJSe4yTMOFfTgocubIiTlMLqlEILgY7SF-7C6wxJrW1LN-sxVgJDFDBF7y1wrEbqAdaBGpwfu0Sm6xiprEhAevs5OhhVMccuNUHe2lwAEGhQ8FkxSoidy28GyCMulnT560h2apw",
+		"scope": "GOOGLE",
+		"types": [
+			"shoe_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua do Rosário, 55, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7626672,
+				"lng": -38.479822799999965
+			},
+			"viewport": {
+				"south": -3.764016180291502,
+				"west": -38.481171780291504,
+				"north": -3.761318219708497,
+				"east": -38.47847381970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "2769fb3c0bcf3008deeec65eeaa9ac42d272b2cd",
+		"name": "Home Center TendTudo - Shopping Salinas",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 5312,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/103404196831417070621/photos\">Maurício Fontenele</a>"
+				],
+				"width": 2988
+			}
+		],
+		"place_id": "ChIJi29pcgNGxwcRzbuGUw_6Sok",
+		"rating": 3.4,
+		"reference": "CmRSAAAAHEIt1hFrDa1nZe7nUPoIxDMgq_8ojtC-E2aBULmHJvIkUxMerzDHLuWE39840WIK_WyZnUx6hOdw-44mxlN3o5Dezkhj9Xh0a_G00s2uBQPftAsTCZpxrgagAdnHeZxWEhBi6CLKySZH6Dl2OtDbsyzPGhSo-G6xSQ1VFuQs46lKndWLh-37mg",
+		"scope": "GOOGLE",
+		"types": [
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Washington Soares, número 909, loja 15 - Águas Frias",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.736407800000001,
+				"lng": -38.51504139999997
+			},
+			"viewport": {
+				"south": -3.737815880291503,
+				"west": -38.51641023029151,
+				"north": -3.735117919708498,
+				"east": -38.51371226970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "d655fc93e546eec6a7f5d204537c988910be0991",
+		"name": "Phantasias da Opera",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3264,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/117801510653773816283/photos\">germana oliver</a>"
+				],
+				"width": 2448
+			}
+		],
+		"place_id": "ChIJdZNKu_dIxwcR8PKA_hMn2IY",
+		"rating": 4.1,
+		"reference": "CmRSAAAAxsOXsH9ArpwlB03k6HVTjbNpzc0IE7xqId6trC7QDONGffk3HqH2tagd51K-ASRJ7P6qeA8ShxANmHxa_JH6mE1ZIsFoPm9tgS_XA46692NLebK1QfLWRfbs3kThygl2EhALicO8ATJe-v2C8Wp5yyYXGhRF_-phPzRup1UkIVC681RelWHINA",
+		"scope": "GOOGLE",
+		"types": [
+			"clothing_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Heráclito Graça, 1105 - Aldeota, Fortaleza",
+		"html_attributions": []
+	}
+]

@@ -1,0 +1,795 @@
+[
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.766053,
+				"lng": -38.575931999999966
+			},
+			"viewport": {
+				"south": -3.767163480291502,
+				"west": -38.577632180291516,
+				"north": -3.764465519708498,
+				"east": -38.574934219708496
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "192eba9c8f622c77e3f875ff37a019f64eb2463c",
+		"name": "Ecopoint Parque Ambiental",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1360,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/101863988640515731050/photos\">Ecopoint Parque Ambiental</a>"
+				],
+				"width": 1362
+			}
+		],
+		"place_id": "ChIJTV_mJQdMxwcRWRDpIRgQp5I",
+		"rating": 4.5,
+		"reference": "CmRSAAAAkav2wGj856ffYm0UYghpdRP3gqB-_tXufaPhwKHEPL3ABFJ-lIpf0bbm3FY7AzppOlbu8shD6Kwog9G_Rdl4Qx2VZK-9zT8yPxQJYumGE-ROsvtrDDjE_R75FsIVCkeWEhDnVc1oIaRhk8t3UZL2wiksGhTJEhGPFyBE0cfDSJopc3sKI8P8bw",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Senador Fernandes Távora, 387 - Jóquei Clube, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.74844,
+				"lng": -38.48588000000001
+			},
+			"viewport": {
+				"south": -3.75653055,
+				"west": -38.49346675000004,
+				"north": -3.73941155,
+				"east": -38.47881135
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "cc09aeb184809ac4addb1e4ea3acb28da215e2a1",
+		"name": "Parque Estadual do Cocó",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3391,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/104900547136098918204/photos\">R.NASCIMENTO ROCHA</a>"
+				],
+				"width": 2945
+			}
+		],
+		"place_id": "ChIJ_Z8LMEhPxwcREnOEalTNM7g",
+		"rating": 4.6,
+		"reference": "CmRSAAAA5QSdmeGxcpWeYBbMQXckTwW_Vx0grZXPecQ6nDfRQEVolA6eIqcKjiex_63f-vYMKz8rJEdBBbf30KTcphECFWJ0bYGWv6-3zb4jly02sW6pAr-YoyJmeIc8ejAI3ixFEhASZz-g-4nNPq54gnHW-V8OGhQw3EXCUqt93hn9upBwX-fGSgPdbQ",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Engenheiro Santana Júnior, S/n, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.986987500000001,
+				"lng": -38.6209781
+			},
+			"viewport": {
+				"south": -3.988446780291502,
+				"west": -38.62208308029153,
+				"north": -3.985748819708497,
+				"east": -38.61938511970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "5739d684586c4e56acfdbff3e0850519f7bd2dc4",
+		"name": "Apoena Ecopark",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2322,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/107179347038298464970/photos\">Jackson Cell</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJ2SQhRv2quAcR1xQ7NhRlHLs",
+		"rating": 4.3,
+		"reference": "CmRSAAAAugXOn5FNCXl6CepsEFlUFSnX9FslBgwjXRSMJa51WNeLy5sKl-AvH4sTDvbXv5aFT3Vtw0qQYHpVhwLKQnBXIdocXmYv0u5u9iPzUiUj1FUbbAQtq0F0iZTZl0_vwUo4EhAi0qhquEjBL0HIxUYkhd5vGhSrJ8Kp2aD33DnfaF3Te7BxlFwF5A",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Major Crisanto de Almeida, 2170 - Centro, Pacatuba",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7661102,
+				"lng": -38.48909149999997
+			},
+			"viewport": {
+				"south": -3.767130980291502,
+				"west": -38.4903966802915,
+				"north": -3.764433019708497,
+				"east": -38.48769871970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "3119ee58296075c4bffd2615ef1956a06c846a3c",
+		"name": "Parque Guararapes - Fortaleza",
+		"photos": [
+			{
+				"height": 1320,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/116570388250337792959/photos\">Parque Guararapes - Fortaleza</a>"
+				],
+				"width": 1980
+			}
+		],
+		"place_id": "ChIJLVwglqtIxwcRwDyWw4HeA1w",
+		"rating": 4.1,
+		"reference": "CmRRAAAAyiiB5tcokoZpSl51BXjNrDsuL6z3nfU9ZFtYoEMNbve-gjm-OI4ubvE_GowO-woCzfARWVVMcGk4Hk41IN15GoDLj9uS3dDTlNFKN_UmlML0nJGg9fgtdj8pjxgK9uBQEhC_uagkfLognaYICq-8TqoQGhQuf53Tvw43NV7bORv7Mgl9aN6rkA",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Jornalista César Magalhães, 741 - Guararapes",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7616152,
+				"lng": -38.58298260000004
+			},
+			"viewport": {
+				"south": -3.762985730291502,
+				"west": -38.58434408029149,
+				"north": -3.760287769708498,
+				"east": -38.581646119708466
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "944676d13b3b15f282bdf8b43f76ed49d436ad3e",
+		"name": "Comandos - Acessórios Militares",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3120,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/112275428251732334821/photos\">gildasio gomes de loiola gomes</a>"
+				],
+				"width": 4160
+			}
+		],
+		"place_id": "ChIJjVUXO3pMxwcRmiUZyLWTnRs",
+		"rating": 4.5,
+		"reference": "CmRRAAAA0uCOkqX93CscPvYkzD0C2K8d6uFj3WgQzUasN6xgpYbBjOTv8PoVCaRNOXOul6g55jFhdzFO9dHNvFVoUfzkuY3gYonOYz_JZD2_SsBtuMGnCQo2MuurnBX_Db7ONjAoEhDgAZ_VyMNCNiu9vsEu7DTWGhSXeuP3BbuUX6FJxgppgTmbczD7eQ",
+		"scope": "GOOGLE",
+		"types": [
+			"store",
+			"campground",
+			"park",
+			"lodging",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Senador Fernandes Távora, 1176 - Henrique Jorge, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.840205,
+				"lng": -38.397658999999976
+			},
+			"viewport": {
+				"south": -3.841553980291502,
+				"west": -38.39900798029146,
+				"north": -3.838856019708498,
+				"east": -38.396310019708494
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "9c4e8c01dd48bbeea1b870a78e40d98e88dc4217",
+		"name": "Chagas Irrigação",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 625,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/112048349137280817867/photos\">Chagas Irrigação</a>"
+				],
+				"width": 833
+			}
+		],
+		"place_id": "ChIJEylCqWxPxwcR_IN0ah_74Ls",
+		"rating": 4,
+		"reference": "CmRSAAAAeL_yqw6RMIdCb9JOYHVlDugO84mWiZjyKYfUQMkPXNN_DJbk4od0CtUL01_a5hlacKqUdlkEld7AjC-xXu7aICaxW8wSqn6UPCKl4-s3dCb6FlfEPjysX4oqq-wjizIhEhBx_3jDlqTyOQ52CWuMyXusGhT-Qnjbr88tm1Dnvgt-JbdKPdqeKw",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"general_contractor",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Leão Marinho 135 - Porto das Dunas, Aquiraz",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7981172,
+				"lng": -38.46332970000003
+			},
+			"viewport": {
+				"south": -3.799466180291502,
+				"west": -38.46467868029151,
+				"north": -3.796768219708497,
+				"east": -38.46198071970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "ed71cc53ae60f613e5d893d2d2478dc5e0407bf0",
+		"name": "Bichos do Mato",
+		"photos": [
+			{
+				"height": 1365,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/117690748125149827832/photos\">Bichos do Mato</a>"
+				],
+				"width": 2048
+			}
+		],
+		"place_id": "ChIJNa-dB6NFxwcRYEi1RVf4fGc",
+		"rating": 3.6,
+		"reference": "CmRRAAAAkLb9lq8aicfsuUSienjKQGgcYhlfn6FQP3SHYZ3bIAO2IgK_ZT0aUMnTTXFd_fwvnu1g7UUGhkSSqpXWeIdq14fjJEjXLUkOuWl8hJn0U2VYun66MAjcCkbsJeff4fWCEhD9UbIJlef0AbGvgbTJF19UGhSEqcAqQ4El4r4hV9hcWnostRX-MA",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Doutor Waldemar de Alcântara, 1940 - Lagoa Sapiranga (Coité), Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8029989,
+				"lng": -38.491501099999994
+			},
+			"viewport": {
+				"south": -3.804427080291501,
+				"west": -38.492876030291484,
+				"north": -3.801729119708497,
+				"east": -38.49017806970846
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "f064e94d2842c9f5cc5c79f95c6c5ee91dd57d47",
+		"name": "SOHIDRA",
+		"photos": [
+			{
+				"height": 3264,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115702579657233913965/photos\">Jose Carlos Aguiar</a>"
+				],
+				"width": 2448
+			}
+		],
+		"place_id": "ChIJD2AJNoJPxwcRepbn7_YPLpM",
+		"rating": 4,
+		"reference": "CmRSAAAADaM6RrUsl3sEN0NGzC-KWxOIXrcVcwS2rTqwZpSHvdBciC-jCDywp9Ots5SH5a7IypvuWkqwe2RGVppOfWiBl2f6sTT_l42Riv2cmE1t97JcnVL9CIr00iNynGVazrYuEhA89LkDCtjgW2x5LifHXI2pGhRIge8gqIm7NAnO6ipbU8aRWg7b1A",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Walter Porto, 395 - Cambeba, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7969541,
+				"lng": -38.50087080000003
+			},
+			"viewport": {
+				"south": -3.798549880291502,
+				"west": -38.5021154302915,
+				"north": -3.795851919708498,
+				"east": -38.49941746970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "04fb3a4c870165f056abc8083fb887133deeb26d",
+		"name": "Praça da Igreja Da Glória",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2160,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/113392994428346662482/photos\">elienai alencar</a>"
+				],
+				"width": 2880
+			}
+		],
+		"place_id": "ChIJK9MkAnRPxwcRhygz2PTP7k0",
+		"rating": 3.4,
+		"reference": "CmRRAAAApU6R2j9J8UDduKXjWD4Vgqdns3xarRSDErK3-ZW2dJB4kRs1bkLR4nJOeGrBS_RdSKv-l4HH8xK0ctC9VwRodw61Q0kHQdMKbSR-d8X7QXyGTy-hHNm4OOjvlPK7iwzJEhByssIzhZBMcq43yrWGcqi1GhSOruSNwTG0Kgbkt6nlmI352OBpNQ",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Oliveira Paiva, 487-613 - Cidade dos Funcionários, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.772287,
+				"lng": -38.49841100000003
+			},
+			"viewport": {
+				"south": -3.773618780291502,
+				"west": -38.4998162802915,
+				"north": -3.770920819708497,
+				"east": -38.497118319708534
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "693beeaed30d28e9c2b7ce36c3b94eb116fd5d6a",
+		"name": "Chica Zelosa",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 900,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/104207555243077267615/photos\">Chica Zelosa</a>"
+				],
+				"width": 1600
+			}
+		],
+		"place_id": "ChIJw1EwKkxPxwcRfu8-GNiiRYU",
+		"rating": 3,
+		"reference": "CmRSAAAAIwTRd1TsthHprrVfBTZtlZtYPbg7jFgYn-jHx1-tFISPlT1PaFAMCbuMc2GTR4coEoc8Pp-dabSF3DbtiaV2jxhm7QbmxAPIDE3rLTBhTFHGqGCb_GdAPqe2DUQzJUAJEhBK69bRehuP_E6lAm2r3gmyGhTU39dNBC3M5rwOdCyJKWl8yQyq9Q",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"car_repair",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Rogaciano Leite, 2031 - Guararapes, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7597257,
+				"lng": -38.48558630000002
+			},
+			"viewport": {
+				"south": -3.761071580291502,
+				"west": -38.48690388029149,
+				"north": -3.758373619708497,
+				"east": -38.48420591970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "8438869455958f1b3cc9600912bf9fbc8c2fe0df",
+		"name": "Reserva Imperial Condomínio",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1836,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111442631015763187598/photos\">Gezer Gomes</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJMyR0jadIxwcRGc6xunGyiWQ",
+		"rating": 4.8,
+		"reference": "CmRRAAAAcIh7RrzK6YSJ0MBxRE4l0ciQncBC7uf0AhcMLOvIyy4NXSUAzLmgW-ZmikYKIB3D1iTG4M-DeDHn60VHH_-Z-SgqqJv0xWl-jH35bMIKVQFJgTvCsBKFNfyhZkPA6xLpEhCoQ_kAlbqLdS7vriYHjgQ0GhQescGrJW0mP_XW9wbek0HWDifUFw",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Francisco Xerez, 140 - Guararapes, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7930343,
+				"lng": -38.4418551
+			},
+			"viewport": {
+				"south": -3.794383280291502,
+				"west": -38.44320408029148,
+				"north": -3.791685319708498,
+				"east": -38.440506119708516
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "cfa5380d5f9a02430aefa6d226b615eb92f8506e",
+		"name": "Jardim Belmonte",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3264,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/109863520631539970413/photos\">Jessica Nunes de Melo</a>"
+				],
+				"width": 2448
+			}
+		],
+		"place_id": "ChIJBzwLw0xExwcRGcovx-GONdg",
+		"reference": "CmRSAAAABetnAGm9ea_9k1spbHRwBxg7dveAsUIL7qiJEjb2fIZLI0aWt0Kroh8bLxgsZ5fORqkacf2Ur88F9PVslc23QlYIuyknnid_D8AzwtmcVLI4upP4LtKSv89nMcU0rddhEhAYEhBEdHiMw6tClJuJpUvyGhR3fTz-yh-ffUqyg67-2NrA8se3Rg",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Sabiaguaba, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8319951,
+				"lng": -38.475631799999974
+			},
+			"viewport": {
+				"south": -3.833399880291502,
+				"west": -38.47678548029148,
+				"north": -3.830701919708498,
+				"east": -38.47408751970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "cb7887a5e457bc16aced968a9df751b7e4fe844f",
+		"name": "Praça do Guajeru",
+		"photos": [
+			{
+				"height": 2448,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/113584063437444316417/photos\">Steff Phenix</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJNWSXYFJFxwcR7trzsOMk5nY",
+		"rating": 3.9,
+		"reference": "CmRRAAAASVA7TXuWfeOX09ken_NwxZBgBprFgz9FVz7HycB-KlOvOykLpwZu1aEkhZGNpd-KSGTsMy3T8o9-gKXyt4Df-Gq3ZYYZJQctjmyWylbTUFmdbHlVRY6KM1MmUwLucz1kEhCPrd4Cr1jYDARpWk5L-eiHGhS_Kw18f9c-G2S0RoE7DVgAcYBgbQ",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Socorro Gomes, s/n - Guajeru, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.747202799999999,
+				"lng": -38.47106059999999
+			},
+			"viewport": {
+				"south": -3.748383480291502,
+				"west": -38.47235533029152,
+				"north": -3.745685519708498,
+				"east": -38.4696573697085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "e9834d6dc5eed0517d4b4fd8613839e2045f7edd",
+		"name": "Praça Engenheiro Pedro Felipe Borges",
+		"photos": [
+			{
+				"height": 1836,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115880763747052184394/photos\">Edjacksonoliveira@hotmail.com Edjackson Ribeiro</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJb2_oTTpGxwcRHLO3SQmIpF4",
+		"rating": 3.9,
+		"reference": "CmRRAAAAwXCSEAuaRgV22TdRB3pLsRC7HzDCl4A5FPiBelx1GsXYPOhhhVT_LmovWyH1DuZuLY8xOFRRdpQ8YV0Eoxx1yqPbg1irinOsaXOkT5_1aEVgxggkvxPLcN7-o7JwzTAREhDkrcT9IemOu93zomi16lGnGhQ_9x-xmTXOn2ENvnkBlJGMpcR0ug",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Doutor Gilberto Studart, 1852 - Cidade 2000, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.83303,
+				"lng": -38.464819000000034
+			},
+			"viewport": {
+				"south": -3.834368880291502,
+				"west": -38.4661514802915,
+				"north": -3.831670919708498,
+				"east": -38.46345351970854
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "6799bb6b20bc5cd45ca2d195305bae2bc736327d",
+		"name": "Condominio Vivacity Ville",
+		"photos": [
+			{
+				"height": 3456,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/101028473351499652079/photos\">ARCO Arquitetura e Construção</a>"
+				],
+				"width": 5184
+			}
+		],
+		"place_id": "ChIJO0yuY0pFxwcR-vzNWuX9tvk",
+		"rating": 3.8,
+		"reference": "CmRSAAAA91iWrhIsHXzfEZp8S0k7sfmMh68aTgNlAjEs-4IpaMSLHOvkqfzd28zhCF_havHx-6fM02R_GZG97paGonAHRedqV18iXwUOUntJonl9TDIllATFzxqxG8wgpHd4pBRtEhCUEghQxD-3udEfnw0PB6TfGhQPLAN3YVq_nBsoVr5iXvLDXr4VmA",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "-459, Rua Martins de Araujo, 439 - Lagoa Redonda",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7500861,
+				"lng": -38.5031204
+			},
+			"viewport": {
+				"south": -3.751474080291503,
+				"west": -38.50435123029149,
+				"north": -3.748776119708498,
+				"east": -38.50165326970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "fb2bd660f719b6ba9b25c0d4e8a06eaec2ff95c3",
+		"name": "Svoar Investiment Group",
+		"photos": [
+			{
+				"height": 1840,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/109566568791356576663/photos\">Francisco Das Chagas</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJd8oeqZVIxwcRthHFmELlkCk",
+		"rating": 2.8,
+		"reference": "CmRRAAAA6mZ-ZMqZ3K5khi0_NruacA_tlDl3bSUaDb2-RAWVjGCTMzZGthsfV56lQSolGmhcnihbceo93QVmVaewOqJdIAUDhnq0RRR8yzWnrDVYx22Hmbc8M8QY4DF6sGBpxdbpEhDabBNI9HN373L4V0ZIDygkGhTxwsR3eS5L_012HNe41BrZu5w7dg",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Desembargador Moreira, 2800 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8094568,
+				"lng": -38.53162759999998
+			},
+			"viewport": {
+				"south": -3.810805780291502,
+				"west": -38.53297658029152,
+				"north": -3.808107819708498,
+				"east": -38.5302786197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "c49fa3ffc9bf170c17c6f0586f69b23441ddc843",
+		"name": "Zoológico Municipal Sargento Prata",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3456,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/109332247443828935544/photos\">Jonatas Fernandes da Silva</a>"
+				],
+				"width": 4608
+			}
+		],
+		"place_id": "ChIJAUHj905OxwcRP5Z0YmyUB4w",
+		"rating": 3.9,
+		"reference": "CmRSAAAAVTrmF4G8gpNKowLjljY4GWn3k3z6CK39MqgUwsTww3UV3GxcC8HAc28zA9RQHldU-_Gt03-s8pJyA-B-H_QHCGrviDuEi-p-6J1A_zKJt8zFCQqF13L7AJ3F-SsGkGqGEhAgiXYJ68QnxnsT1mkFI3bNGhSQWTlS6AY_Ns5ZrHlsPqJgjKsqTg",
+		"scope": "GOOGLE",
+		"types": [
+			"zoo",
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Prudente Brasil, 685 - Passaré, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.727333799999999,
+				"lng": -38.460484699999995
+			},
+			"viewport": {
+				"south": -3.729004430291502,
+				"west": -38.46200458029148,
+				"north": -3.726306469708498,
+				"east": -38.459306619708514
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+		"id": "25966939604b587b87a77743f1d21503612446db",
+		"name": "Clube dos Oficiais da Polícia Militar do Ceará",
+		"photos": [
+			{
+				"height": 3840,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115729247979396802619/photos\">hedler uchoa</a>"
+				],
+				"width": 2160
+			}
+		],
+		"place_id": "ChIJmQgNr7lHxwcRaB6hdTH-dK8",
+		"rating": 3.8,
+		"reference": "CmRSAAAAY6QpztfE1FwF8fdJWQ8a4gHQVa9wkkP8hZTu7UlymPSwbnQSQHqeKQyXLQZA8NzAWOY9f3g4UPyyuydFY2nhWpCHT20mQHiDyWfAwzmzhbnSrD7IRPZkGL5HpptkN0afEhCA8HpI_pqzzNrfy6a3sEzYGhQdK9F6Hgwh0Byy4eaqeWVT_Sf_rQ",
+		"scope": "GOOGLE",
+		"types": [
+			"campground",
+			"park",
+			"lodging",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida César Cals, 1191 - Vicente Pinzon, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.763658699999999,
+				"lng": -38.53288759999998
+			},
+			"viewport": {
+				"south": -3.765055680291502,
+				"west": -38.53425688029154,
+				"north": -3.762357719708498,
+				"east": -38.531558919708516
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "65384ccc081101f86c1af6a351a12f75ad6f4795",
+		"name": "Praça M Estela Braga",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2988,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/108269208268403943105/photos\">Hamilton Cardozo</a>"
+				],
+				"width": 5312
+			}
+		],
+		"place_id": "ChIJQ_9scixJxwcR-UIi85zNSDM",
+		"rating": 4,
+		"reference": "CmRRAAAAbEMVmcSedpe_dpxMvqguhLQcVraCbrd497Hyt9gs8DasmSS-SXaNdwe9rY3FzCWcrt6dCuKQBjf72QsvhJGCbKa09Yas1ls1NdFglmvZA5O5ZdMVYzWpLXaEx72_vnDQEhAOlYvHaUT5GZ-EjV1ZBh-PGhQVbDzI3Ft4fIZLncWICfwOpVBziA",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "495, Rua Abelardo Marinho, 475 - Vila Uniao, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8135631,
+				"lng": -38.53521520000004
+			},
+			"viewport": {
+				"south": -3.814944330291503,
+				"west": -38.536590230291495,
+				"north": -3.812246369708498,
+				"east": -38.53389226970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+		"id": "a33aabd22ab6b1c33d3dc632092762b29ed5e163",
+		"name": "Horto Municipal Falconete Fialho",
+		"photos": [
+			{
+				"height": 4032,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/116291714411583991674/photos\">Pedro Segundo</a>"
+				],
+				"width": 3024
+			}
+		],
+		"place_id": "ChIJSw4sUkhOxwcR6PVpfDijIeA",
+		"rating": 4.5,
+		"reference": "CmRSAAAADDpQ0HkNqp3vCzIx1Ae0mgA8aUHC7wA_oOgGTVHgLMfL6BqniKTFcjlMXdD6xzwS0MsbxJRTNU6oSSSqTuabgrcbCcIVKZORpdFZV8fRi78BPW-4PTnlUOQVGuCedyuPEhDVl-m6Yj1bJ2HzDJrMCAGNGhQw5PxyDJ7l9RkPoQ9VObpQlR1nvA",
+		"scope": "GOOGLE",
+		"types": [
+			"park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida dos Paroáras, 100 - Passaré, Fortaleza",
+		"html_attributions": []
+	}
+]

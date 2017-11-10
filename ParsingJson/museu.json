@@ -1,0 +1,730 @@
+[
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.745301,
+				"lng": -38.50506050000001
+			},
+			"viewport": {
+				"south": -3.746591580291502,
+				"west": -38.50639138029146,
+				"north": -3.743893619708498,
+				"east": -38.5036934197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "67ffe1c4029416b8421309bfb7ed84dbc5191152",
+		"name": "Museu da Escrita",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1536,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/103245947486284174825/photos\">Camila Viana</a>"
+				],
+				"width": 2048
+			}
+		],
+		"place_id": "ChIJJcLYz5JIxwcRlC5QBYT9Pkg",
+		"rating": 4.8,
+		"reference": "CmRRAAAAUblEOQsxCHE1CBP7QQuH5JgHrML5b0qJq2kbIiz2au2Oa8-l-i_Bm8t8ZJd0w_3CrcMMyU6ATkrZKoPofnTC-oi2yq9EcK2WLRys8Yiep_w9DprGj0bT6dnc_HpUY4cAEhB7Fs-hKVuJubUs64WGSSv7GhQZTAFzGRWyJQWorCJMqJfK72bVWA",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Doutor Walder Studart, 56 - Dionísio Torres, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7264602,
+				"lng": -38.526565300000016
+			},
+			"viewport": {
+				"south": -3.727805180291503,
+				"west": -38.52793018029149,
+				"north": -3.725107219708498,
+				"east": -38.52523221970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "e9754ef6a0246cb0ddc5e8308c595e159eba3766",
+		"name": "Museu do Ceará",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2920,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105309069141637833397/photos\">nature city</a>"
+				],
+				"width": 5184
+			}
+		],
+		"place_id": "ChIJyfd3plJIxwcRBe2-OGSokV8",
+		"rating": 4.5,
+		"reference": "CmRRAAAAcdE3dElJCODOv-wLuTdGBCsFyAN8Va4j0RDbExeQQ6Nm2RXGSFOJQIU0dg6adnEDLHnBA-gJaD5PRWDLyJHnUv5nBgNaH7A9MgBXvzwSmkrB5z1HW4ilgrHUHZQEuEx8EhBWJA0tPYgYovxSaN9OJPZtGhTrRFg6NSrNGejYlqlehuwfABD90Q",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua São Paulo, 51 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7410295,
+				"lng": -38.539473999999984
+			},
+			"viewport": {
+				"south": -3.742446580291502,
+				"west": -38.540749530291464,
+				"north": -3.739748619708497,
+				"east": -38.5380515697085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "91db86f77516f76d466ce4631d6ff81efe94327c",
+		"name": "Museu de Arte da Universidade Federal do Ceará",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2736,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/103353697893571138952/photos\">Herlanio Evangelista</a>"
+				],
+				"width": 3648
+			}
+		],
+		"place_id": "ChIJ9ZtUxQ9JxwcRL6lVDeG_sRE",
+		"rating": 4.5,
+		"reference": "CmRRAAAAXLxuEkdjaIeKLT2Xukoqsu4Sg3v_QplJTxRumGie6SXToTJ24CGKnnOC7tcJPy5hkpmN-pW_2jQNx0j8IKKu_qNzW4R_hjVXZ40r90jY6uhhHKZOnnQOU5j-LIIDQf9wEhAHWu5VDPFoC2heJoneccBfGhSXY-98hicbm9n77S3KGFhvr77MBQ",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida da Universidade, 2854 - Benfica, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.727433999999999,
+				"lng": -38.50460799999996
+			},
+			"viewport": {
+				"south": -3.728827380291502,
+				"west": -38.5058284302915,
+				"north": -3.726129419708498,
+				"east": -38.50313046970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "215e66198df054e2e3cc2190f6e9bb3dcb63e95b",
+		"name": "Museu de Imagem e Som do Ceará",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1932,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/114701068943040094217/photos\">xico aragao</a>"
+				],
+				"width": 2576
+			}
+		],
+		"place_id": "ChIJlcUW3GdIxwcRse-_42mWGqA",
+		"rating": 4.4,
+		"reference": "CmRSAAAADigKh2MZEuB65CLxrB8FqvUCTdPx7gr7xKwANwzDGx4AFHSuIuqKGlxRq-wYxBgvgmZIW2RLPA6PtwmhWNkaMa5ykv0EOx6U_zSenWnZz8lh1CHb4hWXZ5cTSr8PC0guEhBmjbqZ4dhmweUtPCP0EGDTGhSX0m7Aa7KOKDRQvHoj6fiMTcKTFg",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Barão de Studart, 410, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7367951,
+				"lng": -38.53523910000001
+			},
+			"viewport": {
+				"south": -3.738117880291502,
+				"west": -38.53661683029151,
+				"north": -3.735419919708498,
+				"east": -38.53391886970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "4e4bc11874d30f095f1024e2444c30fe22c7ec22",
+		"name": "Museu do Humor Ce",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2043,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105735514853512194460/photos\">Museu do Humor Ce</a>"
+				],
+				"width": 2044
+			}
+		],
+		"place_id": "ChIJZ009XAZJxwcR1_uDZ9sCw2Q",
+		"rating": 4.2,
+		"reference": "CmRRAAAAPPjnN8xD0ovbYC22fRqkr3oJ-qe_bk9WYkmq-xlonz51UF8UbsREnV9l5Z90XhDBVz6UlcxONDZSSBiOaVJBRFdM-m9hb3cES7FuABVTEq3UxxSrY60i0RvsNZJZ_qRlEhAc-h6w5p6RvJ1sdCfJBgBYGhTn5fRC7H69PTy9n4BXck9_KLkUHA",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida da Universidade, 2175 - Benfica, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7711938,
+				"lng": -38.48236399999996
+			},
+			"viewport": {
+				"south": -3.772542780291502,
+				"west": -38.4837129802915,
+				"north": -3.769844819708497,
+				"east": -38.48101501970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "75801f4aae0fa3493b8809f93cf69af332b37cf3",
+		"name": "Veteran Car Club do Brasil - Museu do Automóvel",
+		"place_id": "ChIJTSR3N79JxwcRyI9xASbD7kM",
+		"rating": 3.5,
+		"reference": "CmRRAAAAiaF5djhHQch3UI3VqB_6lzXiqoP4KPXQVUUP0octWUaFIBSi82r2UuiVzTej9pie8EsZEwt8efcpivme6Oyw37E31I5zN6819BFnrShUo3JmfVqXC0Rgzky0fD_bAuM0EhBH8QJkmkkpZVOfIHA82bbAGhRgry-OhejaIygYR8SC6KDBk1ZgzA",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Des Manuel Sales Andrade, 70",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.770223,
+				"lng": -38.48686900000001
+			},
+			"viewport": {
+				"south": -3.771571980291502,
+				"west": -38.488217980291495,
+				"north": -3.768874019708498,
+				"east": -38.485520019708474
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "43016f1d5b0849e355cae9556c9ec3b2da5f20ee",
+		"name": "Collecto Tanner Playmobil",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1635,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/113086856422374531048/photos\">Collecto Tanner Playmobil</a>"
+				],
+				"width": 2048
+			}
+		],
+		"place_id": "ChIJL_LIEFVPxwcR2LYCEKKkLRc",
+		"reference": "CmRRAAAAqgmS44lUq3Ov7mXrecTruXxlY02Vm_2vLX1x9CessxkGosgsgd4IcalskxS8KgZqe6YqjI1G6YmE_Iyatz76yCVRt1rF2SCMH9UnHihEUIfgkGd4IEKlK8e9M1r9Ow5AEhC6bJUeo9eipltt11ElffP7GhRhV_uGlWnEwRj2BN5KN5EHLDo45A",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Efésio, 453 - Ap.102-b - Engenheiro Luciano Cavalcante, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8163099,
+				"lng": -38.49288330000002
+			},
+			"viewport": {
+				"south": -3.817674680291502,
+				"west": -38.49426808029148,
+				"north": -3.814976719708498,
+				"east": -38.49157011970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "c4510171268abfbcddf2ac93cac2b120609b37ff",
+		"name": "IMPERIUM",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJ39vVH41PxwcRfpn8QO1-kiE",
+		"rating": 4,
+		"reference": "CmRRAAAAqS7ziD0DMB2QYQd0975MWmVxcT7XV3ZegBCVSGinMnVeR2hzRan21LAfUU2CzLlvOJGmuSX4myxOwZpOUrzgsJ6ymji71syVCcO-a-vyl99m1_D5Xnaatne9n1vSUcNsEhDHpDDBluhERdTCPd0veXAiGhQ2u7WyvYhRDJ2G5NCKL5XSad8CKA",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "a, Rua Farias Lemos, 1065 - Parque Iracema, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7318562,
+				"lng": -38.5170981
+			},
+			"viewport": {
+				"south": -3.733160880291503,
+				"west": -38.51858638029148,
+				"north": -3.730462919708498,
+				"east": -38.51588841970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "8cee2f7224dd1a3da76a4640b1864ddb8b4c9f22",
+		"name": "Vestigium Ibeu Art Gallery",
+		"place_id": "ChIJq6rqZ1dIxwcRowy482_NoWo",
+		"reference": "CmRRAAAA8Ju240g9oMzugVAyLSasl8XKhlm2sQ1mRbBqT5QukZrIPrOQv0BzuwDY36EDnB_sog4Sp9Y3jZI-yLIMH00l8hjIg3m-i6YDDBEhGX_jYGwIdEpgM3Yjn-2oDjHqlVNHEhBCPk5U7UJm5t_s_3TBu8mCGhQkYijYP_h76vBmFxmk3y-yP45WUA",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Nogueira Acioli, 891 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7438094,
+				"lng": -38.538308700000016
+			},
+			"viewport": {
+				"south": -3.745071230291503,
+				"west": -38.539574580291514,
+				"north": -3.742373269708498,
+				"east": -38.536876619708494
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "11a541525786533ba71eac2025f7ea4534773f86",
+		"name": "Residencia Universitaria - UFC",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJaU_uYhBJxwcRi0EVSK2toRg",
+		"reference": "CmRRAAAAMAuatCvqxU8req19oGgKFAvMcBQgHMfjwxfjEir-MBUsdygaGtv8vBGK-ZS-FugQlReVd996I7H9wOFmBKyB7hzMjQ4hXd1F8BC_ODxF7cscrWwKUohei6hRpeJAAzd8EhCjCEYuNHMz_iRKNPW_c8gQGhSrotdebZkL18b2IGVyyG8gZepPow",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Paulino Nogueira, 125 - Benfica, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.721863,
+				"lng": -38.516490999999974
+			},
+			"viewport": {
+				"south": -3.723185780291502,
+				"west": -38.51784023029148,
+				"north": -3.720487819708497,
+				"east": -38.51514226970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "c6763b83d90bd6f2673635b2d494ec3658ea3db6",
+		"name": "Museu da Cultura Cearense",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1360,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/102026762943706152532/photos\">Museu da Cultura Cearense</a>"
+				],
+				"width": 1363
+			}
+		],
+		"place_id": "ChIJAAAAAAAAAAARRUJ9qGlp2ng",
+		"rating": 4.7,
+		"reference": "CmRRAAAA3DCwiVuqmSwBzpa8d_sf-Fs-9WBfPZnMxAFJjUm9VmuTxQSknTfy4XJqq7Euna9NcJDSshHmnDKpNS94IDafkiPujdDrqz19eKPyI-1HN-9DgwV1H2DHoPEPFAMzryX6EhAs3aCuGdOmG7TsIr-Hq3nOGhSHNPVFfH79-qrYQz3U9uOfAVAMiA",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Dragão do Mar, 81 - Praia de Iracema, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8659138,
+				"lng": -38.50198119999999
+			},
+			"viewport": {
+				"south": -3.867219980291502,
+				"west": -38.503294780291526,
+				"north": -3.864522019708498,
+				"east": -38.500596819708505
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "dfa245fbec4cf98e78ca2639dfb4d263ff706d37",
+		"name": "Casa Do Cassio Peixoto",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJq1LqCopQxwcRBGZuF4zxNWI",
+		"rating": 3.3,
+		"reference": "CmRRAAAAwSL3He3caUp9hspryPqBg19QUYBJJDYNwpJkDiIQxCKlG4-1NVnE8r-W1dt6_NO3MEH2qy31NpLbm_6OqZf5iHPaNXBifkkk8ENpBosvv-lDddeqodk16Oon9AR3uH0iEhAgk2o21SfFonMiHKO63H9kGhQo6sbhXeXDpzCVg1JBTwaHhx7eZQ",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Manuel Peixoto - Ancuri, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7232448,
+				"lng": -38.525957500000004
+			},
+			"viewport": {
+				"south": -3.724554330291503,
+				"west": -38.52729258029149,
+				"north": -3.721856369708498,
+				"east": -38.52459461970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "5196165192321af37fe1ee093ec4a17df67a2a3c",
+		"name": "Museu da Indústria",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3121,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/112324357253000288595/photos\">Fast Store</a>"
+				],
+				"width": 3847
+			}
+		],
+		"place_id": "ChIJgyCYwExIxwcR3LsH-qyNr5U",
+		"rating": 4.6,
+		"reference": "CmRSAAAAWB6Y-Ci-cj4jmkyF6jNTy6W8ZKtnzuKI67rKE8eJyYbJ5C5mZwi5N45C-cUG0-IlBwwQ-4vEucN-NSJjpqAi-vWGrbqTwNtG9ETQTEaB8LOHGirlEybF_pYfi10G6dQIEhALjccVlcrpKVr7KQOhgsUaGhTF9u0SwN-XazNc06a8TGkGSo0Nng",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Doutor João Moreira, 143 - Centro",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.741750900000001,
+				"lng": -38.54362379999998
+			},
+			"viewport": {
+				"south": -3.743080130291502,
+				"west": -38.54495243029152,
+				"north": -3.740382169708497,
+				"east": -38.542254469708496
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "49ea0d94caf60d51186e186e1db11c0f7eb5f6fa",
+		"name": "Arquivo Nirez",
+		"place_id": "ChIJAcAcCRJJxwcRI7SI73iTDnM",
+		"rating": 5,
+		"reference": "CmRRAAAAz74-Nt615ryKk3_xC_FQZzece0LLivmoxETiNhrDEMSy-ctkNA-CZ0mYGenu-yazcJCCnz5GWBjOhcPTjXwTuLLXK--PAbTaRyDe1QZ4Ch_38WiYpgRNyRbsQ8NCm0d0EhAoCNahlvZiXHQL7sXBglozGhTKLNbQUt2nJZqin31-eftTqPh_yA",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Professor João Bosco, 560 - Rodolfo Teófilo, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8097679,
+				"lng": -38.579376300000035
+			},
+			"viewport": {
+				"south": -3.811065630291501,
+				"west": -38.58078048029154,
+				"north": -3.808367669708497,
+				"east": -38.578082519708516
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "17533375ec3b3df1f764a96755155effb5db4893",
+		"name": "Minimuseu Firmeza",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2848,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111998010766765057132/photos\">Lucas Michel</a>"
+				],
+				"width": 4272
+			}
+		],
+		"place_id": "ChIJFTwXtdxNxwcRL8Noahomz6g",
+		"rating": 3.7,
+		"reference": "CmRSAAAAuiZvY_JdVXKEqo2cPPCpKd_bwCBe2Dc09l9N2s56uxxd7hYuc7Z2JQXytZUxOkQGSnghZ--IwqcztGihgQuDKyzh5GZRDB0nXh0uWCtiAz1jA8BXXHXEwadhhxFVjmBGEhAG45fOfiyUXMpmPwFTzOqdGhTJnUeZ81OfvtOqQSQVuNAejMwumg",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Waldir Diogo - Mondubim, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8850655,
+				"lng": -38.42002630000002
+			},
+			"viewport": {
+				"south": -3.886437480291502,
+				"west": -38.42126683029153,
+				"north": -3.883739519708498,
+				"east": -38.41856886970845
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "c4c86cb85b0083c5637b5b189fe20cd7486800e0",
+		"name": "Galpão 51",
+		"photos": [
+			{
+				"height": 1836,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/118369670275986115413/photos\">Cláudio Veras</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJpYQ5EJVbxwcRep6d8KXuoH4",
+		"rating": 3,
+		"reference": "CmRRAAAAZJAiuNl9ztFGiLE8yek-D_lxLlBwI5gt6VeeQZAxNIgNT1D6SvZX8pbyGOcZEd8oANdpAe7uXVg2DL8J4fUC3qh-JJ4hf0hmY2ZcwOyZaxcGCWhVSdfvXHZlKthZuugnEhBBG2m8cKIXYBHuQJBAqubDGhTpjXu6kca422j1RbPj6SnQMxJ1qw",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Samira Taváres, 634 - Jacundá, Aquiraz",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7660404,
+				"lng": -38.59876969999999
+			},
+			"viewport": {
+				"south": -3.767386830291502,
+				"west": -38.60011308029152,
+				"north": -3.764688869708498,
+				"east": -38.5974151197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "d3119d38fb28b36af0b2e96ff043d98978638d9f",
+		"name": "Monumento PARE",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 800,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/116890999989051208898/photos\">Ruan Almeida</a>"
+				],
+				"width": 480
+			}
+		],
+		"place_id": "ChIJi4BPFndMxwcRCJROwOs1h_A",
+		"rating": 5,
+		"reference": "CmRSAAAAqp1pbQATQrDZXGJmqGnx8C10ee57d8zSw2LBhzJ3WMB-Scec5VGkeQWySfcJxl_btkJgJl5sOXMUowaORdpFhROfr0dwqR6q-Yq5XzWtjk8Az3mAxfjqJeR3uCEu9nrXEhBl6jYeGe1lFYJBnHWreF83GhSeCseQ9ia9FKFDMXsAk1ohuGMW1g",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Oitocentos Seis, 39 - Conjunto Ceará, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7308905,
+				"lng": -38.59995760000004
+			},
+			"viewport": {
+				"south": -3.732237130291503,
+				"west": -38.601315980291474,
+				"north": -3.729539169708498,
+				"east": -38.59861801970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "901d7c30f83c835c33ec4ae2ed60e519fd6a1399",
+		"name": "RM Moveis",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJYXk4rrJLxwcRymAKlqb6zps",
+		"reference": "CmRSAAAAON1GiMdiU246_GhVoguNmd99Q94YVaLVT7DwgYeHPnhLJLDKxN55eHfptY89vdjlLgbOHVai2luv9BFA7ACJ2MIBHQueW5p_EWFcBj-XKvBw9pHhcyD749KbvvZHH9leEhDOTk_myB_WgcKq3rld0ecDGhRpBLP6_sQHsW1wogMVw5xzIBd3pw",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Francisquinha Portela, 3005 - Quintino Cunha, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8847403,
+				"lng": -38.625226
+			},
+			"viewport": {
+				"south": -3.886089280291502,
+				"west": -38.62657498029148,
+				"north": -3.883391319708498,
+				"east": -38.623877019708516
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "6e6cb612df49b4fb2a4784ec0a5de60525fe413f",
+		"name": "Museu infantil",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJ7a1AvmVTxwcR9Ssu3O4pHYQ",
+		"rating": 5,
+		"reference": "CmRSAAAAwAvFEXr-nGeoA9H0WxUF_NdqcV4vlZGA0YLEdypSioOzxau7iezUQZaeJdnxZ-o1xrAJSd51AlEsg23yyc3OWhpKPjJ3ns9Td0TegqwE10f57xikyNdhq2oRELAa__I1EhACULp4gPxsMmk_FLtBSzoZGhResBD0Y2wsqjSZQ3om43sKD8VCEg",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Sete de Setembro, 23 - Independência, Maracanaú",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.943389,
+				"lng": -38.66336100000001
+			},
+			"viewport": {
+				"south": -3.944737980291503,
+				"west": -38.66470998029149,
+				"north": -3.942040019708498,
+				"east": -38.66201201970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+		"id": "6b41834198ed05331407ebc7bf931233e2048341",
+		"name": "Museu da Cachaça",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 4032,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/117691142194350235767/photos\">Ítalo Freitas</a>"
+				],
+				"width": 3024
+			}
+		],
+		"place_id": "ChIJB0s8p7CqwAcRtxU-DHqO1Gs",
+		"rating": 4.2,
+		"reference": "CmRRAAAAs6kTGXugVZaPVnr3qnar92VW-lyQeBYFkUB3m29L-hAn14PWhftmOLhaBdeU36Ighzwx_uS38QVJqRfR2sIY9zLFvf0kCbg1Tz65cOV2SQ_b3Ie91THt86H3vKvWCTtXEhA79aKt0mOdGcz8Eiq7uboKGhQTWoY3y4oHPlVlUEMTRLYJ0VqXgA",
+		"scope": "GOOGLE",
+		"types": [
+			"museum",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Estrada Ypioca, S/N - Casarão 1851 - Sapupara, Maranguape",
+		"html_attributions": []
+	}
+]

@@ -1,0 +1,754 @@
+[
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.724546899999999,
+				"lng": -38.50369749999999
+			},
+			"viewport": {
+				"south": -3.725946130291501,
+				"west": -38.50506288029146,
+				"north": -3.723248169708496,
+				"east": -38.5023649197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "b369877a68dc1494d349854207f7ecbc1c5a3e41",
+		"name": "I Love Tattoo Studio",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2322,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/104191195102873929050/photos\">Ramona Melo</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJLd7QvGNIxwcRGgzoymI_U8w",
+		"rating": 4.7,
+		"reference": "CmRSAAAA0fswOeYzVL8Mnl3kr-uyEQH39ForxHcGFY25XXXGfOLbx6h9agAirn_dD7H3Oj-hMqF6wJaA5Qjivi1OVGH65kKmgWdDRUu8W5GyxPtbK9N36UTa3wS8T3MLrfCJYZGLEhDKpEHW9Wr8yJiwR6fdJqybGhQT0fPN2YwNDfeUSzGs9xJIqrWh-A",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"bar",
+			"night_club",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "A - Avenida Monsenhor Tabosa, 1717 - Meireles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.732548,
+				"lng": -38.49005699999998
+			},
+			"viewport": {
+				"south": -3.733807180291502,
+				"west": -38.49137683029153,
+				"north": -3.731109219708498,
+				"east": -38.48867886970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "af8b8b1974f38c65e11f19fd1660d669419170b4",
+		"name": "At Home Hostel & Pub",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 4000,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/109128387444854202348/photos\">At Home Hostel &amp; Pub</a>"
+				],
+				"width": 6000
+			}
+		],
+		"place_id": "ChIJI5-pAXxIxwcRnlNosShhFQM",
+		"rating": 4.1,
+		"reference": "CmRRAAAAv4bYZy3hjM2JPljVjFQRrPHoRwMf_WikRmWpbjNhkMa_w2O_T4fJ1ayFK_oGjWbAt_xeoPsPlNYh2vrHveIOsLCA09ycw2PSHB2kbpLM3SF9e1CsxLdRbxlSJDQBP-YWEhDQC8yjR5f9GieuLFT3o2lIGhQNegRUAL-yywhdlhIl-pcmS6DxRw",
+		"scope": "GOOGLE",
+		"types": [
+			"bar",
+			"night_club",
+			"lodging",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Canuto de Aguiar, 1424 - Varjota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7191613,
+				"lng": -38.51667800000001
+			},
+			"viewport": {
+				"south": -3.720549880291502,
+				"west": -38.51810178029149,
+				"north": -3.717851919708497,
+				"east": -38.51540381970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "36a1513dd23afaeb1f4a2a81a11c61e9b2a19808",
+		"name": "Pirata Bar",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2322,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105319999416699668457/photos\">Riciéri Carlos de Faria</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJd0_dD0hIxwcRaLBVGlSJIBI",
+		"rating": 4.3,
+		"reference": "CmRRAAAAT2O8h3x3AI9azy0KSp459eq52qDzEYUew9sm4vATkCXKDF4WJ4pcFb-aVoMuSubxZs8tpqyQvJNEjmjwK-Qyqgs8UT3_WM2vHE_v5X67yWJhPno2yeYi8L9FEG86Ri_REhC0E65oEs2cZW8cWeTlksKpGhTSodfujWg1E-epO1gvql9IjIFjFg",
+		"scope": "GOOGLE",
+		"types": [
+			"bar",
+			"night_club",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua dos Tabajaras, 325 - Praia de Iracema, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7219542,
+				"lng": -38.51884150000001
+			},
+			"viewport": {
+				"south": -3.723247730291502,
+				"west": -38.519958180291496,
+				"north": -3.720549769708498,
+				"east": -38.51726021970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "a37109dcc19f54e89453fbe2eaed2ace7c0329cc",
+		"name": "Donna Santa",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1080,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/106698970163232290234/photos\">Jose cordeiro Junior</a>"
+				],
+				"width": 1920
+			}
+		],
+		"place_id": "ChIJU5xwxEhIxwcRIaTZ8T7Whmg",
+		"rating": 4.2,
+		"reference": "CmRRAAAAb7cFgBg3tmtUoTzlWWRkzyn7S4EvySznGfeX-sEjs7mDxv5Cy6aLJoSrfxb7iBetWaofvzExK9GEqJxzhCq_fLti25PKUfSH4KIggd58n7omTxUoChIEbzVX_8lrum2TEhAjHRjPnAs-tWHd7k_o49jSGhQ3dLPWWfWx9sN8FJRcrB0d04B_Gw",
+		"scope": "GOOGLE",
+		"types": [
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Dragão do Mar, 230 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7474458,
+				"lng": -38.495650299999966
+			},
+			"viewport": {
+				"south": -3.748835280291502,
+				"west": -38.49701223029149,
+				"north": -3.746137319708498,
+				"east": -38.494314269708525
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "db7903961e78ba0f3a890ac3c436c33b3ded5968",
+		"name": "Bar Boteco Original",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3120,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/114617875925004762149/photos\">Israel Cavalante Portela</a>"
+				],
+				"width": 4160
+			}
+		],
+		"place_id": "ChIJLbEpBppIxwcR0KO2lY5CAAM",
+		"rating": 4.3,
+		"reference": "CmRRAAAAydUciIx968Xs2ZCbOK1JA7ZF8H_tRQMibQv2crXBPJ1LxOq0mA5QGnllTkzrfP76v41G0HYQ8n2WWivlsxp-mfqBkECzxM1RUyhx7hPwfAlSsi23bLhMC5xuyzxJwMBBEhDDxrCckaEmRdk1cNe4RjpzGhSzkxLqmVbCJlhKkdEOt3zPgizwrA",
+		"scope": "GOOGLE",
+		"types": [
+			"bar",
+			"night_club",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Antônio Sales, 3177 - Dionísio Torres, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.719399,
+				"lng": -38.516296799999964
+			},
+			"viewport": {
+				"south": -3.720712180291502,
+				"west": -38.517639980291506,
+				"north": -3.718014219708497,
+				"east": -38.514942019708485
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "a75c53f2eca4156ef3ae69a567a10160bbd43b63",
+		"name": "Brom's Partyhouse",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1366,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/101590804958276182103/photos\">Brom&#39;s Partyhouse</a>"
+				],
+				"width": 1368
+			}
+		],
+		"place_id": "ChIJ7fCE20dIxwcR-grv7I06VN4",
+		"rating": 3.3,
+		"reference": "CmRSAAAAAYvtTiVqyt8HBw---l8aHQC7TBEOWy4qjI9RPd5GmJBo7qM7-RFsmbGfY0XRjcoE-120zUjmh5jJ_yC2s0TRp2XXm2QrKL2oHT3AzNcuWMNIFWYyaxCrETkQvBoT6rFCEhB8-2YLST9DZIfy8gU5vFLyGhTlgeykn2F0K_x60YYQ8BpX5QyqEA",
+		"scope": "GOOGLE",
+		"types": [
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua dos Tabajaras, 402 - Praia de Iracema, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.722096499999999,
+				"lng": -38.51900669999998
+			},
+			"viewport": {
+				"south": -3.723317630291501,
+				"west": -38.52035513029148,
+				"north": -3.720619669708497,
+				"east": -38.517657169708514
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "9fdda8e8c71882cd9d7f365ef0923d3f9ce4c64c",
+		"name": "Level",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1080,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/108697494056009641766/photos\">marcelofort Silva</a>"
+				],
+				"width": 1920
+			}
+		],
+		"place_id": "ChIJHTn82EhIxwcR12Nsa8BHllA",
+		"rating": 4.2,
+		"reference": "CmRRAAAAQsXApIERR9I0D4nkbrBISjbNyZJVhCsvqTOxlTyHE7Ge1-V9OWcPIUxe5-3j0YVyCsiF03PMAROuSd5hyQ7nicI_8jShuBq3mWmToyJHNifnIIkL_DXXTnagesOeb4GNEhDk6edKuGXcoSDoMwPu3o99GhRn-2hyqxqfsfBgTXn4Wn_m_CIh6w",
+		"scope": "GOOGLE",
+		"types": [
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Dragão do Mar, 218 - Praia de Iracema, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.721723799999999,
+				"lng": -38.517536199999995
+			},
+			"viewport": {
+				"south": -3.723127380291501,
+				"west": -38.51888333029149,
+				"north": -3.720429419708497,
+				"east": -38.51618536970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "4f87ab3d109da2c4a90a4efbba56b715c343c71e",
+		"name": "The Pub - Fortal",
+		"place_id": "ChIJX0wUJ0lIxwcReWDg0Y24wuw",
+		"rating": 4,
+		"reference": "CmRSAAAAZtygPEi0EJ3IC9ILsxf2NVdVndqb8uIjBx0kTOjfxmxOtQ7JKFI3iXHTdqB0eZbHtTMWmUVAKEHzR96pnOPlKk8n0Av1GGhSeLgFJ8lVm2VhF2NhCcvFaTR0JPIY86cYEhB-YEx53AL7YAK8Mkfi1rMXGhSXAhIso54sbtADbM0HmgwshqAcYw",
+		"scope": "GOOGLE",
+		"types": [
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Dragão do Mar, 198 - Praia de Iracema, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.844737899999999,
+				"lng": -38.518553
+			},
+			"viewport": {
+				"south": -3.846121080291502,
+				"west": -38.519863280291474,
+				"north": -3.843423119708497,
+				"east": -38.51716531970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "b92fe4ecaf9f6f585c710c06ae53bb91b2a68426",
+		"name": "Ev'Club",
+		"place_id": "ChIJ85BYwCZQxwcRBhtZBgbxPpg",
+		"rating": 2.7,
+		"reference": "CmRSAAAApHFl-yszVXrwQO9zoKPNJKoH-1bO5qnxNKXTp3xDa6PmdJzDAO84eWAvH2bxXTVSlrq1eOGRbCLxv02QXQXptQRAbxoarbAdozF0qfcNlWvhM2CeYFhKWPQ01xjNzmXqEhBjwNerL0bmyZWGTetKN0DqGhQPEwstaMcKRxUpSVkLeN2ngvabnQ",
+		"scope": "GOOGLE",
+		"types": [
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Domingos Alves Ribeiro, 440 - Jangurussu",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7395546,
+				"lng": -38.5092803
+			},
+			"viewport": {
+				"south": -3.740898080291502,
+				"west": -38.5106479302915,
+				"north": -3.738200119708497,
+				"east": -38.507949969708534
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "3a1571290218a96e18fe3f43ab96bdb3ee5a6a9f",
+		"name": "Obará Danças",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"place_id": "ChIJxRfnevRIxwcRZtsx4xOe6MQ",
+		"reference": "CmRSAAAAnV5_TWU6w6fPZt71x_R4KQUST5WtZR-Mg3hTQ84ifamjfFpt04E4-Iki6B37Bjii1a7DRn7fgZHYn4Jb0A9uMBEYyCpZKDD2UHbnXEIqJSvAWvr8iey4OU9tlTwbcfyBEhBmVk2XiAyDv4w1gnDX2q8YGhTv3VIVDF3nSK9azmx7UMTN8yF3Yg",
+		"scope": "GOOGLE",
+		"types": [
+			"gym",
+			"night_club",
+			"health",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Doutor José Lourenço, 1711 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7968498,
+				"lng": -38.492215999999985
+			},
+			"viewport": {
+				"south": -3.798156180291503,
+				"west": -38.4935599302915,
+				"north": -3.795458219708498,
+				"east": -38.490861969708476
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "ae9d3f2cc0be8632f4411f03f831b2c5f8c44cf1",
+		"name": "Salão belíssima",
+		"place_id": "ChIJa0QH2ntPxwcRYnwQ1YHxTVM",
+		"rating": 4.8,
+		"reference": "CmRRAAAAVas9gAK9Wx9YH3I9LQWTsZJ4RWXVnFEKQrjQ-TvbarHqBp_XTVslSSIcxHoXFBKGZ8RBi21Giboxh6aqnLrvWkD3rO-TcDj4JN-BNPcYqfc5kIYedu9LH0l-QHyQuzz5EhBZ37AetDjovgTbmxl1sDkkGhTd-nEcNuADM2pidLAHas1Rg3ycWA",
+		"scope": "GOOGLE",
+		"types": [
+			"bar",
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Virgílio Paes, 2580 - Cambeba, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7924735,
+				"lng": -38.50752019999999
+			},
+			"viewport": {
+				"south": -3.793779230291502,
+				"west": -38.50888938029152,
+				"north": -3.791081269708497,
+				"east": -38.5061914197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "9672c72a90fbe878971382f4da61d2efc255f401",
+		"name": "Forró do Damasio",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3096,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115530111188001127849/photos\">Raimundo Parente Timbó</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJf2MvYQ1PxwcReCY8jMkuRnY",
+		"rating": 4.8,
+		"reference": "CmRRAAAANuBfQm32dPe5YwHdFVMQZXbMRHx6zWUOV1ru6BUujvKgvuxaITSSGZ3C2508B1vpAiW7TxoWFgeHsIj-reQ8QCZoXahKmML_GdJUQT_EgW8mpkYHhGil2SkS-SfG2RnTEhCmtEVoYc7QynS6talAkrmHGhRGKaomNavigS2BqLezS4a32L7nFw",
+		"scope": "GOOGLE",
+		"types": [
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Júlio Jorge Viêira, 40 - Cidade dos Funcionários, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7736139,
+				"lng": -38.51389640000002
+			},
+			"viewport": {
+				"south": -3.774962880291501,
+				"west": -38.5152453802915,
+				"north": -3.772264919708497,
+				"east": -38.51254741970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "deac2f3b99e0c187af52a21176256aa8ce9bfd0e",
+		"name": "Fortaleza",
+		"place_id": "ChIJAQAAADFPxwcRgt6ZKxCZaLs",
+		"rating": 4.1,
+		"reference": "CmRSAAAAB6oUzdk-4GivnizoXWXR7xZTIUDip7VgGZ2SENdosfas9ask43lh5MmGCjbMBYxOl3QiHNQVYOl82bpvPBGKpw5VjKxitJeT4L_JWDq8TNZscRITRrh1_htrVacpMDKbEhA6rGWc3GHvTRYm7mJs1k85GhQL75thacs6a15-E2xVak2BkggA3w",
+		"scope": "GOOGLE",
+		"types": [
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Aerolândia, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8311443,
+				"lng": -38.49573269999996
+			},
+			"viewport": {
+				"south": -3.832534930291502,
+				"west": -38.49686763029149,
+				"north": -3.829836969708498,
+				"east": -38.494169669708526
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "f4316cb64b2837236d273e74c31424e287c1d35b",
+		"name": "SKATE PARK MESSEJANA",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJ0wK0LeNPxwcRDDOIPY9Zbhs",
+		"rating": 1,
+		"reference": "CmRRAAAAL3MHrZHhit15Fo0S9RIWp1nakNVhsIWMGakwmYsZEKGaDvsyk9ae6e-3Vb_1kJ3PA5tuZalwMBXKb3na7kH7B55YoTD9nR7eAvKzS83GxWk_CizuA4WChFXpORUu8T_nEhBjeHQwC8PFHZpkgMIEDqaBGhQGZ36MGfC3GL4251ltbZlUQlCu0g",
+		"scope": "GOOGLE",
+		"types": [
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Capitão Afrânio, 177-181 - Messejana, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7465512,
+				"lng": -38.49930169999999
+			},
+			"viewport": {
+				"south": -3.747827030291503,
+				"west": -38.500626430291504,
+				"north": -3.745129069708498,
+				"east": -38.497928469708484
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "3ab097b868d7d57816f3f1036dd5f08085ee6141",
+		"name": "Pink Elephant Fortaleza",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1836,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/118342955176178685185/photos\">Samira Pires</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJu8jIEZFIxwcRqdH5HQ7FUps",
+		"rating": 3.4,
+		"reference": "CmRSAAAAqd7BO8kzuqp8p_VYUQk0vvGgWGmDbOHEbdLawNh0dOeIdhLDSXtsE689E_P18nMwuhoV5DTT2sDEtsIbn1GdVsdfLrfwQyrNUGY_xrmrPliriH74sifOlYgPdwlzAB-0EhBpJJdHMxBnjhzxlZdGrnqQGhTPImgEi4c05e5vF9O-iIWR3ymLUA",
+		"scope": "GOOGLE",
+		"types": [
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Antônio Sales, 2760 - Dionísio Torres, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7487648,
+				"lng": -38.50483830000002
+			},
+			"viewport": {
+				"south": -3.750036380291502,
+				"west": -38.5061626302915,
+				"north": -3.747338419708497,
+				"east": -38.50346466970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "7cac1d270dfb27cefc418301c7a6f836b6643242",
+		"name": "Estudio",
+		"place_id": "ChIJS7dbwJRIxwcReYcqQWJ4fJk",
+		"reference": "CmRSAAAAOGXvOl1OwaLGD2QIViFdobJ4xfodzJZQtScgZqsBvxykvovAWBtQSF8JsUWAoNT9oO3RgmLN4rbueh9_WhASt1JXAXtfccM267PVgfN6AZOb0HYauDbtpCAp3QD7Af4fEhDZMQKoNy-cXB7T7dKTdhzQGhSbSkiuZVmvCJjCD1Q09DxY15bNIQ",
+		"scope": "GOOGLE",
+		"types": [
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Francisco Holanda, 638 - Dionísio Torres, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7414923,
+				"lng": -38.494421999999986
+			},
+			"viewport": {
+				"south": -3.742810580291502,
+				"west": -38.49586218029151,
+				"north": -3.740112619708497,
+				"east": -38.49316421970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "f229a21b248d0720c685a21e5a41b1493ae2083b",
+		"name": "Austin Pub",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3456,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/117193650367351709216/photos\">guilherme guiloneto</a>"
+				],
+				"width": 4608
+			}
+		],
+		"place_id": "ChIJl5_G54VIxwcR-vyqLdCa7to",
+		"rating": 4.4,
+		"reference": "CmRSAAAAN9CcEwLmDcvs6nflZqqp3MTEoQ6yNehKFugvKjfC3-_JvZ_eWsYcpfC6aUdsPyw1GDfSjsrVhaKk5daJDiMPxBD8omd6SjpxBmLWOwQdCexHb6xsmsgCNEPXiEZSdM5YEhC5g9Yj6UmMWLj0Lnbr69h_GhTWX9lF6c4laFoQ2Cu30vg0Mhc9xA",
+		"scope": "GOOGLE",
+		"types": [
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Senador Virgílio Távora, 1727 - Meireles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7375751,
+				"lng": -38.49790919999998
+			},
+			"viewport": {
+				"south": -3.738924080291502,
+				"west": -38.49925818029146,
+				"north": -3.736226119708498,
+				"east": -38.4965602197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "b95451f095e1e00bcddf43271474b62982cbd28c",
+		"name": "Saideira Studio Bar",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 312,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/100001650914473685121/photos\">Saideira Studio Bar</a>"
+				],
+				"width": 312
+			}
+		],
+		"place_id": "ChIJS1wcRB1JxwcRI5XrAPlzDFc",
+		"rating": 5,
+		"reference": "CmRRAAAAG8M-tlsJ4Qp_jENLtLlX1uqdJAgvnyRNxeeCNt_quChmC_CzX6yffrQmS4Ep60QksJqbfhGr4c5rNaL5aQ2GqMIQ_MdKiRFJuZeUn-G3xDsbWCR_yapjE5lkJJ7Iq7cmEhAHfFpc90xtCFekHV0b1hzBGhS9mRPpkRXyt19JnhIOLIQIRyzAxA",
+		"scope": "GOOGLE",
+		"types": [
+			"meal_delivery",
+			"bar",
+			"night_club",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Barbosa de Freitas 1276 Sala 06 - Aldeota",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.730911,
+				"lng": -38.458953199999996
+			},
+			"viewport": {
+				"south": -3.732275130291502,
+				"west": -38.460389180291486,
+				"north": -3.729577169708498,
+				"east": -38.45769121970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "c29f33ec237cc514096bf530557164302810a5be",
+		"name": "Reator 51",
+		"photos": [
+			{
+				"height": 612,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111727513601408339920/photos\">Housic Eventos</a>"
+				],
+				"width": 720
+			}
+		],
+		"place_id": "ChIJt-mdNrdHxwcR_TXvuO-e9L4",
+		"rating": 4.5,
+		"reference": "CmRSAAAA7AhUgzr1FWigMyURY3TWgx5zgNavi0eKYGLDZzaY6_jnVH4Wq_fQoUvelSuZ9O1K6hb2Erp1mPmaFQf9pmX8DDGL7IAaFu_aSSJ4_UVlW8D2hPZ7z9aviz0Yp0ecJYDGEhDlV7SXn8-N1ehajHdVmdv3GhQcjCmlKwssZeHZdyeVeSoJm7M2Mw",
+		"scope": "GOOGLE",
+		"types": [
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida César Cals, 1595 - Vicente Pinzon, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8031287,
+				"lng": -38.536000899999976
+			},
+			"viewport": {
+				"south": -3.804499580291504,
+				"west": -38.53735018029147,
+				"north": -3.801801619708499,
+				"east": -38.534652219708505
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "d5a436e85403375bb24ff416e2b9769c95212d82",
+		"name": "Nail Fauth Esmalteria",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3072,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/109702233082528355307/photos\">Yaggoh A. Design</a>"
+				],
+				"width": 4608
+			}
+		],
+		"place_id": "ChIJ_eW7y1BOxwcR5QTr0tFGzAs",
+		"rating": 4.3,
+		"reference": "CmRRAAAAbyEmeyE-IeA798hXKiE3em0bCTKclvQ71GoxK3ecwQSPnOXm0g1jSH4JPJCFplk2TuyZdz2YmtSMeasS0qTYldMJ5vW_nlCHTvyRo-xmK3EXo4o8TNOg6JFL6UbeFJbPEhAVoKUUtTV2cE8aPmaM0hMYGhQMl_cM56FeFQETmf5y7lIhgDDWGA",
+		"scope": "GOOGLE",
+		"types": [
+			"bar",
+			"night_club",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Heróis do Acre, 926 - Passaré, Fortaleza",
+		"html_attributions": []
+	}
+]

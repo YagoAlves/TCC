@@ -1,0 +1,852 @@
+[
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.724546899999999,
+				"lng": -38.50369749999999
+			},
+			"viewport": {
+				"south": -3.725946130291501,
+				"west": -38.50506288029146,
+				"north": -3.723248169708496,
+				"east": -38.5023649197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "b369877a68dc1494d349854207f7ecbc1c5a3e41",
+		"name": "I Love Tattoo Studio",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2322,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/104191195102873929050/photos\">Ramona Melo</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJLd7QvGNIxwcRGgzoymI_U8w",
+		"rating": 4.7,
+		"reference": "CmRSAAAAD7ok7R4rjQbNSWMsxnIZlfrryMh1tvi1ztqIHrAxpYCCXt2k3PcmhaIW7oCFa1k7YWAJ1E1dOSGVLLUrqSr8HV8Hxy74hVk2KgaqVpoh5QHxgepEgbogDYPHjI_AKus6EhA55m4nBDojgWpRS8V6iNcbGhTmvU80CJepuY7gsx17ISd-xljUqA",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"bar",
+			"night_club",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "A - Avenida Monsenhor Tabosa, 1717 - Meireles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.734955199999999,
+				"lng": -38.49670119999996
+			},
+			"viewport": {
+				"south": -3.736278880291502,
+				"west": -38.49812858029151,
+				"north": -3.733580919708497,
+				"east": -38.495430619708486
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+		"id": "229b738bba56b7076a53a499246bb6a3a938d8b4",
+		"name": "Café Pagliuca",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2322,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/104260073614637494335/photos\">Ana Régia Oliveira</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJC4vdlWJIxwcRGN0b3ZkjWPc",
+		"rating": 4.3,
+		"reference": "CmRSAAAAJ6qzl0cfAcszsYYm5JabrolJGZNaixFtXpQpsI7eW95gtOyoS27rKoNxhR-82-9_gRSPAC_yonGXO1ZCs6lPfGE40V6atqUWw6wflF3cvU-ZuJBy7m_sWHnjJpEEukE1EhDS1yW2WltYXEAVnZeLxIx9GhTviiZM7GJQoh0yqbISXbO9SLitHw",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"bar",
+			"restaurant",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Barbosa de Freitas, 1035 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.735551,
+				"lng": -38.48737410000001
+			},
+			"viewport": {
+				"south": -3.737087830291502,
+				"west": -38.48875028029153,
+				"north": -3.734389869708497,
+				"east": -38.486052319708506
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "38ddc9b26b394f349e2992f038039e5137d2a3ec",
+		"name": "MONTMARTTRE",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2592,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/103563385928777647552/photos\">Rafael Farias</a>"
+				],
+				"width": 4608
+			}
+		],
+		"place_id": "ChIJedSu7H1IxwcRtMvT744zqtY",
+		"rating": 4.2,
+		"reference": "CmRSAAAAXmxGV0bOS2t4EhlhWwom_19Bmt52bqxIkxDJDA4RoAIhHX3g8IJzCXLP-MeXy6pWlTRaI5xMChWd_H_TENytvsmeS2bJdwkIK3JCufxpeesUuVf49XrEPij_Z_dNf1uiEhAvCRR_WHiuvCsL0zJ_62W1GhQUdy5t0LMbUub1AyNTeAhLhFIsFA",
+		"scope": "GOOGLE",
+		"types": [
+			"bakery",
+			"cafe",
+			"restaurant",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "AV JULIO ABREU 175 - LOJAS2,3 E 4 - Varjota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.668481899999999,
+				"lng": -38.67520960000002
+			},
+			"viewport": {
+				"south": -3.669785830291502,
+				"west": -38.67662353029152,
+				"north": -3.667087869708498,
+				"east": -38.6739255697085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+		"id": "ad80c5235e817cfe57bd51be2491008587e456f5",
+		"name": "Tapiocaria e Café Matuto",
+		"photos": [
+			{
+				"height": 1932,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/103520481780466760640/photos\">De um usuário do Google</a>"
+				],
+				"width": 2576
+			}
+		],
+		"place_id": "ChIJydEhmOfKwAcRdCuiDU0KpyY",
+		"rating": 3.7,
+		"reference": "CmRRAAAAoEQEEsONW4kJNn7WOpOnEnUvMDBq6vVPwLuyy1m3AdNXJ6tTaD9qs0aZt9n7JbB3PKJZcZDldrmk672RW9Bbq0rrRL9PzJt2DIYmU5hKiR4LC0ZxZHDL8uLT1stUSxgGEhB4I_O_XktLWudDLHt1yDPaGhTaQvBl65IgEjfQ7zumC2QI0Y6KUA",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Central, Caucaia",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7360831,
+				"lng": -38.506856200000016
+			},
+			"viewport": {
+				"south": -3.737409830291501,
+				"west": -38.50827538029148,
+				"north": -3.734711869708497,
+				"east": -38.505577419708516
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+		"id": "b484bf2a48e27201fd0945f1ad09fcf6b81c3e1d",
+		"name": "Zen",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2448,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/101463195214793325187/photos\">De um usuário do Google</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJgeBWQfVIxwcRoUKnX0M3q-A",
+		"rating": 3.9,
+		"reference": "CmRSAAAAYvAg78-2vipDhZz_l6GH9nTqgd5eLhqLock2-xBB3S0U9K-n2ZI1oLednRgAo7UWa93Rfjk4oGTqaPejuPPSEDSioSdGgUn7zJcBvT5TEPubcnhlwv9hWat4c7xQurlYEhBzNHdspehI34oAXZpa37OyGhSWBIQNwrmDUHLIjeAZfuguP2zMqA",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"bakery",
+			"restaurant",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Barão de Studart, 1373 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.782469,
+				"lng": -38.55336599999998
+			},
+			"viewport": {
+				"south": -3.783813180291502,
+				"west": -38.554726830291486,
+				"north": -3.781115219708497,
+				"east": -38.552028869708465
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "31580c548a69c0e3ece128998152f9f962197bc6",
+		"name": "Casa Glacê Alimentos",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 315,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/113564252755959076448/photos\">Casa Glacê Alimentos</a>"
+				],
+				"width": 851
+			}
+		],
+		"place_id": "ChIJEWH6C5ZOxwcR-up7IAV2S4M",
+		"rating": 3,
+		"reference": "CmRSAAAASG87PdWBws2qnbgdc8wi-_M2B-uP3-mwWvxoba0uOu_3ORJfhS0Q92t1WXHGvcuVZ3YDqYe6HiQ2Gs4983deAVAETyhw4VomLsLrDRakOB2ghKDRX_MfuOyQ3Sqei2XBEhBatnvbucYBoA4T4OBPsOabGhQRt338piDB3Fq7sdRx1lNwjr6hMw",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"restaurant",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Governador João Carlos, 840 - Serrinha",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7535872,
+				"lng": -38.50876519999997
+			},
+			"viewport": {
+				"south": -3.754853730291502,
+				"west": -38.510123730291525,
+				"north": -3.752155769708498,
+				"east": -38.507425769708505
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "2c5b4e0ed922983f183205c2376a5ed8fdf63c29",
+		"name": "Confeitaria Sublime",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2340,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/100651227038127656447/photos\">Jefferson Quesado</a>"
+				],
+				"width": 4160
+			}
+		],
+		"place_id": "ChIJWWu1q8FIxwcRXlnaw_CK04k",
+		"rating": 4.5,
+		"reference": "CmRSAAAASheTNpELcuT0w7Cgss4l99jL1U6STA913RI9-SrjozBcoD_wSeGOM04U5Q0in2JKVkbgVt46E8ZHlbaxSh-jjvC6FyrYeEj_YAqQ5cTBMF92h9QDVwpYBU9KC0CAZjWOEhAGcXHY6Hi0llkC3EGKOwTkGhSvpL5TH2-E8s5Q0AdlmENxACU3RA",
+		"scope": "GOOGLE",
+		"types": [
+			"bakery",
+			"cafe",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Eduardo Bezerra, 1276 - São João do Tauape, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.746233900000001,
+				"lng": -38.4697678
+			},
+			"viewport": {
+				"south": -3.747555830291502,
+				"west": -38.47119683029149,
+				"north": -3.744857869708498,
+				"east": -38.46849886970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "84cf12f892e8dad9ceb0412d173c37c5240b5ad9",
+		"name": "Padaria Vovó Joana",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2160,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/104317032192248258195/photos\">Olavo da Silva Jr</a>"
+				],
+				"width": 3840
+			}
+		],
+		"place_id": "ChIJ0SZkBjpGxwcRDW7MUCo1Gjc",
+		"rating": 4.3,
+		"reference": "CmRRAAAAUSGqBt8mmN6NNKyuOSLuXme8OQG3eYqUh3zhpngh_3T10SLfSU3J4F-DExyqb7HMvqylLjE-xg5Ej7AYojlPBZ-g9wTHGApD9sSnSeFcci7FLanAKKiGc4L3pL_oZTHQEhBCxqX23jmMVHQoNbkyA7NJGhShg0ZBlno2_cBJjtOx-5SYZLcYxQ",
+		"scope": "GOOGLE",
+		"types": [
+			"bakery",
+			"cafe",
+			"restaurant",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Doutor Francisco Matos, 279 - Cocó",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8297994,
+				"lng": -38.493829000000005
+			},
+			"viewport": {
+				"south": -3.831148530291502,
+				"west": -38.49517703029153,
+				"north": -3.828450569708497,
+				"east": -38.49247906970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "af3f5e70ec7c6eff2a664bd48d0bb322dda0fa74",
+		"name": "Panificadora Nogueira",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1836,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/114730806831509525260/photos\">Panificadora Nogueira</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJ-bAAnPxPxwcRRxvaQ9FIOCE",
+		"rating": 4.3,
+		"reference": "CmRRAAAA_3PP-v_I54rlxx9obZveIyXBKoM5DiA4qaFZepNIGOsCal_hzYcEV65kkX5-Zveldb__HCo8DVFcSTDxC4ic5wnkneDzKx5OghettHhOOoJEKL2ZAbMTu17pbTp9xICIEhBXsaEhOmde46rdGiRh_UEIGhSbRHiZv0qh9U0yvyukrYUcF_kF5A",
+		"scope": "GOOGLE",
+		"types": [
+			"bakery",
+			"cafe",
+			"restaurant",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Padre Pedro de Alencar, 244 - Messejana, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.751936,
+				"lng": -38.52823699999999
+			},
+			"viewport": {
+				"south": -3.753304980291503,
+				"west": -38.52960313029149,
+				"north": -3.750607019708498,
+				"east": -38.52690516970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "64afcf920cb024be3375f3ed2587ec9f21630271",
+		"name": "ATENDE",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 480,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111405530414570747621/photos\">fabio brandao</a>"
+				],
+				"width": 640
+			}
+		],
+		"place_id": "ChIJTbG96iBJxwcRUJHQ0H4bv6w",
+		"rating": 4.5,
+		"reference": "CmRSAAAAQPxFTu23LMkX5lFP0b5F2udy6IKj82wpqJcJzyWflogb-VCOrvSpzRVTYq1XWDyx2fBp6d41gpJJmUSDmiCmDgQmQc6ahVHROcNr8RxyWoSzQcRDY5-YJe0q0DfCLh2DEhAdWXLw2wJPTrBEpPba6AITGhTEGLMpwsack6HBlZqdtP4m7p6PAQ",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"restaurant",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Mario Mamede, 866 - Fatima, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.738771600000001,
+				"lng": -38.50479139999999
+			},
+			"viewport": {
+				"south": -3.740007230291503,
+				"west": -38.5061037302915,
+				"north": -3.737309269708498,
+				"east": -38.50340576970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+		"id": "ab3e22cd2669b1ce37deaa5d0ed306992d26d365",
+		"name": "Novo Café",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 336,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105657291952310381661/photos\">Novo Café</a>"
+				],
+				"width": 448
+			}
+		],
+		"place_id": "ChIJITeT_3hOxwcRFg_-JIp1IvE",
+		"rating": 3.3,
+		"reference": "CmRSAAAAOTk94XzP2O5EKvs9HdgIeyXLWcwmr3VXEaftwNByt7X4PBG93KvvR1i2v5zFOVti04F7NBbx8mPO5B6IgIt6pufMHK7MGO-Rk9quzcdEKBnJ4ADeu6XRV0ERVb7bQOdREhAxhUgmmEaeE3MPT24Q51JrGhS2s7yHuxMowZL19iB03xw16TD6SQ",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua João Carvalho, 800 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.769749300000001,
+				"lng": -38.6561633
+			},
+			"viewport": {
+				"south": -3.771082430291502,
+				"west": -38.657480680291485,
+				"north": -3.768384469708498,
+				"east": -38.654782719708464
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "9f2b0e510c721951b6b3c6811f16a30c9a9febc1",
+		"name": "Panutri - Pães e Sabores",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1440,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/102788129597969847044/photos\">Emerson cavalcante de Lima</a>"
+				],
+				"width": 2560
+			}
+		],
+		"place_id": "ChIJ33oTVEyzwAcRgkx5ZMRMuh0",
+		"rating": 4.2,
+		"reference": "CmRRAAAAOhzCk9gax5vrazJImC4cLr7kuHNURr7KgVhFFqfP8nWTm3YHjjWw1SX2kGisH5wzOd300fUjvDdEl0lhsxuTu3fYSItDz_g3VPDdJPKPNcgZYc5H25TwKwMIlAbFGuruEhB2S3PRzizKI-Iid0ibgCALGhRE02AK__eHc8W1DBPlcqmNEUPy7Q",
+		"scope": "GOOGLE",
+		"types": [
+			"bakery",
+			"cafe",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida C - Nova Metrópole, Caucaia",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.742421,
+				"lng": -38.53768939999998
+			},
+			"viewport": {
+				"south": -3.743803130291502,
+				"west": -38.53900013029147,
+				"north": -3.741105169708497,
+				"east": -38.536302169708506
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+		"id": "a7dfa3463bc56d226aa55d1255ffff98e6504d94",
+		"name": "Vinyle Café",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2316,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/102112242508659093324/photos\">Mário Henrique C. Silva</a>"
+				],
+				"width": 2665
+			}
+		],
+		"place_id": "ChIJGdMo7Q5JxwcRl3NU3akmHoc",
+		"rating": 4.1,
+		"reference": "CmRSAAAAFuSJCRyEWR5BTUJnfF57phXUHLYdcPBkZgyPeWMpbwqPp8DWJhvNijoN65L5ty1DcxjM0tNPQmu2BiS0fpoALPjN0ie5hPD8NDuh1lnGtyzJnkg3z2brRBdBxKkO5jncEhDvUZlzmEleZ6KQqRSvjtcoGhSo1thvwPPzy0Yl_TjhD8e8igaOTQ",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Waldery Uchôa, 42 - Benfica, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.718771200000001,
+				"lng": -38.56825229999998
+			},
+			"viewport": {
+				"south": -3.720167030291503,
+				"west": -38.56961173029151,
+				"north": -3.717469069708498,
+				"east": -38.56691376970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+		"id": "193b6f5d2770daa805b9f5cdb5de3b71903103fb",
+		"name": "Gaspar House",
+		"place_id": "ChIJf3Nwa4pJxwcRLfUNgxs77cU",
+		"rating": 2.5,
+		"reference": "CmRSAAAAGiUKD1jEZ2bXYiKD8TO_jyiGFO0M_YmHIaVamuAlbZLNLhsI0Ll6VTS_99YQni88AQ4IeyYnht3vUqj7s3DliJtCWU4JBYvUq2eZ2ZqtD4LxcMhMgKU_AUeloPtwDXguEhDn9Te_diz8QYDuw7r8Yu98GhQcSeLAuPA4XOlPmgS0o83KjULLPw",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Trevo, 44 - Álvaro Weyne, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7349389,
+				"lng": -38.56622219999997
+			},
+			"viewport": {
+				"south": -3.736287880291502,
+				"west": -38.56757118029145,
+				"north": -3.733589919708498,
+				"east": -38.56487321970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+		"id": "f440d61c6978ab454e097f67b0aa3ce0d0ba1439",
+		"name": "Chantilly",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3096,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111324650409081574724/photos\">Thatiana Lima</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJT0Xye35JxwcRIMmubl4m0TI",
+		"rating": 2.9,
+		"reference": "CmRRAAAAPULpiEF0QDNdZuzfshLPD-I6gu0uuLxHsV1RlMkScR0JW17fsIvoAxXND3M82bEpu21wJFEopydO1PnmLfajUAJ4Fvv-tqI4VIyhi8wfH3c7OApTXd_NUiNQ7mCX5WULEhBJL_q8kVEwb45wD5ICH7D4GhRmsngMMItE98lz0BmQZr4WLdzeGw",
+		"scope": "GOOGLE",
+		"types": [
+			"bakery",
+			"cafe",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Bezerra de Menezes, 2450 - São Gerardo, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.719582,
+				"lng": -38.51609240000005
+			},
+			"viewport": {
+				"south": -3.720961930291503,
+				"west": -38.51735883029153,
+				"north": -3.718263969708498,
+				"east": -38.51466086970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+		"id": "91041c9177006cba67d5630ef64de42d4d1b42e8",
+		"name": "Brom's Hard Rock Café",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 600,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/114382095119848297634/photos\">Brom&#39;s Hard Rock Café</a>"
+				],
+				"width": 800
+			}
+		],
+		"place_id": "ChIJe-CC20dIxwcREaDy_eXk4Ug",
+		"rating": 3.8,
+		"reference": "CmRRAAAAqbDmOU8U_DA4m6ktr9Zjb8J_xj4U51sE95OSlJSmXocX4O3gbT7GE_NRldqDXu9mZneh-EqilP3_r_iALA8ZciKGDlzZd4vAde_yYIY6X8fBh4Cq8mx7kKxGwlUyptWqEhDd4OvOqvQHHvOfwdPgcT4eGhSL8BSCRHqWNL3FDDnIVydseuJXHw",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"bar",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Tremembés, 100 - Praia de Iracema, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.736226800000001,
+				"lng": -38.496765100000005
+			},
+			"viewport": {
+				"south": -3.737806280291502,
+				"west": -38.498191180291485,
+				"north": -3.735108319708498,
+				"east": -38.495493219708464
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+		"id": "de699565c16e03bd2b035fe9e47408e1e23881a2",
+		"name": "Navona Espresso",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJpVtLFIhIxwcRFSiGwBK7vYU",
+		"reference": "CmRSAAAAmhPb4uXCQnXWam72xvf8PkQ36Rqz6j1dpTlRkz206Shj69n8ZznPue7a71MyvNsxJ_nDG0UHSd78VOy7JuKQYh8o-BgUw8WS259_1X0JIPTS6hVsW1v705ckNgsf_16jEhC6KO7qLNL_76VQemTgUriQGhQCtdE8bmhx4V3m3Orouk_yVm5V2w",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Loja 329 L 3, Avenida Santos Dumont, 3131 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.740625399999999,
+				"lng": -38.506609200000014
+			},
+			"viewport": {
+				"south": -3.741905580291502,
+				"west": -38.50793523029148,
+				"north": -3.739207619708497,
+				"east": -38.50523726970846
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "99fb0b23e84b4a8eae9bbc7500def1aea058281c",
+		"name": "Neiva Terceiro Pães Artesanais e Vinhos",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3648,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/109269446910446330427/photos\">Neiva Terceiro Pães Artesanais e Vinhos</a>"
+				],
+				"width": 5472
+			}
+		],
+		"place_id": "ChIJn2ixQfNIxwcRyjA18MippkU",
+		"rating": 4.7,
+		"reference": "CmRRAAAAweFqpXza7rc_eVeb-R9hDL-KmJj8-_h8v2u8ol5cX-qvIzgTGPrZOI1SJFtxSoLJ5CELHQvbs0J_3rCKLcJRM1637ECQzPdLaIzIUmcIcP4FalcQCVgqcsvh6nbORJTNEhCU7P3GzT-TPmrXoQ2BuvIuGhR1JOOhsLK3j-mnZSUqJ0T8pjGu5Q",
+		"scope": "GOOGLE",
+		"types": [
+			"bakery",
+			"cafe",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Bárbara de Alencar, 2056 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.774624,
+				"lng": -38.58327099999997
+			},
+			"viewport": {
+				"south": -3.775976230291502,
+				"west": -38.584622830291494,
+				"north": -3.773278269708498,
+				"east": -38.58192486970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "c9012cb196bd7e4ac24b9e4c97d8cfffb4f0f066",
+		"name": "Moykano's tattoo shop",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 540,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/100629391769842613042/photos\">Moykano&#39;s tattoo shop</a>"
+				],
+				"width": 960
+			}
+		],
+		"place_id": "ChIJWQVMTBFMxwcRpK6LaQPdhdk",
+		"rating": 4.7,
+		"reference": "CmRSAAAASASrcNMPzRkcN9K8xXCDX4C02ppHf6Rq8XjpooUWEWDvoMZApWDIO7yBlAvjS4df0g-1G-dzkspg39gOZB8TPl6WM--svEsooopu43sUdd278kD-XE1mvx6B1jQfDohOEhASxF8jPlksoyD05M5C7pkAGhTKhn8OWt9v3ebQ08CmX_NDnNEZAg",
+		"scope": "GOOGLE",
+		"types": [
+			"art_gallery",
+			"cafe",
+			"food",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Francisco Sáles, 39, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.788477000000001,
+				"lng": -38.476489000000015
+			},
+			"viewport": {
+				"south": -3.789817680291502,
+				"west": -38.47773018029147,
+				"north": -3.787119719708498,
+				"east": -38.47503221970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+		"id": "c7abe84710ebdbbc2fef45aff39c130039da9100",
+		"name": "L'Café Art & Bistrô",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2160,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/109214149764463791454/photos\">Edilson Botto</a>"
+				],
+				"width": 2880
+			}
+		],
+		"place_id": "ChIJP8JKuo1FxwcRNGvMb7fy1oc",
+		"rating": 4.5,
+		"reference": "CmRSAAAANhwCLjypw3l8J3N5x0_Fk_L7O1IRNxvUxELQv-bDF5kC-fDUGyZ_j6jgMMBRn_FYTptO6PcqTzx2SvbcESfUSgaBA4wOQZ23WjqbpqWOV5pVSO2GC_5Ont9r2Eh9ScijEhDA1KU-vM6mvBaUk6UEGGLAGhS9_pebTiMAmLAMEG6yxNaUzMm7fg",
+		"scope": "GOOGLE",
+		"types": [
+			"cafe",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Engenheiro Leal Lima Verde, 88 - Edson Queiroz",
+		"html_attributions": []
+	}
+]

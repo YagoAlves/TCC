@@ -1,0 +1,688 @@
+[
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.808259,
+				"lng": -38.507379000000014
+			},
+			"viewport": {
+				"south": -3.809607980291502,
+				"west": -38.508727980291496,
+				"north": -3.806910019708497,
+				"east": -38.50603001970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "63335a62afcfea39d4e9d2ad79aec5b68b4541a4",
+		"name": "Amigos rent à car",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 439,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/101019600913661686748/photos\">Amigos rent à car</a>"
+				],
+				"width": 439
+			}
+		],
+		"place_id": "ChIJLQTUrBRPxwcRxRyw06tidSI",
+		"rating": 5,
+		"reference": "CmRRAAAAXqLknbpHb1qeRi3lnCJDEq3nlywi5qD3KBvu2uzeyM3_FR18mF_AY-X9qCmmNiQ73r50109uCtMj5qlRBQhRQvoH_CZ1InzamGHRtllzoXILMRM9h28g_FNblm5ix1WIEhAokvKjTSNw28PmqSgFFyMFGhRtdRsQfsRUNEE1chP9jhSkwsjeVg",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua e, 92 - Cajazeiras, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8123665,
+				"lng": -38.52856150000002
+			},
+			"viewport": {
+				"south": -3.813675780291502,
+				"west": -38.529962880291464,
+				"north": -3.810977819708498,
+				"east": -38.5272649197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "adea741f442b8439c89367a1641843fa6d7aeee3",
+		"name": "GOLD TAXI 9001",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 642,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/112489848645516314139/photos\">GOLD TAXI 9001</a>"
+				],
+				"width": 1140
+			}
+		],
+		"place_id": "ChIJofyma0tOxwcRUTD7X-UqY58",
+		"reference": "CmRSAAAACYFnyW30f1KAYZfVlWDD0ydxlXwUh4GfzdhAEYeUu2-uMrh1i2seRCkYV7nwFJ4PWOU5_8qjIPrbrw24NB2cN38FKRD08qmTC3p101aV7dDWdQod0v74pa5aF5h4apQREhD5AmbTzJetV_gonn3lbdQlGhRJzy-P_QMgu1REsH38vWzqpBXqpw",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Presidente Juscelino Kubitschek, 3535 - Passaré, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7368634,
+				"lng": -38.514337599999976
+			},
+			"viewport": {
+				"south": -3.738224430291502,
+				"west": -38.51569083029153,
+				"north": -3.735526469708498,
+				"east": -38.51299286970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "878e209437ec1a15b3caf7152b31b741fea1a177",
+		"name": "Moto Táxi Cidade",
+		"photos": [
+			{
+				"height": 1440,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115348166198272567108/photos\">Canal Tony brasileiro E Jaguaribano</a>"
+				],
+				"width": 2560
+			}
+		],
+		"place_id": "ChIJ-f0OqfdIxwcRM3ZNQNerC1c",
+		"rating": 5,
+		"reference": "CmRRAAAAYrHli92I4ybXqaa0ZVv-CMJaVw38cosEfCH16PJgpf_1OgW4aSeNBm2_i_-nwCIWMKZxT5reI9Ej978Zt4MyOd8L84abkoU5Abk4kvLbvo9DCGjzpRQbTQxCKELszcXcEhDlnxtWa_fm7WXY56dyyWxhGhQEjhpc2MsntL9FoiL-3isgWeTM2A",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Heráclito Graça, 1172 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7439011,
+				"lng": -38.54158330000001
+			},
+			"viewport": {
+				"south": -3.745198880291502,
+				"west": -38.54299003029149,
+				"north": -3.742500919708498,
+				"east": -38.54029206970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "59575d8b23b28dc6ca5764f9b64a91f31e1abba2",
+		"name": "Lig Mototáxi",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJW0tVdBFJxwcRTXFc3bvtrZI",
+		"rating": 4.1,
+		"reference": "CmRSAAAAYbwiZ1U_Iw3f_yNQ5jcvJpOh1acOzXCGA7GmJPl09yYvFseCIRQCQaP8GG0uDM-slqlwtFncEYmsyN_5fkpSzyH0zbtIHuU-vtWkGM7uRbjLTPvLW6Tn0neKIYKpQLl0EhCiG7deaRa_NTE_FG65f9O7GhQ1CiOtEHG5_m_E0x7ZDSbI7IRTeQ",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida da Universidade, 3229 - Benfica, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.756407,
+				"lng": -38.491309
+			},
+			"viewport": {
+				"south": -3.757751580291503,
+				"west": -38.49264638029149,
+				"north": -3.755053619708498,
+				"east": -38.489948419708526
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "097e604d98c34def79e17ce84f2bc740abaa18f3",
+		"name": "MOTO-TÁXI IGUATEMI",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 300,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/113853618697108771474/photos\">MOTO-TÁXI IGUATEMI</a>"
+				],
+				"width": 300
+			}
+		],
+		"place_id": "ChIJj-KEHKRIxwcRypdRh2lnGnw",
+		"rating": 5,
+		"reference": "CmRRAAAAjPMaXkW83zi58nk0h8FUiON0RqHl3gPCpUI4uGHH1WuT06bvI7XQnPiHxiGfJBJvUSLstr_HXDL4uxJEE6m6Y1h1c_7_uBQp5qymIXr0yX8iGLTChem7nBNRl5Fq5VjDEhAkPyDMq84irFp8J9PQ1zvnGhS9Ss4-ugtT8IRsBisL6mL7R3F8NA",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Washington Soares, 85 - Guararapes, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7372183,
+				"lng": -38.481840799999986
+			},
+			"viewport": {
+				"south": -3.738567280291502,
+				"west": -38.48318978029147,
+				"north": -3.735869319708498,
+				"east": -38.480491819708504
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "ef4c63f91d385503c9e55e4257c748572f131532",
+		"name": "Ponto de Táxi - Hiper Bom Preço",
+		"place_id": "ChIJ85LLKtVHxwcRTNLf8n_qhGg",
+		"reference": "CmRRAAAAouh8nT0M0mtnk7-VGXNOXPIrC2qsNaTwi1DPTjMweF6j6NH27xN-oMcIZ0R3btFDsjI633Sn21xlzr1dIsSOTsW_m44wPmU51VjtD9ZzcJuC40FNpgRCl50D52KBDitjEhAjWD4Ar-bWuMVm4AFKWuDgGhQQ7ojiR1zzJo-X8AIC0BPTBQAxUw",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Engenheiro Santana Júnior, 999 - Cocó, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.742527499999999,
+				"lng": -38.50001600000002
+			},
+			"viewport": {
+				"south": -3.743726280291501,
+				"west": -38.50131108029149,
+				"north": -3.741028319708497,
+				"east": -38.498613119708466
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "8765f01e4dde115729ac49d78a0ff3227f59ab7f",
+		"name": "GOLD TAXI 9001 LTDA",
+		"place_id": "ChIJTdC-ZI5IxwcRt6rOo3AIvZg",
+		"rating": 4,
+		"reference": "CmRSAAAA31UjTjYbXWm_7sfL8KX0APdr7KpBCcXnDp3Sqr3V8AKVvy_ORZD_Hu-yWKYxUxsKxiTV7oFH5HTJaB2REr8ussrGh7Kl2P7SCpx1skLcJ-F8on3sV4h_tjBGlSWG9ADNEhCwyoSVJELBAfrOq5JId2OLGhQQWEIWPyeSXO6o4FR3b-S8NJqY-A",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Vicente Linhares, 500 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7273258,
+				"lng": -38.494508499999995
+			},
+			"viewport": {
+				"south": -3.728645930291502,
+				"west": -38.49586218029151,
+				"north": -3.725947969708498,
+				"east": -38.49316421970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "bca5a201ac93d182e63222952e4a01e10a229290",
+		"name": "Táxi Náutico",
+		"place_id": "ChIJHX5DEnBIxwcRNmXPrIoEVhM",
+		"rating": 4.7,
+		"reference": "CmRRAAAAC_mQJhsCbsHpt5yV0cKypLjIXWgFf4jbfeR64zkxNJM8zu9b5M_UDkDbMzfvO1MJHyEtqqHRnlXCUfNEpB9prAaG_g4daAufkt1sNiHoxz7bm58YnvLvmS2gEXhlqP7eEhAaeGuSplNpeJe0VXg4tRIiGhTR1lAZzaRR5mBnFyhrSfntfmWsig",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Barbosa de Freitas, s/n - Meireles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7830677,
+				"lng": -38.546828800000014
+			},
+			"viewport": {
+				"south": -3.784455130291502,
+				"west": -38.548101980291506,
+				"north": -3.781757169708497,
+				"east": -38.545404019708485
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "f42155c225276f69b78466f6da333052dbffde75",
+		"name": "Beach Táxi",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1280,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/117629963730935892391/photos\">Beach Táxi</a>"
+				],
+				"width": 1920
+			}
+		],
+		"place_id": "ChIJpx2Kv-pOxwcRfC7XFmMv1m4",
+		"rating": 5,
+		"reference": "CmRRAAAAs4q8cw9FfKypgbWoUWDBWorCbxMX19RYpu9ym-sg6WTm1y54Xx2DqDen0-l_Bs7ItfpBH6UjYAfxN57jXl6PIyOZ49dXnOW3pheHnAK-SE_5vymy0zNWtE0JVvVbtKD_EhBUc2IE15Ui5S2Ur6diE9GqGhSoa27-8vhOsWYQVyms_AwdYNHECA",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"travel_agency",
+			"car_rental",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Apt 108 bl3, Avenida Bernardo Manuel, 8500 - Serrinha, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.779703599999999,
+				"lng": -38.54968359999998
+			},
+			"viewport": {
+				"south": -3.781064630291502,
+				"west": -38.55103688029152,
+				"north": -3.778366669708497,
+				"east": -38.5483389197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "585f9671dc2c3d3f4c7bb977cc44b7871df1708f",
+		"name": "Taxi Amigo",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJ-2RiCb9OxwcRNgpPAuZdwOo",
+		"rating": 5,
+		"reference": "CmRSAAAA2gPA5t8iS7zaXOr_P8PAS_wtEkYY1p_Iy8USWuuXkzE-PPHqmwualoC9jD7w_bc6Z7F4pkVZ7aa-qukYVmrOv-7jV9_rrd_P5faLNAmOAklB6JM9fhPj3VgwLP_sEqEUEhBqdlfYnDap24HZlIpuQHlrGhQ714dfRaqfLzSL8X5AzkmwGJoz1g",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Antônio Simões, 289 - Serrinha, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.727641,
+				"lng": -38.549207000000024
+			},
+			"viewport": {
+				"south": -3.728991680291503,
+				"west": -38.55054313029149,
+				"north": -3.726293719708498,
+				"east": -38.54784516970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "f9b357c50e6551e897e4b234595a52118ebf737f",
+		"name": "premium car - taxi amigo - fortaleza - monte castelo",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 800,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115305827172233094787/photos\">premium car - taxi amigo - fortaleza - monte castelo</a>"
+				],
+				"width": 1200
+			}
+		],
+		"place_id": "ChIJTVCJkphJxwcRDxxuG2vZm0c",
+		"rating": 5,
+		"reference": "CmRRAAAACLVL0rnx6zo1maJgOAUye3niJdRNZR05IcnPYdOXkPr08rJx5HBqbhsBD80IF2XH8Pv5xel5axSsVExvTxScNKdzXLMHOWVc0yK6-tJDomTccm2ntEOu5bv9TYxvBkK_EhAO2kuVO_2BPrPiaHwnKRv4GhSi6ll7svDcSLx5Cx0TAF7_nG9HKw",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Conrado Cabral, 325 - Monte Castelo, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.845660800000001,
+				"lng": -38.38995339999997
+			},
+			"viewport": {
+				"south": -3.846986880291502,
+				"west": -38.39133718029149,
+				"north": -3.844288919708498,
+				"east": -38.388639219708466
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "8e22f800967400261c7c21aaa329a6cc5f3169b6",
+		"name": "Central de Táxi Porto das Dunas",
+		"place_id": "ChIJe6DRLrBcxwcREohnGM6ctAI",
+		"rating": 5,
+		"reference": "CmRRAAAAqsq21j1iL4Fk4tL6PgwAcQkhy1vkL4HXymHzcupnp_l_ySAOXLCxgwl2nYJcN28QE76KhESs9F_3dW2h6cws5ct2UfyDPP4IY3lLIdAP7qPe1La2DtKPPPWTv9WHuNpZEhALLM4Ei4iXyLFUAP38qycbGhTliyV38ZBKME9PjAhr9_VZP76erw",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Oceano Atlântico, Aquiraz",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7558004,
+				"lng": -38.5699348
+			},
+			"viewport": {
+				"south": -3.757147830291502,
+				"west": -38.57128583029146,
+				"north": -3.754449869708498,
+				"east": -38.568587869708495
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "4e4a741db5781eacc4f67961cdabe6a27ff87f55",
+		"name": "Central Moto Táxi Amigo",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 250,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/104060121479710952227/photos\">Central Moto Táxi Amigo</a>"
+				],
+				"width": 250
+			}
+		],
+		"place_id": "ChIJYxJoVphLxwcRSyZ4_MvEfeg",
+		"rating": 5,
+		"reference": "CmRSAAAAb6GNw4cmm2JLhthWVydacM-jc3zqe77IazJX0c0lNFQAeWCjIqDUrtoT91LTfiNROXU993MVqRvQcEWiqRkQe-QRLJ_m83ejy48CXQImR4I6BHods8e8CQirWgRlb7hNEhBd6kOFmQFqjWXMfonvH6HXGhS--xXz4RwXx0u3nnfcQXNHPmuK5w",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Espírito Santo, 889 - Conjunto Sao Miguel, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8120768,
+				"lng": -38.575060500000006
+			},
+			"viewport": {
+				"south": -3.813444080291502,
+				"west": -38.576350230291496,
+				"north": -3.810746119708498,
+				"east": -38.57365226970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "6b3dbcc3c3d1f4d66c5df45e310e3e1fcb2bc038",
+		"name": "Moto Táxi Balão do Mondubim",
+		"photos": [
+			{
+				"height": 4160,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/101307590366057538765/photos\">Bene Mattos</a>"
+				],
+				"width": 3120
+			}
+		],
+		"place_id": "ChIJ-zRv291NxwcRJLWh_pBfvus",
+		"rating": 3.3,
+		"reference": "CmRSAAAABwbKb8b0YH6L_1kxel4qTT88TGBUbURxZ-bcXwsKT0Y7CxC-z7lHpgzB8Ab_X0nDtl2fbOL3Tz9rwmziTth69tfAuklO14ja9uZspwqSn-kLA3uW4f2GXWjnyMLF7CkcEhAMzEBEbxocXZkspkw-mqorGhSQ7lmXWiJaWCqTKz_UbRQ3JA4gvg",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Godofredo Maciel, 4220 - Parangaba, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.737771,
+				"lng": -38.56474000000003
+			},
+			"viewport": {
+				"south": -3.739117480291503,
+				"west": -38.5660762802915,
+				"north": -3.736419519708498,
+				"east": -38.56337831970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "9358232f7d7fd72370de7ce14eb7f42210a4c4a1",
+		"name": "Taxi Amigo Papa-léguas",
+		"photos": [
+			{
+				"height": 618,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105467869365170952943/photos\">Taxi Amigo Papa-léguas</a>"
+				],
+				"width": 590
+			}
+		],
+		"place_id": "ChIJv2fIbnxJxwcRDMLmOLO0ZjA",
+		"rating": 5,
+		"reference": "CmRRAAAApLNmiR5fieJM-VGa_9lkDpcBgkXZEUmy-fLa1Lq17CLkZjFVJNdQMuPkx3w68pDIDYB084D0OeTW6bE0TdFX1J-J5egnVO_YZ65ZstQs_qLlPNZDCdObbemoVvv94efFEhA1FEtGBj-P-XUXOsoEeka9GhQploMvwBnG8JWR3kBs3VKz7GRbRQ",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Tipógrafo Sales, 223 - Parquelândia, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7689778,
+				"lng": -38.60496999999998
+			},
+			"viewport": {
+				"south": -3.770379530291502,
+				"west": -38.60613998029146,
+				"north": -3.767681569708497,
+				"east": -38.603442019708496
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "265d468aa037bc027825d63022f81b71719d4f11",
+		"name": "Ponto de Táxi, Conjunto Ceará",
+		"place_id": "ChIJe3eQT3tMxwcRM79st8e3VSg",
+		"reference": "CmRRAAAAVlJEuWL5eafuZHvv6d6RLmnG-z62C1XDnpuA97asoHZETJovYBEa_y1PCCjdPSQc7_vQOEE_RCGrNMXotHrU_uyyCAOOrLoknQumHNfr8u2spDKlTjFwmSnV7e2fICZKEhB2Z6bpo0iBTfySER1UY3HkGhQoSBA0W4cNlvtE43BvcdUCWf-4OQ",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "1100, Rua Seiscentos Dois, 940 - Conjunto Ceará, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7694411,
+				"lng": -38.607084999999984
+			},
+			"viewport": {
+				"south": -3.770765430291502,
+				"west": -38.608408580291496,
+				"north": -3.768067469708498,
+				"east": -38.605710619708475
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "9f9aa253539db617f420e8e900e794456ea30983",
+		"name": "Conjutaxi",
+		"place_id": "ChIJeexKk3xMxwcRsNofvvxv6os",
+		"reference": "CmRSAAAA3XZVKFVfZB_FFCemZnu0UsMWxrEH1SNr5zK3rCpWawTHSELnDIX_1mci9-_HnR64ee_aGoK61Iur2_UyE4ptx4p14NstR5X6XGpSSjUTbnMogBQxl3VdH7BVJhzvI3PrEhAkb0At9CiqGiEy74Y3Pu9CGhQltVHGGzm6Bm2sEFL0F_OcRqlwYQ",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Ministro Albuquerque Lima, 895 - Conjunto Ceará, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8904988,
+				"lng": -38.6166953
+			},
+			"viewport": {
+				"south": -3.891867280291502,
+				"west": -38.618037330291486,
+				"north": -3.889169319708498,
+				"east": -38.61533936970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "1f15ce94054ff689aae66ae68b990bac58cc8591",
+		"name": "Associacao Dos Taxistas Da Pacatuba",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 922,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/101151863013221749488/photos\">Celino Gomes</a>"
+				],
+				"width": 1080
+			}
+		],
+		"place_id": "ChIJzcRm0X1TxwcRSEYsrY8JqEE",
+		"rating": 5,
+		"reference": "CmRRAAAAqiH1-IWIHJG1FO078s3O4FxVzhY3_MTzvTq_8D59_IrvIGNnE5X6fHWj65YejYZ52AfjxLgeFJWMb6ynOLQqO1orSYHURjr1VbfUjvuPZMShH5MuQh3qbwqT-kYf53-8EhD-nfwzUzRXRCkUA8--FMDOGhQesZQJmLHVNzdPTs-1LlHASWMGdA",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Setenta e Dois, 394 - Senador Carlos Jereissati, Pacatuba",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.726993,
+				"lng": -38.64361819999999
+			},
+			"viewport": {
+				"south": -3.728349930291503,
+				"west": -38.6449315302915,
+				"north": -3.725651969708498,
+				"east": -38.64223356970854
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "f8e47506ff8e558e6d1ef4912bd1a25d57350984",
+		"name": "ponto de Onibus cumbuco363",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"place_id": "ChIJqbWFltdKxwcRaDxdvizwE5Y",
+		"reference": "CmRSAAAA4OVTP7ruwI_lstj_v6i-phetajpy0Kqlkg4II_6u_hHj1MQqC4ATKbCbSdnoyoLDrEua6YmVI5L5j7Cgph2trmxKvE3yw8mFUC_CkmpGZ9EJbDPQ28QK6bwulVWd9hqxEhA2e-hZ3nVRSQkNONjA2RruGhTfF3bNkElbPZQsUw4_Un6X1zDILg",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "3522, Estrada Ipiranga, 3508 - Iparaná, Caucaia",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -4.1732132,
+				"lng": -38.463578299999995
+			},
+			"viewport": {
+				"south": -4.174549380291502,
+				"west": -38.46492728029148,
+				"north": -4.171851419708497,
+				"east": -38.46222931970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "9e5c5ae0f275d7ffb3900a2a683e05bee94347e1",
+		"name": "Ponto de Táxi Aurélio Liberato da Silva",
+		"place_id": "ChIJDUhiLpO5uAcRUTYLdjtKq4I",
+		"reference": "CmRSAAAA_gtgcJ6fPdd8U3vV2BvGnRzQfDTCcniq9OLCTMrNbOikyfKmXPDOdlpYwbwNl9e_cj4nNj_-79iddJ5kmCS28AYGpbPz6hN7NKB5vniF6M_sEdvVQKCeOC3eRCvIiQ19EhDjY4LhtoE8E_oRQHTepC4jGhTHzZll5gB8ZJaf-f9Zu9bnqj-W1A",
+		"scope": "GOOGLE",
+		"types": [
+			"taxi_stand",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Cel.Joaquim n.de Dueiruz, 680-734 - Centro, Pacajus",
+		"html_attributions": []
+	}
+]

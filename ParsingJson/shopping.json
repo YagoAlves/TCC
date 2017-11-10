@@ -1,0 +1,673 @@
+[
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.764504700000001,
+				"lng": -38.574870199999964
+			},
+			"viewport": {
+				"south": -3.767306549999998,
+				"west": -38.57785869999998,
+				"north": -3.76217395,
+				"east": -38.571929100000034
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "ee5a16033a804a8ca7ee3a4fa912822f0c2b6b82",
+		"name": "North Shopping Jóquei",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1365,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/107726890001492530584/photos\">North Shopping Jóquei</a>"
+				],
+				"width": 1367
+			}
+		],
+		"place_id": "ChIJ5zVHqvhLxwcRnE1sUSmcPls",
+		"rating": 4.4,
+		"reference": "CmRRAAAAXFnOPtL0S2sSN2ZlunVqRZkniaqh3t4rYHYfTywFM0REyaaMpceisUxnGD1QIVTbTNGp_RuHM1XHhbc9ctjPuMTGlLgZT0ONj6v0mLRJINo9VSIWiEaxvlRzCH7OzAJBEhAAFaWkTMs6vqT_mFh9OMOrGhRBzEL-yg0S-IMBNJncU3EmptbgYw",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Lineu Machado, 419 - Jóquei Clube, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7759161,
+				"lng": -38.56215120000002
+			},
+			"viewport": {
+				"south": -3.777609530291502,
+				"west": -38.56433905,
+				"north": -3.774911569708497,
+				"east": -38.55986085000001
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "b14409995e47e0f707c59c65d15b94a8bafe83ac",
+		"name": "Shopping Parangaba",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1000,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/118129010556566772042/photos\">Sávio Fernandes</a>"
+				],
+				"width": 1500
+			}
+		],
+		"place_id": "ChIJPa0LRKROxwcRi_w-vsfOjzE",
+		"rating": 4.3,
+		"reference": "CmRRAAAAYxf8LEQzTbqW4PkunqDfasodjGAvxBKqVLcPZvOtziWlJ1hLTXn7Z-yjVSbgQNBYvQRn82rWIg0uEu8NBKl7Ju1PzJOspC9HVrrLGt9W_OBp1IFAawyNC_wxRiea6DOkEhAAnV3NXBHG8wuQzw8NWBLGGhTsDojxC7fD7yAgbTNQ6f51gt4-RA",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Germano Franck, 300 - Parangaba, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.734088,
+				"lng": -38.49699599999997
+			},
+			"viewport": {
+				"south": -3.735345530291502,
+				"west": -38.49819133029149,
+				"north": -3.732647569708497,
+				"east": -38.49549336970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "04d6ad37aee8c6e969d35ac3cbbd5ad7cd2c36e6",
+		"name": "Shopping Aldeota",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 768,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/110431803725691095973/photos\">Savio Onofre</a>"
+				],
+				"width": 1024
+			}
+		],
+		"place_id": "ChIJwaaMJmNIxwcRmvlZEIKcxGQ",
+		"rating": 4,
+		"reference": "CmRRAAAAH1YHJNzapj5p28nPpRkxcYhI13brbcXMr3JffZ5W_aMdzvTb8leq21bJw5Hhm2ERM7ELwKhV4zNu1NvXGornZgdkeHCS4n3hHYwdRz2FTsE0qQp7r8HZ5ebmcv-vWEL7EhC8gYeKcmgpRFUPECyQASAnGhTJIr1HvJbylKG1KQZyqZc_txWFsg",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Dom Luís, 500 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7389979,
+				"lng": -38.54011079999998
+			},
+			"viewport": {
+				"south": -3.740577100000002,
+				"west": -38.5414919302915,
+				"north": -3.737687899999999,
+				"east": -38.53879396970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "3694d14f269228b3a532dd526acc2526e2009648",
+		"name": "Shopping Benfica",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 600,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/110570195101410948815/photos\">Júlio Santos</a>"
+				],
+				"width": 800
+			}
+		],
+		"place_id": "ChIJUQTuVA5JxwcRNjjOGX4mudo",
+		"rating": 4.1,
+		"reference": "CmRSAAAAFd0lfOLwdKZlHYW6wzsGVPylfdgzUoKuyjsn4JbV-iZJ8FtdbVMBbmFbj351wgX-dwG4P_9-vPUhJA4q5LVFl7tpX-BT9V7JZgpr5dR5anR0YHZpND0Nbc8lePr2IlT4EhD4WKkzeuEqgORgt__TYSsyGhRKa_oDTQUZqmVZKDK_jNtg6w48ag",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Carapinima, 2200 - Benfica, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8797005,
+				"lng": -38.621564000000035
+			},
+			"viewport": {
+				"south": -3.882002900000001,
+				"west": -38.623271450000004,
+				"north": -3.8777881,
+				"east": -38.61989484999998
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "c16be7df27c165069ecba5c40dab3c4b1ec484ef",
+		"name": "North Shopping Maracanaú",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2448,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111854659884945629118/photos\">Bruno Fernandes</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJCQpYVXhSxwcRkn4E5Ui50Fc",
+		"rating": 4.1,
+		"reference": "CmRRAAAA7d-zHJCuYpGUZXYLnzzGqpwep2kgLhRX6KgPvqsGNdbGU4r74FQCgj2uf2ft-9AkWSBdalRwuXDbZRyO5Dsom7ypjM9J4iX4wyTcwg39hHswtWOa-M8-0c1Q9O--DbVgEhDf3qzZ5_tQV3djSqFO8vcuGhSzrq4xLspcagezWKKgTweNnTO4rw",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Senador Carlos Jereissati, 100 - Centro, Maracanaú",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.792837,
+				"lng": -38.48076000000003
+			},
+			"viewport": {
+				"south": -3.794164030291502,
+				"west": -38.481853730291505,
+				"north": -3.791466069708497,
+				"east": -38.479155769708484
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "886254264d8b55f0266c26a2c9d42df0d9eca89f",
+		"name": "La Dulce",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJY4aIz4hFxwcR7j_SZRQQRpo",
+		"rating": 4,
+		"reference": "CmRSAAAAXY7Gb0YGWnojGqL2uG92PZRco-73BOESBayk4PCQCqIRrZxM8TxcpaV8yMXlrRSd3P7YWsV_1yieimmT-_RIbp2ZuG1Nhvb7R71udx6zfclg4F036w2za6xhtK2fwQV9EhCy4McF9DE9zogkb69dxq6aGhSHzYQC5BRJcvDAh-rTGPDipPitQA",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"clothing_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Molina Center, Avenida Washington Soares, 4040 - Água Fria",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7235644,
+				"lng": -38.516071899999986
+			},
+			"viewport": {
+				"south": -3.725016130291502,
+				"west": -38.517428380291506,
+				"north": -3.722318169708497,
+				"east": -38.514730419708485
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "da96650e10964d2c8fe8f97e602f83e4598944a3",
+		"name": "Revista Vitrine",
+		"place_id": "ChIJLzCZikVIxwcRgZ0yzOKGjnE",
+		"reference": "CmRRAAAAl-l2KF9QzyD4iKGde0BkXiciJcj6jmzeyzuGzAEuBLg9ZV9uVYdbxQUI4bh61hR8HULKLI5KITOPtUJS-fq0Omuoaqcf9X12rdDoOD_tnvlATlF4obMbQabsZ-W-YLxlEhC2ONujL7cgaL3pNrrhOWgrGhSVcO_nSwxPdAtO5bYPnikpWCKqpQ",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Monsenhor Tabosa, 361 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.759920400000001,
+				"lng": -38.534786
+			},
+			"viewport": {
+				"south": -3.761001030291502,
+				"west": -38.536173980291494,
+				"north": -3.758303069708498,
+				"east": -38.53347601970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "732ef6188e6eb3e599cb96660f6bd3f622e853e2",
+		"name": "Shopping Fortaleza Sul",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2304,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/108262868984668338529/photos\">Regina Bandeira Marketing- shopping Sul</a>"
+				],
+				"width": 4096
+			}
+		],
+		"place_id": "ChIJ2YF4dS9JxwcR3vPIxkv__Uw",
+		"rating": 4.1,
+		"reference": "CmRRAAAAJIsLsuL_mHYNT6E2-1tIDiL4Q53UqkcjrxpCkprjEOeF2gN-VMTk9lcP1Gugfm96TuKYbfARbWAQb354KSGm-d_uIxC_iK8gtfp54gQDktVS91F-Vaj9uV9wQnqzu1X7EhDWNeFWloQWYzLyVc4CjXXxGhSKsIilcURzeXZ5TUyw1umsoFvPSA",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"clothing_store",
+			"store",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Luciano Carneiro, 1333 - Fátima",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7338605,
+				"lng": -38.65593460000002
+			},
+			"viewport": {
+				"south": -3.735214630291503,
+				"west": -38.657393130291496,
+				"north": -3.732516669708498,
+				"east": -38.654695169708475
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "be31a3ef682ac64d090311ff7118ea1d6a4fb4c0",
+		"name": "Iandê Shopping Caucaia",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2268,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111650172270798089755/photos\">camilo cardona</a>"
+				],
+				"width": 4032
+			}
+		],
+		"place_id": "ChIJQTZqWdK0wAcRlbZsSe51B4w",
+		"rating": 4,
+		"reference": "CmRSAAAA0nn2dWFRZm-O6NupaLU9S3eKJEnX0QM6PmnjJlyhYXZmuNR5WUz80RJdT9y_rnZQnMg1KTMBxkPeUbRJ68cCVPuM4gRrEks1QWaG_ZJdfhNSh47sX43lAUomjZjsdCONEhBh_WTUBRv3mS6i1dTMhbAfGhS05vqgzFron45qiQFkRvFKFLf8pA",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Edson da Mota Correa, 620 - Centro",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7351092,
+				"lng": -38.49776259999999
+			},
+			"viewport": {
+				"south": -3.736429830291502,
+				"west": -38.499208980291485,
+				"north": -3.733731869708497,
+				"east": -38.496511019708464
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "1238a63d23cbe9958afb87e6db46adb00a847c50",
+		"name": "Shopping Jardins Open Mall",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2160,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/109214149764463791454/photos\">Edilson Botto</a>"
+				],
+				"width": 2880
+			}
+		],
+		"place_id": "ChIJAAAAAGRIxwcRcjh6YhFOhb0",
+		"rating": 4.5,
+		"reference": "CmRSAAAAxMQDN-q0r8PCdMGd-GK3KbIgkqRJBUFae4D3rqXJVwvigL1-J0xHgQZwGYMS084riDQpk97Tbfuvv4hZgWwLocsyHVurB1RuQumnDc-RpuVFnf-MNLbsR2HLeWKfUdl8EhCGzByIzjWrk-IrIKOBMbNeGhRdLDQkApsu4bDSjCcZRlcLEnvsSQ",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Av. Des. Moreira, 1011 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.728348699999999,
+				"lng": -38.5268643
+			},
+			"viewport": {
+				"south": -3.729660580291502,
+				"west": -38.52821748029152,
+				"north": -3.726962619708498,
+				"east": -38.525519519708496
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "23706f0b1c0a31a427ed4319fdcb15fa6f8b5d77",
+		"name": "Flávio Imóveis LTDA - A Sua Garantia Imobiliária",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJXSkpSVJIxwcR6QCeXZbBpUY",
+		"reference": "CmRRAAAA2QaOV9X1UJOEJqfhjlaHwSlyxCAheNj2Y_O66imF2WWpO3Dmzt1skoqM4NplodjZ_Bfek7uHGdFcgomzqPc6LfxUgffG5v4HVW1b4mJ_oYJjP4Li3bBDZJiq98m2BC3REhBIg7kGRw0Ewz8ZxVz08nXbGhQohcrXQAxIN9VPcVdsfQMyF-abbg",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"general_contractor",
+			"storage",
+			"real_estate_agency",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Pedro Borges, 20 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7240552,
+				"lng": -38.51578460000002
+			},
+			"viewport": {
+				"south": -3.725271480291502,
+				"west": -38.51708618029147,
+				"north": -3.722573519708497,
+				"east": -38.51438821970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "84bed98c1410e9852151eabd248afcd8aa5c8fe5",
+		"name": "Shopping Monsenhor Tabosa",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2432,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/107944929388135800662/photos\">Iago Mendes</a>"
+				],
+				"width": 4320
+			}
+		],
+		"place_id": "ChIJLzCZikVIxwcRuvtUeCBmQNs",
+		"rating": 3.8,
+		"reference": "CmRSAAAAvE9R3YKjJvmgQbOaGQRp9Q2l_WjZGOVqHgahDf60tUtPWdvhF_zhzbwPLwLqA523zinzc5rL0UMm6DR0CoaZevSB6Iu1uWOntohU8z8ZePjMPza19Y7gwjLMUflAn4pmEhD-FWdLhm3kXQoZWvwvm7BRGhQW0lU92-5emB5caDDlX_cwPqxYhA",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Monsenhor Tabosa, 361 - Centro",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7622699,
+				"lng": -38.48228540000002
+			},
+			"viewport": {
+				"south": -3.763717530291502,
+				"west": -38.483619280291464,
+				"north": -3.761019569708498,
+				"east": -38.4809213197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "f46c2cb15e807879efc116f0e9556f3910d2935c",
+		"name": "Salinas Casa Shopping",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1836,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111963576049633914772/photos\">emerson palhano</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJ8dNtKIJFxwcRihEVjxLxoxI",
+		"rating": 4.3,
+		"reference": "CmRRAAAAjAUxiGv3UHsJ11uh891NEr8AvBM5JM-mdlEgsZGEI8VsTlhg0ix1RKsptY7LrG0NFz7G2GwAfDpvyJJSA5WxMOQJOnxF_nZp7Q6_a7DntOIOvX1nvbR_hHsHgZDwaP94EhB9c8Y4PUrECmiK5aaihBMAGhTZIGqNLlu6drEAmOPZ-R_ru6nkGg",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Washington Soares, 909 - Edson Queiroz",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7539257,
+				"lng": -38.52743700000002
+			},
+			"viewport": {
+				"south": -3.755353030291502,
+				"west": -38.52878128029147,
+				"north": -3.752655069708497,
+				"east": -38.526083319708505
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "5d39ee26524a31b5a2c721a836980e4ff49d002e",
+		"name": "Casa Rosada Mall",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2340,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111395988143081993787/photos\">João Pedro Estanislau</a>"
+				],
+				"width": 4160
+			}
+		],
+		"place_id": "ChIJ3za0ryBJxwcRbI7kc2twhpo",
+		"rating": 3.7,
+		"reference": "CmRSAAAAxViCupEYgjYPFnc_LX34hJrr3wlarISomA7PxmPchbeF77aKHtCn7ItJU0NtNaZvgUzhh5f7EKg53kWxRvQtHMq6dpmsvqBfw5q5OaSEIOA3Z_TVhzHPUzT6LSHGdMx-EhBndW1HKyGriQQLSEA754MhGhTw8ZnD1fNVYopK6F80MqkIAIm-6g",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Paula Rodrigues, 260, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.792301,
+				"lng": -38.480545000000006
+			},
+			"viewport": {
+				"south": -3.793638080291502,
+				"west": -38.4817705302915,
+				"north": -3.790940119708498,
+				"east": -38.47907256970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "13b057b891d4d176232259ff413032b0621e33be",
+		"name": "4000 Mall",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1536,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/101180506393213444175/photos\">Ivanberto Pires</a>"
+				],
+				"width": 2048
+			}
+		],
+		"place_id": "ChIJ7XhV14hFxwcRcSA7yJIHmsg",
+		"rating": 3.9,
+		"reference": "CmRSAAAABlB4iXdi9O3vMP-pal4Nq9h-QPS4DLFe3tTPgRy1jSZfU-eQXXq9MnRVGvEJNMKUKse1kcns5A1Zu4VEYjCurwx-RgbqI6sio_JTKSwcaTr2L943Pa5KXe9ootW6hEs4EhANuTWoUpR8CEWzFp_FSqsGGhRz746P2twLzf-oPhAKHJ_Xt_ypIw",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Washington Soares, 4000 - Edson Queiroz, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7255065,
+				"lng": -38.532077800000025
+			},
+			"viewport": {
+				"south": -3.726940730291502,
+				"west": -38.5333854302915,
+				"north": -3.724242769708498,
+				"east": -38.53068746970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "5e32325a098aa85bdd677fec01c4835e01d1fead",
+		"name": "Shopping Metrô",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2322,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/114993241981569932903/photos\">Genilton Jr</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJzZ0bBrJJxwcRDFpolBVB4Pw",
+		"rating": 3.9,
+		"reference": "CmRSAAAAjo-wPseEqFXAZAQcDm_nySqgLYCbwg-3dMjekvXJwYh2Kl-6vvYj_PZn3C_naaoFRV6aJG3Wln5f2CACW6xTVMCmOMWSXn37tCXJbIPtuqUhmBkQJfJhwdMZj4OY0K-7EhBqP64YhG9QivftS82twFOMGhQjTya4Lvt6haMXh2_iZeQWGfTPjg",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua 24 de Maio, 2400 - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.727699,
+				"lng": -38.52991650000001
+			},
+			"viewport": {
+				"south": -3.729051030291503,
+				"west": -38.53125518029151,
+				"north": -3.726353069708498,
+				"east": -38.52855721970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+		"id": "8d4d97b1d04133fe00aa60f294ad5308dbcb7872",
+		"name": "Super Shopping dos Fabricantes",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3264,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/102581602746978134096/photos\">Messias Neto</a>"
+				],
+				"width": 1836
+			}
+		],
+		"place_id": "ChIJz_ZzuK1JxwcRgm4u8yl3Fl0",
+		"rating": 4,
+		"reference": "CmRRAAAA7st2hp56kJknkYVFgQKkQT9iCQdiMxlWQF5OI-l5wtYPQE55Ahe9jMgBk9uS5z857RjwGM60V3G-ubU9-P5Y2RbTdHqWd2guztAXEpPcjW8xFPxeNBEFR1NLm69eWCd1EhCQWg8Paqp2eWvErIyC-vl0GhS0br8Kzvao95opYLoYwP-trl-bcA",
+		"scope": "GOOGLE",
+		"types": [
+			"shopping_mall",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Senador Pompeu, 1022 - Centro, Fortaleza",
+		"html_attributions": []
+	}
+]

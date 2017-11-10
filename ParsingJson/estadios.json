@@ -1,0 +1,718 @@
+[
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8072834,
+				"lng": -38.5224331
+			},
+			"viewport": {
+				"south": -3.8121288,
+				"west": -38.52538174999995,
+				"north": -3.802108800000001,
+				"east": -38.51941154999997
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "988e391740100a980a6d032817ed93bf998c73a8",
+		"name": "Arena Castelão",
+		"photos": [
+			{
+				"height": 2667,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/110431803725691095973/photos\">Savio Onofre</a>"
+				],
+				"width": 4000
+			}
+		],
+		"place_id": "ChIJV489C1ROxwcR41LS7MZKUbc",
+		"rating": 4.5,
+		"reference": "CmRSAAAAn67hUaW2xHXxESdIwj5iRkYj4i6xj2tQsYqUsKUCdm77uLLsB1qufm60sK6bwK6vSwZ11WYBwPkqetnN1TBWNDfa_SUE8tyYuBH80I7B5H87cBTaMKmmktqu3XDGUV1rEhAXEITNOF2D8LghqRzVHwRoGhSNJqLX1QBqv05g701Lp5rvspm0qw",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Av. Alberto Craveiro, 2901 - Castelão, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7376781,
+				"lng": -38.51540019999999
+			},
+			"viewport": {
+				"south": -3.739464549999999,
+				"west": -38.5168041802915,
+				"north": -3.736144750000002,
+				"east": -38.51410621970854
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "6aacc7e13f4b228c1f5d7af4991140af0372cdb2",
+		"name": "Ginásio Paulo Sarasate",
+		"photos": [
+			{
+				"height": 800,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/106892456227759511213/photos\">antoniocunha tonhão</a>"
+				],
+				"width": 600
+			}
+		],
+		"place_id": "ChIJC8yptfBIxwcR2MS7twIPt0s",
+		"rating": 4.1,
+		"reference": "CmRRAAAAnT87Js8kEce1V4UARvR5-4oJOsp3u0nINJJ2_FLq0a68ZVHBxm0NNkZ0HtSYpS4GzFqthNVKb3nrUQe_MdpEzrpGsNpAthChWKCXvA5IXFI0VmgH0irGQNk3AR-6p1gGEhAKjUw55Wypi3taGNRTGsD3GhTpPZHg3ItSX-kMwj2P4rdb9d642w",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Ildefonso Albano, 2050 - Dionísio Torres, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7458445,
+				"lng": -38.536804200000006
+			},
+			"viewport": {
+				"south": -3.7479008,
+				"west": -38.53851689999999,
+				"north": -3.7441396,
+				"east": -38.53534289999999
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "6765931c7230a90a00b00daeedf6ca22285478d7",
+		"name": "Estádio Presidente Vargas",
+		"photos": [
+			{
+				"height": 1136,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105473993203818819050/photos\">Leandro Holanda M.</a>"
+				],
+				"width": 1514
+			}
+		],
+		"place_id": "ChIJNxE0AxpJxwcRlhS0evDZ6d4",
+		"rating": 4.2,
+		"reference": "CmRSAAAAnhLKliNCHruOE4ZEkvwpk9bFwIuqTEdTd1KnhsHBSb7HgqTpSg-lTvhWnS3ObFNvXx4M0L1mbeRLUZEZd15D0BOKyHbdHDjZnhxOHtTOfLlQGzo6ft4ZPUqkGonIUwYcEhBq9_ILAw0q8rRWOlI0DyraGhTileNpwqDCHvyA1BJetml0-Tu4Vw",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Marechal Deodoro, 1187 - Benfica, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7667315,
+				"lng": -38.57276999999999
+			},
+			"viewport": {
+				"south": -3.768302180291502,
+				"west": -38.574472930291506,
+				"north": -3.765604219708498,
+				"east": -38.571774969708486
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "704853175374409cd9a79caa61dba66c4af7443a",
+		"name": "Estádio Alcides Santos",
+		"photos": [
+			{
+				"height": 2204,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111890963973588736116/photos\">Thyago Donatto</a>"
+				],
+				"width": 3920
+			}
+		],
+		"place_id": "ChIJ35BbFQFMxwcROOQklXIZCOg",
+		"rating": 4.2,
+		"reference": "CmRSAAAAR2qrWyPsHYHRjPP6IDbP_pi4DPttYDsX_8rSoN7CluWeMg5Lu0Yexp_z9yxLJ5PO1f__H0OERu-yufNLwhEmDvSFPM-ctluzW2peSbuG4X6Zf92YSSu6wIyda-7mzBpJEhBgc_10bP82_P9GtAwONwWKGhTaX3q53z7IarcXXm_0M0d2sh0d5Q",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Senador Fernandes Távora, 200 - Pici, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7444648,
+				"lng": -38.59037090000004
+			},
+			"viewport": {
+				"south": -3.745854280291502,
+				"west": -38.59199708029149,
+				"north": -3.743156319708498,
+				"east": -38.58929911970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "36ce1ea61785e0d7e09fb4783ea9cfa4c778d0a4",
+		"name": "Estadio Municipal Antony Costa",
+		"photos": [
+			{
+				"height": 3096,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111742195710386063652/photos\">dinho magaiver</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJt4OTFk1KxwcRo0nEozL1ONA",
+		"rating": 3.2,
+		"reference": "CmRSAAAAsLE6VjkXxvjJXd5MQeXrexSF_HoB-O6mYLU80gcZzwHQ1gLGvtGCqUpkKeHkH7LwjIiPkE_dD4BGEGHs4DkzeBYOB8tw-kQjgGcmH8qflXVpTr5-EX3BFnXJ4L6d8t7VEhDDgIAFgajKOJBn1QKDK37pGhREyzA42rdFYwtESwFIqcZtOUlSfA",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Hugo Vítor, 509 - Antônio Bezerra, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -4.104737899999999,
+				"lng": -38.488009499999976
+			},
+			"viewport": {
+				"south": -4.106264980291502,
+				"west": -38.48871938029151,
+				"north": -4.103567019708497,
+				"east": -38.48602141970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "29ca659a90613222b0d241d1b0445e6cae904c55",
+		"name": "Estádio Horácio Domingos de Sousa - Domingão",
+		"photos": [
+			{
+				"height": 693,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/114452413227718395245/photos\">Wellington Lima</a>"
+				],
+				"width": 1363
+			}
+		],
+		"place_id": "ChIJHTnywAiwuAcRCPrQu0lnhxo",
+		"rating": 4.3,
+		"reference": "CmRRAAAAVVevoY6lQelC3x_tJc7mQTF_KTYKX72eIt5gYDs8P-86AMg3E7Sl1t6awnL5GsHU811fHxwLDUX0H_xhE23JmXpgKtcXm2n_WTuiYMXaJpu-fljJ5PqbKV2IbkUPMCINEhCqqcLrrXerbsfR57d7UGK6GhQjCxhC6dLuTTS4WEcSR2A6bPHung",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Baturité, 770 - Centro, Horizonte",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.790842999999999,
+				"lng": -38.61966040000004
+			},
+			"viewport": {
+				"south": -3.792111130291502,
+				"west": -38.62128918029151,
+				"north": -3.789413169708498,
+				"east": -38.61859121970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "cbe3e02a3679883260cbe37412670f4b44000eba",
+		"name": "Estádio do Bom jardim",
+		"photos": [
+			{
+				"height": 2340,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/116257360783773502693/photos\">Ricardo Barros Alcantara</a>"
+				],
+				"width": 4160
+			}
+		],
+		"place_id": "ChIJCyGRvfxMxwcR5-YG7j8LYTI",
+		"rating": 3.8,
+		"reference": "CmRRAAAAxMYe5BSRGNirJisiW-x1ASjOvkosOkjbVD28Cg-kcccMFDtcwZJYOZoBSPD4opvD0wiPwhu2bf3DPQ5GypGSf6Uoc6_RhPdM-q8TY5LQ8wv2cKKJbowsDuSvMfjoFOz3EhClBVyTsFQe5Skj9F7Nb-nDGhT66uGUXf_xemhfldGce6DUtnbRdA",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Guararema, 1731-1819 - Granja Lisboa",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8042003,
+				"lng": -38.45963119999999
+			},
+			"viewport": {
+				"south": -3.805539080291502,
+				"west": -38.461010030291504,
+				"north": -3.802841119708498,
+				"east": -38.458312069708484
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "055cbfed580f61cda782c3dab0bd9c81029393ed",
+		"name": "Estádio Valdir Bezerra",
+		"photos": [
+			{
+				"height": 3264,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105354182550608473244/photos\">Zienildo Folguedo</a>"
+				],
+				"width": 1836
+			}
+		],
+		"place_id": "ChIJ1XrxOwpFxwcRWGrzZXGkmXo",
+		"rating": 4.4,
+		"reference": "CmRRAAAA4W6PVQ-u2tYw6ddKzlVX9IVgN6y5nK0iMwYU4Fq5_qcredkQP1EOOx8vKZzGjhrT8zJ3DMzNvLxaqB44zGT8uhx-oUAwLKqMkuEFg4AMdMLkDaKkUNo6gp3NUNATwgkKEhCzzlgX5nYcVMZkD1ppn2hFGhTLZDR3c9nynFn6AswiWEDZOq0Y1A",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Francisca Bezerra - Lagoa Sapiranga (Coité)",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.768807399999999,
+				"lng": -38.47584310000002
+			},
+			"viewport": {
+				"south": -3.770156380291501,
+				"west": -38.4771920802915,
+				"north": -3.767458419708497,
+				"east": -38.47449411970854
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "cefb338dd751bdc6e9d94f20c65f48e6aee7c283",
+		"name": "Estádio de Atletismo",
+		"photos": [
+			{
+				"height": 3006,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115220532912333184571/photos\">Douglas Rabelo</a>"
+				],
+				"width": 5344
+			}
+		],
+		"place_id": "ChIJqVjeQgdGxwcRMoZu8Xmu2l8",
+		"rating": 4.5,
+		"reference": "CmRRAAAAcS6uI7oglhWi41DN9Q9vtdQ3lCXZI5OjI9PHXy0PguYFDTdrW4IMyQRdBWaYuzOfVS0NZyX7ePy_41KNHRxL60tRSGzxOtmz2imICELyc4cz6LMWpafhoDBVpEuz6FfAEhCpM4jQewZhgXTQuzcUmxunGhSX38HDSkm2VrWgAyhfbNJgU5oGog",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8185919,
+				"lng": -38.44952620000004
+			},
+			"viewport": {
+				"south": -3.819974080291502,
+				"west": -38.45088443029147,
+				"north": -3.817276119708498,
+				"east": -38.4481864697085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "ec6b7ec431e472f035ab2f465990a23f751e8f55",
+		"name": "Estádio Antônio Cruz",
+		"place_id": "ChIJNd-G6hhFxwcRqsnasHwEOAE",
+		"rating": 3,
+		"reference": "CmRRAAAAdZSp1JNtkc5y23GTsJXnTKSyMoXTCx9hvY28fmXo1Uk0Bqw9trYbjQ5XHq_ouSI_4slYONGZIfDF0Nts8BLyNewKWxzbxcbWeFJvzrIAnmA0_-dV8wJx4wYb_lAFXWFhEhCasI7avbs_auLXXTaDIPK8GhREjbXq03aYg-HrUZEeT2IzUCxpoQ",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Paulo Parente, 313 - Lagoa Redonda, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.832144999999999,
+				"lng": -38.488563399999975
+			},
+			"viewport": {
+				"south": -3.833454780291502,
+				"west": -38.49017848029149,
+				"north": -3.830756819708497,
+				"east": -38.48748051970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "f9676e6269aba0ed30eafee436a9f07bc72250b8",
+		"name": "Estádio Murilão",
+		"photos": [
+			{
+				"height": 1746,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/100493742451151065871/photos\">Jônatas Moraes</a>"
+				],
+				"width": 3104
+			}
+		],
+		"place_id": "ChIJiaxaWf5PxwcR7xwYuEfcSKg",
+		"rating": 3.8,
+		"reference": "CmRSAAAAIx4hc2mnv0szQmcUD98ltEjSGRzVFdvLKUwpNB1nc--SHqZBKyBpzHb7zsJgN5GrveGHqN0iRRqCbswIJTfmo9kX2_S7zIgtPGQW_lvIlN4-M-pii0oxyEVNGza8W89yEhBxmGXpHeTdqBEjB4hfLYWyGhSL_pRcBfI41YmrN3Ohbj_y8UBUGg",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "453, Rua Antônio Barros, 309 - Messejana, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7956427,
+				"lng": -38.5468348
+			},
+			"viewport": {
+				"south": -3.796991680291502,
+				"west": -38.54818378029154,
+				"north": -3.794293719708497,
+				"east": -38.54548581970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "fac562358af9439f9ce8b6b366f4758e19093bef",
+		"name": "Areninha Pq. Dois Irmãos",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1536,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105087555288314131470/photos\">Heron Santos</a>"
+				],
+				"width": 2048
+			}
+		],
+		"place_id": "ChIJuedYwvROxwcR4MMMFK6U5iY",
+		"rating": 5,
+		"reference": "CmRRAAAAqjUojjb2Nk9xijZnvUHOY6Vs0rQFDy5mxijZhqsPULVfxda-o5GdtfU8lA5Y513YWf7UxQ02CirVkMZdARaoleqkieBUb9onI_Zm0wP7c1OfdKduwwmOyFPelGKH_taLEhAYWJaOEK5zpKlEBVUWqa-1GhTLFknK9dYmdz3uZJR-F9yfzb6ZZQ",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua D, 7-153 - Parque Dois Irmãos, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7299612,
+				"lng": -38.51834659999997
+			},
+			"viewport": {
+				"south": -3.731257780291501,
+				"west": -38.5196706302915,
+				"north": -3.728559819708497,
+				"east": -38.51697266970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "0160a86a07b52b17920ee5c2fd66a9669da7c9f5",
+		"name": "Estádio General Côrrea",
+		"photos": [
+			{
+				"height": 1836,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115015443079662519074/photos\">Ieda Albuquequerque</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJJ26BxFBIxwcR2nSdeE5Grag",
+		"rating": 5,
+		"reference": "CmRSAAAAKkczgaReFeuwNSzdUE5nyOxo_mVd0b8svW9wFWNHyI3rmGuHjeEBRKlNdiQiGu148D4fcPavN7xC457JHHaTdoIs7rRGxvY9inMHsGJbbA-xFFoYae4B-rUuU60AtYWvEhChq4ynX8QST7PpdHalF3SwGhTwQGA1Rph9J8cxg9elgBfDl9QvVQ",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Santos Dumont, S/N - Centro, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8641465,
+				"lng": -38.50983819999999
+			},
+			"viewport": {
+				"south": -3.865495480291503,
+				"west": -38.51118718029147,
+				"north": -3.862797519708498,
+				"east": -38.50848921970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "bb86f9a44e21a84102da07bfa21dd0af793dc647",
+		"name": "Do Cruzeiro",
+		"photos": [
+			{
+				"height": 1440,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/112144134250735601298/photos\">Rafael Benavides</a>"
+				],
+				"width": 2560
+			}
+		],
+		"place_id": "ChIJD3XYFV9QxwcRKyIqgCUlE7o",
+		"rating": 4.3,
+		"reference": "CmRSAAAA8Dl90Ds_yljqskPL3OjB43fcTJ6-ibW4NBeLVkmYyRdqNjJCDAkBkPc2qi2HIf5I4TQz5pFRO5hIg5gRyVmMuSc05dWmzCc7kPtdxzZyM_Ju-Jwv7zPGDQa_IsZMT-SMEhA0qt19fM1rJLye3ER84K8XGhSlwSehP2TqyV2c0PfEwvfGCITpcg",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.746466700000001,
+				"lng": -38.5454646
+			},
+			"viewport": {
+				"south": -3.74860735,
+				"west": -38.54672913029151,
+				"north": -3.745753150000001,
+				"east": -38.54403116970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "a3be3384a5aba1bc7f7e1ffe3bcaae3d04a2fb03",
+		"name": "Estádio Carlos de Alencar Pinto",
+		"photos": [
+			{
+				"height": 3120,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/112425786475969680872/photos\">Yannia Bezerra</a>"
+				],
+				"width": 4160
+			}
+		],
+		"place_id": "ChIJ-11NXxRJxwcRgHJrCrEi-3o",
+		"rating": 4.4,
+		"reference": "CmRRAAAAGVnGEO1SM6F5zSjjWnympdm2GT8h6tb55V2eWh11PEJy_J_iWHFsYAbCTOQfsysbmpHMMiDbd85sH68N-evWZcZIaE8ijtIU00eyGgkeCzzqci2hVxgBYF-D01xsmXzYEhDRNcRzefK95-eDi9nKQ01RGhSWSsypQsluv2isbDpfV7BW7XHegw",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida João Pessoa, 3532 - Damas",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.892182399999999,
+				"lng": -38.448967700000026
+			},
+			"viewport": {
+				"south": -3.893531380291502,
+				"west": -38.45031668029151,
+				"north": -3.890833419708497,
+				"east": -38.44761871970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "b944e231acf5e6e9840df875c12dd16e2682c266",
+		"name": "Estádio Municipal",
+		"place_id": "ChIJ1aok7TFaxwcRaHvaUKD57Ac",
+		"reference": "CmRRAAAA2XsDZ1I-MwNd8Hcgk_NSBZ1hTeWoMPghHw-2ByDbbFvdtb_TVBaIKagPxIa1API2mQIWz2UME0nPN7JEXgoZM1S--Xf2f8hre8bg1JRRLU1vSFI591TZR56_inS225f8EhBzOlphh1DyW2Hpvx_L2tDMGhRLLiMc5D3r_1XrAZisrUaj7SpsuA",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Travessa Pioneira, 136-236 - Centro, Eusébio",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.836992599999999,
+				"lng": -38.59106000000003
+			},
+			"viewport": {
+				"south": -3.838222030291502,
+				"west": -38.59258813029152,
+				"north": -3.835524069708498,
+				"east": -38.5898901697085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "57c83e679734c0f646d5d17a0532d1720a3687dd",
+		"name": "Estádio Moreirão",
+		"photos": [
+			{
+				"height": 1836,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/118383213118572784562/photos\">Swing da Madame Deus é Fiel</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJmdJxXG1SxwcRkUsMSc-VZ0E",
+		"rating": 4,
+		"reference": "CmRRAAAAt4W4FeB5D6u5kaTzXFq-I6gLQLCsQgTehIKBzRh7_kq2ZeymBNkrzyl0vo8td_zscwJSoeEqmMggGvW3VRnCOhg7358Di-xdRN_WOOYSrtH3_HlP1KCK8WZkSnGzuxaMEhC-R9XzdglLwOT0jeycNi5bGhSUPIRV4ThqtVOmy4N7lmdmBMCD7Q",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua São Turíbio, 481-569 - Industrial, Maracanaú",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.9044889,
+				"lng": -38.38516290000001
+			},
+			"viewport": {
+				"south": -3.905722930291502,
+				"west": -38.3867006302915,
+				"north": -3.903024969708498,
+				"east": -38.38400266970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "3c241bd59f6ce32307d8e49d12be40ed3816581a",
+		"name": "Estádio Municipal de Aquiraz Aleberto Targino",
+		"photos": [
+			{
+				"height": 1456,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/100836916413434190388/photos\">Valdelucio Mota</a>"
+				],
+				"width": 2592
+			}
+		],
+		"place_id": "ChIJw3EC_R1cxwcRsQwgZJe9o4I",
+		"rating": 4,
+		"reference": "CmRSAAAAtNbi4tyBRyQL1-hKwJso8gjUX3PztgKZ6XB5dkbCtTm6LQ_SEPMngYDm3JqdOCKN4ozx-fqkb3TJ07CtIeRqntqQxmgwTw62f7KYZ0ksr3jv5JxPgxexhvSrpzpUjbIIEhAZ3Wod-vnf6xEIM56jw3PkGhRMze8_il0eICaNNWatiUrNzynDjg",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Alberto Targino, 84-132 - Loteamento Rota do Mar, Aquiraz",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8884728,
+				"lng": -38.6017703
+			},
+			"viewport": {
+				"south": -3.889873130291502,
+				"west": -38.603143230291494,
+				"north": -3.887175169708498,
+				"east": -38.60044526970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "e49c7ecec1d8fbfc921f83e71a59b2332adf0d1d",
+		"name": "Arena Nayara",
+		"photos": [
+			{
+				"height": 1536,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/102198192820428116342/photos\">izabel viana soares</a>"
+				],
+				"width": 2560
+			}
+		],
+		"place_id": "ChIJPejA5IVTxwcR4IMLF2jcEFo",
+		"rating": 4.2,
+		"reference": "CmRRAAAAzy0pcyCc4TQ4pE9r9UfB6y2t5W0g51GTlrVQLjnVDlaoJRvJHTC26wcwRg0NXHmTYV0DrnrLROHfMywD3nHsLbSAu5pYBlln7uMjdIWAiA-qRZMKTSvcK4lpG85R_G8rEhDBcodsI2VKWdmKcAONCxZnGhSkagk0m4g6pf6vBE8kCGFKsEI8_w",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida XXI, 394 - Senador Carlos Jereissati, Pacatuba",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8818845,
+				"lng": -38.629896599999995
+			},
+			"viewport": {
+				"south": -3.883139480291502,
+				"west": -38.6316710302915,
+				"north": -3.880441519708497,
+				"east": -38.62897306970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "0d99408af137a345c995eb91bf288c4d894f87f9",
+		"name": "Estádio Almir Dutra",
+		"place_id": "ChIJu4WBWmhTxwcR02otNwWzQKs",
+		"rating": 2.8,
+		"reference": "CmRSAAAACTVB4o_ZqngEkegJ3TTEDUqzKfO4h6thaE5ZrNXVCiDemh2Mt2WzOIeVsIamb_iWDhb61dBnuHgjc1Nk-oAccYOyP2f8V3O2WYpmu3b-Y1vWVukKZ5bptE3CnqPIdev-EhC3_aE7QpH1OihS8eMyFmZeGhQ5fzVlih6r4CwDNPgeIaTaD1QEoA",
+		"scope": "GOOGLE",
+		"types": [
+			"stadium",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida dos Estruturantes, 204 - Jereissati II, Maracanaú",
+		"html_attributions": []
+	}
+]

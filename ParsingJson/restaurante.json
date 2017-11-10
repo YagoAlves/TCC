@@ -1,0 +1,853 @@
+[
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7265861,
+				"lng": -38.4987069
+			},
+			"viewport": {
+				"south": -3.727964530291502,
+				"west": -38.499967080291526,
+				"north": -3.725266569708498,
+				"east": -38.497269119708506
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+		"id": "f7c1ab1cfdf60ec4170055c7207295578676837c",
+		"name": "Mercure Fortaleza Meireles Hotel",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 768,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/103054543682303134482/photos\">Mercure Fortaleza Meireles Hotel</a>"
+				],
+				"width": 1024
+			}
+		],
+		"place_id": "ChIJ16muc29IxwcRQzqk1y44Yss",
+		"rating": 4.1,
+		"reference": "CmRSAAAAoNEf4XmfEob7QNM3Y58nLLFkEFSLdGNDQlTVxXUgr36IrnXcq8LUaXrueET7_QXN6c2eXlglxxHXIo6uXotOz0xLsCPZCJ6PniG34wnoK50hfq_qcOxfMBIVZwWRId9SEhBT6F5yJp6-UdJXnZZIqFz5GhRUFqVW77a_f4LtVXsIJRcVWX35uQ",
+		"scope": "GOOGLE",
+		"types": [
+			"lodging",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Joaquim Nabuco, 166 - Meirelles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.906256999999999,
+				"lng": -38.345781999999986
+			},
+			"viewport": {
+				"south": -3.907619280291501,
+				"west": -38.34705133029149,
+				"north": -3.904921319708497,
+				"east": -38.34435336970853
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+		"id": "0ec0193acce22b0659262e0760e91f42bf06c41b",
+		"name": "HOTEL LAGUNA BLU",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 896,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/108035409860171684339/photos\">HOTEL LAGUNA BLU</a>"
+				],
+				"width": 1280
+			}
+		],
+		"place_id": "ChIJZ0gMY9hdxwcRNbSunpqixC0",
+		"rating": 4.1,
+		"reference": "CmRRAAAAo0WIJH914SlN91i4d1mzS1IieljiLeqrxDVyPIu5lkHj4g-cewYt7Ci5GOpon3ukMYapZfyjAZA-QSoUU8SmaLTbuvGSHXjUJbBck3jLHqYRCSJF3MHVDIusfjH1uddkEhAZVPTEhzGQ5cZKFB1mGbu4GhRtYrt3Uz4IpypBVqZZpr-lCv883Q",
+		"scope": "GOOGLE",
+		"types": [
+			"bar",
+			"lodging",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Damião Taváres de Souza, 902, Aquiraz",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.845572999999999,
+				"lng": -38.39723100000003
+			},
+			"viewport": {
+				"south": -3.846921980291502,
+				"west": -38.398579980291515,
+				"north": -3.844224019708498,
+				"east": -38.395882019708495
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+		"id": "26944e1c5a9d0528ba55e4620ac80fd2a260eda7",
+		"name": "Planet Dunas Residence",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1836,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/113910308887648585448/photos\">Planet Dunas Residence</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJbaBH46hcxwcRUdljodLvQyA",
+		"rating": 4.1,
+		"reference": "CmRRAAAAVlMzevCvH4jWxe7SfgzAOut_gpP_ws5mydXLZ9xP91TWjnudAlhUEzZzNQUeufRIivOq0Imngfcpdz4pfx5S3zFdhip_77QgDhqLXO0wx8fiv9KgdGqSbmy7tDBuPhgYEhASx0mCRhz65gHR0Kt-FjOUGhSloblMDhaKfOVhiOAiBBGvwkwvjQ",
+		"scope": "GOOGLE",
+		"types": [
+			"lodging",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Caminho do Sol, 3487 Planet Dunas Residence - Porto das Dunas, Aquiraz",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.726778099999999,
+				"lng": -38.488298499999985
+			},
+			"viewport": {
+				"south": -3.727883880291502,
+				"west": -38.4896897302915,
+				"north": -3.725185919708497,
+				"east": -38.48699176970854
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "be97319c0c9ad86e5716f9c8f88b2347548d60e4",
+		"name": "Churrascaria Sal e Brasa Fortaleza",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3120,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/108875652559545044480/photos\">Marcelo Antonioli</a>"
+				],
+				"width": 4160
+			}
+		],
+		"place_id": "ChIJ88hIVXZIxwcRbcpWVdn2I-Q",
+		"rating": 4.4,
+		"reference": "CmRSAAAAtAiyDoJ0S293P6funxIJ8v0oPrxq0_3kjkVtuVi3BJhNE1VjsTrOoDCx_f15KQXSyuZE3dkm1AVby609CHhjiavOo19oqVHmVlBhL1v-_omCU-gm-hPovcbYnKLBta7HEhDOsSOLCrU9LChCzNykIA4eGhR8KxZuSM1y0pfg6zpOTY0_hUpniQ",
+		"scope": "GOOGLE",
+		"types": [
+			"bar",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida da Abolição, 3500 - Meireles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.723958000000001,
+				"lng": -38.508657200000016
+			},
+			"viewport": {
+				"south": -3.725186480291503,
+				"west": -38.51001648029148,
+				"north": -3.722488519708498,
+				"east": -38.50731851970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+		"id": "8cf9ff97b1617bc709d3df513ff23c8f73d66168",
+		"name": "Ibis Fortaleza Praia de Iracema",
+		"photos": [
+			{
+				"height": 768,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/108082221755922969781/photos\">Ibis Fortaleza Praia de Iracema</a>"
+				],
+				"width": 1024
+			}
+		],
+		"place_id": "ChIJo2TAzkNIxwcRKuQmzU4_BHg",
+		"rating": 4.2,
+		"reference": "CmRRAAAANTX_yCGC-t2tHV-QilVNpkhByaSl8MjWeV_ATiP8pBPyaJxDa1xFT6SC6_SAcfBsvRA8nGyGQMd0HKh2uNZLJ5ODo274rUrS38VQzion_39EBsGAHOecPeWrwymZaYOlEhAdpKnhHBz5E_1yXyBGXxeJGhTqviq3tI-0DjPSt_ty8SWe8t-KJQ",
+		"scope": "GOOGLE",
+		"types": [
+			"lodging",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Doutor Atualpa Barbosa Lima, 660 - Praia de Iracema, Fortim",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.731990899999999,
+				"lng": -38.490843900000016
+			},
+			"viewport": {
+				"south": -3.732943530291502,
+				"west": -38.49207743029149,
+				"north": -3.730245569708498,
+				"east": -38.489379469708524
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "93dcbcfaacce7c2c78a3f3e30f42e9672f2208d0",
+		"name": "Coco Bambu",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3456,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115093804756945789640/photos\">Ednir Teixeira</a>"
+				],
+				"width": 4608
+			}
+		],
+		"place_id": "ChIJp4pJ9HtIxwcRMmY4TNjQwwY",
+		"rating": 4.6,
+		"reference": "CmRRAAAAqLVy6McxXwLxHK4WJ7yQmq2GeCq91ogMeW2XE7BRa0Ne4-IgJ8KurvTxFFxb1GeeHZtsolvnNcypgJ_toKjDAdBE751UvFMYrlCOy_I9xkW591GlAOZ7FlKxdhYdv2bDEhB671lBC30EIUFzujO4Rvs-GhRKv835rEfuwGrlcgCmK8v-d-shiw",
+		"scope": "GOOGLE",
+		"types": [
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Canuto de Aguiar, 1317 - Meireles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7237987,
+				"lng": -38.50602309999999
+			},
+			"viewport": {
+				"south": -3.725458180291502,
+				"west": -38.5073991302915,
+				"north": -3.722760219708497,
+				"east": -38.50470116970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "5af0d4cb91699771ed0c123089815be55c2dd63b",
+		"name": "Restaurante Ideal Clube",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 4032,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/114514531540453856911/photos\">Dairan Temóteo</a>"
+				],
+				"width": 3024
+			}
+		],
+		"place_id": "ChIJS9McQUJIxwcR1k4w-Vv493w",
+		"rating": 4.3,
+		"reference": "CmRRAAAAXBtqZ_SY0kthzXMytVurPQd3ZKH6NTjayRX-8svY587oV1GqPINM8JOqn7vMnlGLKrnGn1ekMbNwpSCcH_7-AmsAIj5LaJSRYd4ESnSyyzT4xpMI2bFB2KH26B1A1ZbgEhAwi48if1ptUBsyfYEH59gaGhTBlhNgQpIqykgEC4Q9oKciRDqOzw",
+		"scope": "GOOGLE",
+		"types": [
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Monsenhor Tabosa, 1381 - Meireles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.732548,
+				"lng": -38.49005699999998
+			},
+			"viewport": {
+				"south": -3.733807180291502,
+				"west": -38.49137683029153,
+				"north": -3.731109219708498,
+				"east": -38.48867886970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "af8b8b1974f38c65e11f19fd1660d669419170b4",
+		"name": "At Home Hostel & Pub",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 4000,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/109128387444854202348/photos\">At Home Hostel &amp; Pub</a>"
+				],
+				"width": 6000
+			}
+		],
+		"place_id": "ChIJI5-pAXxIxwcRnlNosShhFQM",
+		"rating": 4.1,
+		"reference": "CmRRAAAAkqrj2EcdmyEwAlxLrr58Q9W8qBPuYI2QiuEVVo2TkiWIKI8bAJieuwsJE-5lmUEEjiqhcxZy7mM8_IIZvV58Tp1rIPdDw_WnM5gGIk2szw1oXTCwhJRXAMAZEdYpGhOBEhCZOGjpVP85xfevPVA9892MGhSx_A0pRaF2MeKAwSMjjST6Wwg_9w",
+		"scope": "GOOGLE",
+		"types": [
+			"bar",
+			"night_club",
+			"lodging",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Canuto de Aguiar, 1424 - Varjota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.73059,
+				"lng": -38.48848499999997
+			},
+			"viewport": {
+				"south": -3.731934130291502,
+				"west": -38.48975368029153,
+				"north": -3.729236169708498,
+				"east": -38.48705571970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "494609af0638f0e7a552e6e03bdd0848f93acfb4",
+		"name": "Arre Égua Bar",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 768,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115316818898340276133/photos\">Arre Égua Bar</a>"
+				],
+				"width": 1024
+			}
+		],
+		"place_id": "ChIJ8cVIPXlIxwcR5VqIyAz21rc",
+		"rating": 4.1,
+		"reference": "CmRSAAAAaguAYj4rsLZzVNxz-iLHrfIkaVjuDpR8YqmDmQ6hDbxewV06Ibr7aDo16OB0zpE5I89aLa8frp2zZrFx9bRrbVCDa57f8ckHAGPHv3iHO76QMFKcw5vh7XPdaGvJ6IpUEhDr-bs4Asqa8xoWYeiPHGewGhQTVVrsnYNsfu1BtCsfR1fXDz2v5g",
+		"scope": "GOOGLE",
+		"types": [
+			"bar",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Delmiro Gouvêia, 420 - Varjota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7191613,
+				"lng": -38.51667800000001
+			},
+			"viewport": {
+				"south": -3.720549880291502,
+				"west": -38.51810178029149,
+				"north": -3.717851919708497,
+				"east": -38.51540381970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "36a1513dd23afaeb1f4a2a81a11c61e9b2a19808",
+		"name": "Pirata Bar",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2322,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105319999416699668457/photos\">Riciéri Carlos de Faria</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJd0_dD0hIxwcRaLBVGlSJIBI",
+		"rating": 4.3,
+		"reference": "CmRRAAAAMMQXT0YUvzBIRbok1U9egM8lrfeD__4hVKLq6Jno0tdvu0de90Tkmudl2Hj5tmRZbBB9aJfa4P1CAtDe1QA1IVSHCSIXUmIJ26xIV-S5HeIp63eRstYhPcVqZxAQqrX7EhAY7t50bNqtO4b9JiCYl8taGhQYrz4LTaHs_Z14P9OM_6Jzzdcdkw",
+		"scope": "GOOGLE",
+		"types": [
+			"bar",
+			"night_club",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua dos Tabajaras, 325 - Praia de Iracema, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.727493999999999,
+				"lng": -38.49134000000004
+			},
+			"viewport": {
+				"south": -3.728825980291501,
+				"west": -38.49262013029147,
+				"north": -3.726128019708497,
+				"east": -38.48992216970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "3e2103cc4f775d4d49370982b5000daea5c5a70d",
+		"name": "Pizza Vignoli",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3096,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111410386186695935541/photos\">Edson Ortiz</a>"
+				],
+				"width": 4128
+			}
+		],
+		"place_id": "ChIJ0fiVGHFIxwcRsQPcVOJUsyo",
+		"rating": 4.5,
+		"reference": "CmRRAAAAqXzdiTLmzrtiuU_wra5IHLu6ztBPR6wN__8M3tYClyVYPBelfRawIGoZvxr90Od_-lNShKmqFEBtM-r-AqrHxq7lxBgsmcAeRpOdcRtKQc-Re2-ZpA_UlFB-fbuz5FhQEhCC6mbFunMzyFcsWM1tuIocGhR1HUhrGFpNmMcetf5Gf35uzUIQ9A",
+		"scope": "GOOGLE",
+		"types": [
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Júlio Ibiapina, 10 - Meireles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7321541,
+				"lng": -38.5055016
+			},
+			"viewport": {
+				"south": -3.733464280291503,
+				"west": -38.5069731302915,
+				"north": -3.730766319708498,
+				"east": -38.504275169708535
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "440597f1f26eb00eda2343175aa478839873460d",
+		"name": "Florence L'escale",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3024,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/117710885519899881900/photos\">Felício Harley</a>"
+				],
+				"width": 4032
+			}
+		],
+		"place_id": "ChIJbajdrmBIxwcROtZSU2_GuLc",
+		"rating": 4.3,
+		"reference": "CmRSAAAAHscz_3Uu4Bh_LFgRSrzv6_w1824IRqWBTO6839m3VBYzEdPV2wTQw8muXMH6B9NUasFkK7gmVf-TdclCkMj1mU-ghixkE02sjQ5920bnEoAtnAJXlUo7QsvnTbnjxeh-EhAxECD2d8T6f8nEsSCljTAiGhQTfyh_glc8XaemGivHSr9vyp5-Kg",
+		"scope": "GOOGLE",
+		"types": [
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Barão de Studart, 855 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.735055999999999,
+				"lng": -38.549413000000015
+			},
+			"viewport": {
+				"south": -3.736337680291502,
+				"west": -38.550745580291505,
+				"north": -3.733639719708498,
+				"east": -38.54804761970854
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "fd09dbaf1aa722361959fe36a3c8dde36c06eb96",
+		"name": "Carneiro do Ordones",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1836,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/109294487332035572656/photos\">Márcio Sombra</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJbbLII3VJxwcRd6s4tGxEFH4",
+		"rating": 4.4,
+		"reference": "CmRRAAAA2lWbizl_eBISJ8YGABOe0Tav_tRZzUbi87rDWNiqES4cwPD9-d2ZpJ4zrcCvUAdskeycWxDAPUfgtAY7QVxVLUg-vBl8RjtGgVvM4j0SEovr45Z90rXP_k83m_Vndb1EEhDGyBKYIZcqgjO5QT3oIg1jGhQmNog41kXZS3h72W9YAzTSNcrihQ",
+		"scope": "GOOGLE",
+		"types": [
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Azevedo Bolão, 571 - Parque Araxá, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8429331,
+				"lng": -38.390761
+			},
+			"viewport": {
+				"south": -3.844282080291502,
+				"west": -38.39210998029148,
+				"north": -3.841584119708498,
+				"east": -38.389412019708516
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "bf3d1c2d96c4e4cf9d670f6f36df7d6a29c17114",
+		"name": "Chandon Bubble Lounge Beach Park",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 449,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/108705871748893108209/photos\">Luciene Lacerda</a>"
+				],
+				"width": 600
+			}
+		],
+		"place_id": "ChIJq_ngLVhcxwcRtIo74kkV5GE",
+		"rating": 4.4,
+		"reference": "CmRRAAAAPonqsfLkleMlCUNmVuMdiZqeaJHNiZtLZTJIYk8JW4tD2jaB5DZobzKycJREMurXnqdFK8TATMsRePyFB-xMgz0zy9i6YcYriR7PHWSS0tPCepZPgbNN5V05tQ86IWxKEhBUd8BeUwwCJ2op3nnGZwbaGhTpDyrlqMTgjJPqoihnWZMB2BxOzg",
+		"scope": "GOOGLE",
+		"types": [
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "R Porto das Dunas 2734, Aquiraz",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.729984,
+				"lng": -38.51311099999998
+			},
+			"viewport": {
+				"south": -3.731276930291503,
+				"west": -38.51444123029148,
+				"north": -3.728578969708498,
+				"east": -38.51174326970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "5546719c6e558ba473c8f2e4f15f94ca6b9ee657",
+		"name": "Cangaceiro Sanduíches",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 4618,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115806961929796425102/photos\">Ythalo Rossy Saldanha Lira</a>"
+				],
+				"width": 3464
+			}
+		],
+		"place_id": "ChIJ33rruFtIxwcRi81zxYJ2wgU",
+		"rating": 4.1,
+		"reference": "CmRRAAAAt7DJH-Z3hb6ZAMW7Zy_u-6XId3atjFsLo3aYagseMfq1xkXDEunTFfhwiakNQyUJg34PSSifsrlZydptVwIJXmqG_JDJoMPTj8yr7imlnWzpA-0c9TG5Uc6D3nRb3VhUEhC_xArg7itycIBzHH3qGhsHGhRovVy_jvUTVK5-2ocEVVsaJpuyOg",
+		"scope": "GOOGLE",
+		"types": [
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Costa Barros, 1210 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7260377,
+				"lng": -38.4916475
+			},
+			"viewport": {
+				"south": -3.727363030291503,
+				"west": -38.49288733029152,
+				"north": -3.724665069708498,
+				"east": -38.4901893697085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "154743086873ae438467b0d7c55d020569b3b0e4",
+		"name": "Dom Churrasco",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1333,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/102622409724663072313/photos\">Dom Churrasco</a>"
+				],
+				"width": 2000
+			}
+		],
+		"place_id": "ChIJQZf733BIxwcRUg-u4U-DxUA",
+		"rating": 4.2,
+		"reference": "CmRRAAAA2S55np4TmBHeL-szsZbc83HHiGHFIm61wvCnjnvtF-emhI5wGDYWlvGrvQ47HgdEgUEQBNyQnO45R8bbNl_SbqHnWNKKozPPsddoiJqEuklJZXY_3G1zHtwthriSyPuQEhCctkIAYXEmuNVYm37lyEivGhTstiqIOOOfF72UKWcWTKyxdzOGuA",
+		"scope": "GOOGLE",
+		"types": [
+			"meal_delivery",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Júlio Ibiapina, 50 - Meireles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.725863,
+				"lng": -38.496986900000024
+			},
+			"viewport": {
+				"south": -3.727184830291501,
+				"west": -38.49841983029148,
+				"north": -3.724486869708497,
+				"east": -38.49572186970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "467de311c0d35751ab0416b91ac02330a38f79ff",
+		"name": "McDonald's",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2340,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/102565225968892810132/photos\">Joseph Andrews</a>"
+				],
+				"width": 4160
+			}
+		],
+		"place_id": "ChIJI5SlTG5IxwcRztL5kU4pKUY",
+		"price_level": 1,
+		"rating": 3.5,
+		"reference": "CmRRAAAAKFdZJRM_Th8pHYPnJIuFsjF1aDyup5rje9GD1t2VGqCk-tLOJXSp5a4RCGUSZIcaTPqspg-4XtOsNRshzDaavRWK0z5xLuFoZr42LYLuzfOu8qXU4b5fEj6-5STBju1TEhCTrkThPcFtBianbWWqOI8TGhRhZAxy8AkU3VUfepycwgI0q68v4A",
+		"scope": "GOOGLE",
+		"types": [
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Osvaldo Cruz, 1 - Meireles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7415308,
+				"lng": -38.52680469999996
+			},
+			"viewport": {
+				"south": -3.742845580291502,
+				"west": -38.52814203029152,
+				"north": -3.740147619708497,
+				"east": -38.5254440697085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "9f3fb5daaa3cbeaf756de28ceeb73e2a85218e8a",
+		"name": "Boteco do Arlindo",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 4032,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/113101875537022364090/photos\">Marcelo Bessa</a>"
+				],
+				"width": 3024
+			}
+		],
+		"place_id": "ChIJT9wQXv1IxwcR-WMIWjBO7RY",
+		"rating": 4.1,
+		"reference": "CmRRAAAADMt9AGY8VLPGC6cliiG811JvrNh6L7_fjc2CJPlDrxCYGQjM-y_ehcG0gSJn4jUPQbs0G90XqSsGtXR75tRtN242djB2_AJEEvNZzcTN345sYVkZ_b25gewF2wOAdzDWEhASEo0GYpn1aHE2GNCwBzTGGhR5z5wUjo3KR8exnINEh4T_9RikGw",
+		"scope": "GOOGLE",
+		"types": [
+			"bar",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Carlos Gomes, 83 - José Bonifacio, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.731125200000001,
+				"lng": -38.505333699999994
+			},
+			"viewport": {
+				"south": -3.732479430291503,
+				"west": -38.5067380302915,
+				"north": -3.729781469708498,
+				"east": -38.50404006970848
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "257655b501efce9fbbd002763c9cd9ac8d007382",
+		"name": "Casa do Frango Sushibar",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2268,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115900522790383564969/photos\">Maclaude Lima Alves</a>"
+				],
+				"width": 4032
+			}
+		],
+		"place_id": "ChIJTR4YUmdIxwcRqiTVnPEQUl0",
+		"rating": 4.2,
+		"reference": "CmRRAAAAZpFxD_0qmzJmGl0GAR4valCBF-bQE6JJabeALsTjJrYx9KMXB52VhsA8dUIS7vGAGMS_qvr_LRKLszXtlcwYufoKa1Fie-IA9brJ8SPBbK1t2rd8MJXuZiSPU4XpIWQaEhCTfbehE0J_5sPBKLLCo4vpGhRo3fvP6hlzJsqCK0DhUn0CwQzU5A",
+		"scope": "GOOGLE",
+		"types": [
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Barão de Studart, 777 - Aldeota, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.723627,
+				"lng": -38.487499100000036
+			},
+			"viewport": {
+				"south": -3.724809030291502,
+				"west": -38.48886773029153,
+				"north": -3.722111069708498,
+				"east": -38.48616976970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "a9306d32e656c4a501efb77888bbbbde3051ddbb",
+		"name": "Coco Bambu Restaurante",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1920,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/102132493412384580517/photos\">Eduardo Pereira</a>"
+				],
+				"width": 2560
+			}
+		],
+		"place_id": "ChIJx9wRyXVIxwcR9CdcDurjgZc",
+		"rating": 4.6,
+		"reference": "CmRSAAAAamw2fPg_Kdsy1hmEWsia0rKR7ZGAi5a5oq9ycB1EqswQmuTkP-yBqdaG-YMLR-is8i0dd5fu1vEcAEsfJTY5NsYBdAwmdXGQWquw6Lgq-8rMqh7Yg_8G1azQgQ-gcmW5EhBsuIBpAyTNqqdF-Xlzk4FSGhSHeCoAw0T8kHqHoMct6WDtYrRcqg",
+		"scope": "GOOGLE",
+		"types": [
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Beira Mar, 3698 - Beira Mar, Fortaleza",
+		"html_attributions": []
+	}
+]

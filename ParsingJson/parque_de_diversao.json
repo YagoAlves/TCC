@@ -1,0 +1,740 @@
+[
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8438588,
+				"lng": -38.390451799999994
+			},
+			"viewport": {
+				"south": -3.84628325,
+				"west": -38.39153328029147,
+				"north": -3.843050650000001,
+				"east": -38.388835319708505
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "6163f0d4779a0fe3096c971dcd4dcfefb4b64062",
+		"name": "Beach Park",
+		"photos": [
+			{
+				"height": 1536,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/110900879836262485173/photos\">Demian Saboya</a>"
+				],
+				"width": 2048
+			}
+		],
+		"place_id": "ChIJq_ngLVhcxwcRvmEnVWcJoKg",
+		"rating": 4.6,
+		"reference": "CmRSAAAAzYdSI0jbliq_0gYRZJLCh2wQ--OAtQfXVDLuosk7SShvQ772zQYEGBIN9s8KhRTessQ3MAK-sHiuZPPffselWxqU3KeQsxF5Jas3EPprdqT9Rb6Kr4cBlWKeDjgZHMkeEhBmtUyY7VIGUO33B7Lfj1RkGhSJn5acAcLA_tgzLIKcX2tkvYU3Xw",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Porto das Dunas, 2734 - Porto das Dunas, Aquiraz",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.889532399999999,
+				"lng": -38.3580096
+			},
+			"viewport": {
+				"south": -3.890881380291501,
+				"west": -38.359358580291484,
+				"north": -3.888183419708497,
+				"east": -38.356660619708464
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "52c240db6e348c545e12d637476a4012354a0a98",
+		"name": "Ytacaranha Park",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 768,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/112115698059909952246/photos\">Anderso Luis</a>"
+				],
+				"width": 1280
+			}
+		],
+		"place_id": "ChIJf-sqRdBdxwcRQm5pXjA3n_s",
+		"rating": 3.8,
+		"reference": "CmRSAAAAHG7uzwvUpdHy4BisFB_g6rn2fZFcQar7VppGDycR_1maeyaP5pm1AXqBjszXSPshSX6ulcG15vNABhQsgkuUbWXYS79L05kjHmxyA-fywx8is-Ar4HCQU_Smu6Npkjm3EhAjIQ1leScHWVHjd7xNozj8GhREC1VY6wOa6P8Yki43Ao4cH1W_Hw",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Litorânea, 900 - Prainha, Aquiraz",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7327049,
+				"lng": -38.54898860000003
+			},
+			"viewport": {
+				"south": -3.733975830291503,
+				"west": -38.55035423029153,
+				"north": -3.731277869708498,
+				"east": -38.54765626970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "99df4238675e3fd276f0be42b8e51be65993a605",
+		"name": "Giga Play",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1932,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105802630120349954916/photos\">Eric Araujo de Freitas</a>"
+				],
+				"width": 2576
+			}
+		],
+		"place_id": "ChIJvRfYWqBJxwcRVpCUT5cXR-c",
+		"rating": 4.1,
+		"reference": "CmRSAAAAhXWTckl_D7kin7qVZJf5eA3ZsNsIm3QjZnEl2-hfKYqfWC8N_tmp4vkUQPJap4qqdLYs2pdO5mM-VhkIUTZQx-JEVfUqYpP72TRFGPKW26ZePmEy7SWFF9oFNkJXzfmvEhCTNomnQbFXu4xfeqtEMR8gGhRvWBcKn1DHRTIhllHoRK65Ooo8GQ",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Bezerra de Menezes, 499 - Farias Brito, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.8996737,
+				"lng": -38.389905999999996
+			},
+			"viewport": {
+				"south": -3.901022680291502,
+				"west": -38.39125498029148,
+				"north": -3.898324719708498,
+				"east": -38.388557019708514
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "9235527f4a9968ae5ebfe850d712eddeace1885b",
+		"name": "Museu da Rapadura",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 638,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/113855965361062247299/photos\">Museu da Rapadura</a>"
+				],
+				"width": 960
+			}
+		],
+		"place_id": "ChIJj0hxA9qhuAcROxaYIBdvhM8",
+		"reference": "CmRSAAAAY1ypIYzGwuEGGrWdd65LBp1bFwU9glrdAZ3furi8Irsb_l_RBY4Yu5iYAhReGLjS1IcnJFXVOzG3IfoKpZBzsDOtPfrvP_NOFnLWKx5rQig8dSui7XqjB97B08uGfg9nEhAeY_UKqCPPdjtnejzxsgyVGhSViIyRlHj-Dw-1kAni1iwHxQrriQ",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "CE-040, 1500, Aquiraz",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.779784299999999,
+				"lng": -38.48066559999995
+			},
+			"viewport": {
+				"south": -3.781156930291502,
+				"west": -38.482288980291514,
+				"north": -3.778458969708498,
+				"east": -38.479591019708494
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "280e94c1052366f313223e8b4bde52fdde51408a",
+		"name": "Universal Park",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3120,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/115304281977540421971/photos\">Israel araújo</a>"
+				],
+				"width": 4160
+			}
+		],
+		"place_id": "ChIJxUXH6fZFxwcRyD1mLP355AI",
+		"rating": 4.2,
+		"reference": "CmRRAAAArjl0PDQmwk8zGK_mBE1WWGR470wvXRyaJI8ndzuSN743JNI0Ec3Da8sFiFVY4qOadGKeAuQ0sauH8d1ShRnmaE6hfaSvhM9f6rw2ZiIsrQ6gp-FDsK8XNHMeuUuhUeBtEhBhJOoD85LOQYmxasvIMkVgGhRm41iZAbTLLFi2cRoqFKa1yuAf8Q",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Washington Soares, 2315 - Edson Queiroz, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.805270300000001,
+				"lng": -38.44634410000003
+			},
+			"viewport": {
+				"south": -3.806619280291503,
+				"west": -38.447693080291515,
+				"north": -3.803921319708498,
+				"east": -38.444995119708494
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "53142b5beb58a8295e6aa92817e9bf7b271cf852",
+		"name": "Pousada Parque Loiolandia",
+		"place_id": "ChIJc-v85ABFxwcRbS-2wtKZv0E",
+		"reference": "CmRRAAAA85VkBcQPjKVT89ltV_MEoXDYO9e9UZT4RwFWbZPzDg5ViyQuPp5aAyYTUS3gMMvysqf504Jsr9wQu14dJy91w2Gjlne6cPR6bBxqsxe1ASjYcjL13J_MechbGrS7zcapEhB5qlqU6t4Q3UYFPWfXG-1AGhTGrcAhla3ijrzpZsZwkfaaCeBrNA",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Manuel Mavignier, 7200 - Cidade dos Funcionários, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7553137,
+				"lng": -38.488476200000036
+			},
+			"viewport": {
+				"south": -3.756662680291502,
+				"west": -38.48982518029152,
+				"north": -3.753964719708498,
+				"east": -38.4871272197085
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "499e50c45ae112166cb8767d9dfafe23d171a578",
+		"name": "Bambolim Entretenimento",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 779,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/104622957906827454347/photos\">Elano Souza</a>"
+				],
+				"width": 1007
+			}
+		],
+		"place_id": "ChIJ__8vfV1IxwcRVDqkXIN4Bc8",
+		"rating": 4.4,
+		"reference": "CmRSAAAA7YCGRFZaFrOQH97TqQs5We9dg4akvlLmpgC6C71jW3v-z27SL58mbomk8WtkgMMMld4wjDxuwWmY_Pt4O0NZ2SyyPZIPocgmgsh__YcikeBuJo6SUMuj7-D2ZRHoqg8QEhDM78i1o5l4VNTvSjyCz_4nGhToNnR3wwkQmahUtA599u27EauldA",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Shopping Iguatemi - Avenida Washington Soares, 85 - 701,702,703 - Edson Quairoz, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.755061599999999,
+				"lng": -38.48799919999999
+			},
+			"viewport": {
+				"south": -3.756410580291502,
+				"west": -38.48934818029147,
+				"north": -3.753712619708497,
+				"east": -38.48665021970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "8146cee31b0beacedb7737eff6b6e06e7e47b8e2",
+		"name": "Candy Play",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 3120,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/101048307238140255625/photos\">Jonas Sousa</a>"
+				],
+				"width": 4160
+			}
+		],
+		"place_id": "ChIJ-Trl56ZIxwcR-vl7lvXDXiU",
+		"rating": 3.7,
+		"reference": "CmRRAAAA50sIt79fR2CZuNTEsMFis7bEvwp5junNWXrmNwvj1uGweQSVa3TUgfZ8wHK8ifQJrzd0zsa1IZPxJJyh3HX9We640EI9d8CO3_qd7hw3X4i559JmsSkPb9Kx1ZCQ9OEZEhDDd8TFcRxk0ruUFnNshcLHGhTS9WFG03gUlZ5OQM38tveHNNkk6g",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Loja 84/85/94a, Avenida Washington Soares, 85 - Agua Fria, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7439195,
+				"lng": -38.56655999999998
+			},
+			"viewport": {
+				"south": -3.745246780291502,
+				"west": -38.56788568029151,
+				"north": -3.742548819708497,
+				"east": -38.56518771970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "77065550fa6f643236db6b1f0090513f212ac492",
+		"name": "RECREAR - Hotelzinho e Brinquedoteca Interativa",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 630,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/105631923758995374031/photos\">RECREAR - Hotelzinho e Brinquedoteca Interativa</a>"
+				],
+				"width": 1702
+			}
+		],
+		"place_id": "ChIJsf-FMmJJxwcRbJclnk6tN_8",
+		"reference": "CmRSAAAANqgwaaKR90M4u1lPegOUSGYyUkN3f7eh4bb7ZxqPjS90yJnoWNi7Nm-lYPz66O6jpY_fl8yDu4PaYh0x8UQaZhEfrpe6zOuPLxH8K-91PqK716kShwP0W0l90VJYtX7-EhDecI0Mhq-iCoP-cd65A1r3GhTsfCOFsiT3PyAGB2WY_09lmSA51g",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua 21 de Abril, 737 - Parquelândia, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7262155,
+				"lng": -38.567785000000015
+			},
+			"viewport": {
+				"south": -3.728261949999999,
+				"west": -38.56902153029148,
+				"north": -3.72553335,
+				"east": -38.566323569708516
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "21c317e5e816321d71ad485400b6b2afed34219a",
+		"name": "Eco Clube Kids - Presidente Kennedy",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 800,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/111795699139817535366/photos\">Eco Clube Kids - Presidente Kennedy</a>"
+				],
+				"width": 800
+			}
+		],
+		"place_id": "ChIJXQw7dYdJxwcRIXZVLZFWCVc",
+		"reference": "CmRRAAAAQES7unj4ieptju_JJ9CgNZTW5yUhz4m18BEP2PcPNZVWEERZtw3kEUwCuibvuB7ulgehouxT1zhrLbyoTz5Fw5j2VCTCYQuutRn8CNverkKmRSuVEPXbtMG25O5Cl35LEhBnCeIoXjWr2fHFvztIqONNGhTLjo_sr6ojnECV8mf-0BvxcPeixQ",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Sargento Hermínio Sampaio, 3100 - Presidente Kennedy, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.9150617,
+				"lng": -38.534583399999974
+			},
+			"viewport": {
+				"south": -3.916410680291502,
+				"west": -38.53593238029151,
+				"north": -3.913712719708498,
+				"east": -38.53323441970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "def5b91d51d76a4ae9811b5963cee3bf741c13e1",
+		"name": "Itapark",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 2340,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/113222542712561051128/photos\">Rosiney Tomaz</a>"
+				],
+				"width": 4160
+			}
+		],
+		"place_id": "ChIJ55oA_uZWxwcRnmRj5KPwIm0",
+		"rating": 4,
+		"reference": "CmRRAAAAVP2EzGQmmzM_C-l5J92aB0Pe53D1o07wmaehkFoZ3lbK2MrV0GqaXcIw13-0x_VMv3ic95T12l8QZ-32HuFju4jgeDFCvfXL4DDSLO5keYv2Sz7Qb0ufhmo3O9Ll9f_DEhCRs0d1nUAyUZSd1xsRQQdAGhQlcnp0V080ol974Tjw66rPhvHkrQ",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"restaurant",
+			"food",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Itaitinga",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -4.0341901,
+				"lng": -38.5255052
+			},
+			"viewport": {
+				"south": -4.035539080291502,
+				"west": -38.52685418029148,
+				"north": -4.032841119708498,
+				"east": -38.524156219708516
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "1fdef7fd1e767cf1ad8d0af49c1661eee68dd906",
+		"name": "Park Aquatico JD",
+		"opening_hours": {
+			"open_now": false,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 1836,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/116400535896906980219/photos\">pedro jose Secundo</a>"
+				],
+				"width": 3264
+			}
+		],
+		"place_id": "ChIJNVu6SyivuAcRmLPQXn2BJUM",
+		"rating": 3.8,
+		"reference": "CmRRAAAArrdnEGF52u39cm5IpXNwzxGv_SQNiAYBvrE7EARnjaso5g8k2c7ZzQA16INgRIH7WqHHSb3Vgs9n7SyUg1IRxd2xreRo5knr3bHbFkEk8RTZAY0g3t99CcCTwpuedHWeEhBnVFVNcq9iMCdRD3FEVFR0GhSdWERZynmZqTVStKdikoYL-XuAhw",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Riachão, Itaitinga",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7937455,
+				"lng": -38.507579299999975
+			},
+			"viewport": {
+				"south": -3.795094480291502,
+				"west": -38.508928280291514,
+				"north": -3.792396519708498,
+				"east": -38.50623031970849
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "9c6a6f309def8558d9cc77b68b3e9a1831d07363",
+		"name": "Parque ambiental gopark",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJDWtdFw1PxwcR3x876bVBf10",
+		"rating": 4,
+		"reference": "CmRRAAAAz197IAgRoivrf2tF-ETHCRoKxKhkzICSYNz3K351qUoisdGk2hsimrnDarTf5uQCLIanUB_AXdkp0rEg9j8284_JMc0jDIWhPE5qTvSeUrTon6Ua5nje_FnX74WXNJVYEhBg45BLSfCGY9o2E3ycuKBOGhTSGcYv2pt74YEoZmi0U0aOYqUu8g",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Frei Cirilo, 987 - Cidade dos Funcionários, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.825376899999999,
+				"lng": -38.49249980000002
+			},
+			"viewport": {
+				"south": -3.826727780291502,
+				"west": -38.49383293029149,
+				"north": -3.824029819708497,
+				"east": -38.49113496970847
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "4e4c8b0a97832e903dbddbc29312d29516840fad",
+		"name": "Casa das Primas BB",
+		"place_id": "ChIJUUbwg_BPxwcRr21tkk5uNFI",
+		"rating": 3.5,
+		"reference": "CmRRAAAAV-YJdmfEonvQMoXnf-oVTouPaZ27pSdqQ9UsEbiaT1gE70T_it3T69dsUK4iWUbxYhBRXkGpf5PbHhxXomGOwFvc34YN-A-lgLO7YsLCoX7uHfK3XXqyPOuS8u_kvEpREhDT1bM_V26G-uMW0oOcT5N3GhRAHY5pSPoW72wrWTuYbfXE7J2Ewg",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Pero Vaz, 338 - Messejana, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.752826899999999,
+				"lng": -38.50378219999999
+			},
+			"viewport": {
+				"south": -3.754175880291501,
+				"west": -38.50513118029153,
+				"north": -3.751477919708496,
+				"east": -38.50243321970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+		"id": "8521bd7e417efb9136a2fa9438e134c66814c641",
+		"name": "Ytacaranha Hotel De Serra",
+		"place_id": "ChIJD1qXApJIxwcRHY8Jq0IrMLk",
+		"reference": "CmRSAAAA-du1cjn4T4BckGzjjvs_cbP0KW1yqLhV2QzASNJy_Aela_o7UXeuVOA-qSEMx7AUH14p7tcmyuZIV27THLzX2qdigE0HKD6LcMyqOkrmn4cLMwMxRaxrgl_XqQDqnApoEhBGhrwhBgn60ojd9IaVwB3HGhRKWbzW5cx5Z6B527_mKGmc8QQ1Wg",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"park",
+			"lodging",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Av Desembargador Moreira, 2960 - 202 - Dionísio Torres, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.741061999999999,
+				"lng": -38.47176999999999
+			},
+			"viewport": {
+				"south": -3.742900480291502,
+				"west": -38.473281280291474,
+				"north": -3.740202519708498,
+				"east": -38.47058331970851
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "78193e1a8c9079170e05f6d16e45f4f685e93612",
+		"name": "Eco Clube Kids - Rio Mar Fortaleza",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"photos": [
+			{
+				"height": 800,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/116656516900065127305/photos\">Eco Clube Kids - Rio Mar Fortaleza</a>"
+				],
+				"width": 800
+			}
+		],
+		"place_id": "ChIJQSPA1DNGxwcR0nKt7vBoDl8",
+		"reference": "CmRRAAAAXCj0IvTQ6QqALE1DAnPIXEtVA6S0Lm1LKucREr5jrARX8_hrIW1OE5C2zgTSjvpflNQh8yWK0-6bUWejlYO6Duu_v9SW9p7QiQS-1pLjfHulZKSne3zWPg7V8lEyEMhLEhC-JHW0qoBDZARgK_77Uq_HGhT7en-lwA75HYTPxI2hOLX8xxKTig",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Desembargador Lauro Nogueira, 1500 - Papicu, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7298464,
+				"lng": -38.47129510000002
+			},
+			"viewport": {
+				"south": -3.731141130291503,
+				"west": -38.47267243029148,
+				"north": -3.728443169708498,
+				"east": -38.46997446970852
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "fc00ebe1f54ce9d239be1dcbcbe71ec13660ff19",
+		"name": "Praça Da Vitória Yorck",
+		"photos": [
+			{
+				"height": 3006,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/107389640086313726549/photos\">Henrique Mourão</a>"
+				],
+				"width": 5344
+			}
+		],
+		"place_id": "ChIJv8wgcs9HxwcRsdYkA-0OGUA",
+		"rating": 3,
+		"reference": "CmRRAAAAFRuTQttg-450zkB3YW0gOSNEuMPWXRveYmVWZdkm6XR-Gs3WlUExNu7uFo22BpxyKZZv6eA4-rV3W7a4ewu_jt7Z9PvETpmFTxQOMEDK1h1-S8lh6CXYWTGCKKrWZ7YdEhACB2HTEkG5zN52yfLuRcEYGhRSu8EUgfGXDpRp2soxM1GcSRdKow",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Rua Rosado Pereira, 52-64 - Vicente Pinzon, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.831270899999999,
+				"lng": -38.4264063
+			},
+			"viewport": {
+				"south": -3.832619880291502,
+				"west": -38.42775528029148,
+				"north": -3.829921919708497,
+				"east": -38.42505731970846
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "290aaee50cacb17319a7540dfeb81a6cd2af0c8a",
+		"name": "Beack Park",
+		"photos": [
+			{
+				"height": 4128,
+				"html_attributions": [
+					"<a href=\"https://maps.google.com/maps/contrib/100655697173584916644/photos\">Celia Sreboucos</a>"
+				],
+				"width": 2322
+			}
+		],
+		"place_id": "ChIJ_2E1JslExwcRvSUtesG7lKY",
+		"rating": 5,
+		"reference": "CmRSAAAAE2X5y-n2eYiFZAKdj3yYT6efkrmZ_FyNX8SiiJGP5Nyguc9iyiYJdN8AbCRxh330iPaOP_b4Pck5Us2FNAmtEvmKqQ7BBC5-JY0gQv03xeQrGFQYcbzNPLo30bPbrDVVEhAPEV_B73e5nP9zA1_mygStGhS2Lq-oc770FaLMQSz7XvxSifGKog",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Cararu, Eusébio",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7236312,
+				"lng": -38.488810899999976
+			},
+			"viewport": {
+				"south": -3.724980180291502,
+				"west": -38.490159880291515,
+				"north": -3.722282219708497,
+				"east": -38.487461919708494
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "09841595b2fcc1153c21596713712aa6a2b36dfa",
+		"name": "Parquinho Infantil",
+		"opening_hours": {
+			"open_now": true,
+			"weekday_text": []
+		},
+		"place_id": "ChIJ2SfQInRIxwcR9SxfIxYUgRo",
+		"rating": 5,
+		"reference": "CmRRAAAAUiNi39mhGjNnHQ7EhBQ8Q82IoOo1mgXgFcca3aldEDkXuJD9ZE8eyIopUW9RbIld2-oUOpowesDFiM8Ly5-KoJ1e4yqzyOWp4Pfs9Aoyle_VJMowFa9hhVgRwGcYXLWUEhCeaGrIPygL96a4RYrzyku4GhSAF_enjnpdBMzBhzYyJHpkMk4kfw",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "Avenida Beira Mar, 3636 - Meireles, Fortaleza",
+		"html_attributions": []
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": -3.7318616,
+				"lng": -38.5266704
+			},
+			"viewport": {
+				"south": -3.733210580291503,
+				"west": -38.52801938029148,
+				"north": -3.730512619708498,
+				"east": -38.52532141970846
+			}
+		},
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"id": "8ea7e4a5172ab42dac7555f1e864cbbbd82fb620",
+		"name": "Parque Aquatico",
+		"place_id": "ChIJ3_7y0VRIxwcRqv7rwEPbdAA",
+		"rating": 5,
+		"reference": "ClRQAAAAFcPgJYXcUE1aEWzSbE0aqGDbp9_1O6I6-5u_kl1MTDwX6IxIsfd65t9hbIu3_v5H7EotMAXyLhC2Yz1o1rvF6m4CnWy0j7K4g8bndAteHYISEPdY_l6dsRLIt3O9MzBTFFcaFEQVnsW95spctB4lMcqB06mQQmgO",
+		"scope": "GOOGLE",
+		"types": [
+			"amusement_park",
+			"point_of_interest",
+			"establishment"
+		],
+		"vicinity": "CE",
+		"html_attributions": []
+	}
+]
